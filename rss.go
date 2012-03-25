@@ -4,6 +4,7 @@ Simple RSS parser, tested with Wordpress feeds.
 package rss
 
 import (
+	"bytes"
 	"encoding/xml"
 	"net/http"
 	"time"
@@ -57,10 +58,15 @@ func Read(url string) (feed *Feed, err error) {
 		return nil, err
 	}
 	defer response.Body.Close()
+	var buf bytes.Buffer
+	_, err = buf.ReadFrom(response.Body)
+	if err != nil {
+		return nil, err
+	}
 	var rss struct {
 		Channel Feed
 	}
-	err = xml.Unmarshal(response.Body, &rss)
+	err = xml.Unmarshal(buf.Bytes(), &rss)
 	if err != nil {
 		return nil, err
 	}
