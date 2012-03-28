@@ -4,71 +4,85 @@ Simple RSS parser, tested with Wordpress feeds.
 package rss
 
 import (
-	"bytes"
 	"encoding/xml"
+	"fmt"
+	"io/ioutil"
 	"net/http"
 	"time"
 )
 
-type Feed struct {
-	Title       string
-	Link        string
-	Description string
-	Language    string
-	Item        []Item
+type Channel struct {
+	Title         string `xml:"title"`
+	Link          string `xml:"link"`
+	Description   string `xml:"description"`
+	Language      string `xml:"language"`
+	LastBuildDate Date   `xml:"lastBuildDate"`
+	Item          []Item `xml:"item"`
+}
+
+type ItemEnclosure struct {
+	URL  string `xml:"url,attr"`
+	Type string `xml:"type,attr"`
 }
 
 type Item struct {
-	Title       string
-	Link        string
-	PubDate     string
-	Description string
-	Enclosure   struct {
-		URL string `xml:"attr"`
-	}
+	Title       string        `xml:"title"`
+	Link        string        `xml:"link"`
+	Comments    string        `xml:"comments"`
+	PubDate     Date          `xml:"pubDate"`
+	GUID        string        `xml:"guid"`
+	Category    []string      `xml:"category"`
+	Enclosure   ItemEnclosure `xml:"enclosure"`
+	Description string        `xml:"description"`
+	Content     string        `xml:"content"`
 }
 
-func (self *Item) ParsePubDate() (time.Time, error) {
-	t, err := time.Parse("Mon, 02 Jan 2006 15:04:05 -0700", self.PubDate) // Wordpress format
+type Date string
+
+func (self Date) Parse() (time.Time, error) {
+	t, err := time.Parse("Mon, 02 Jan 2006 15:04:05 -0700", string(self)) // Wordpress format
 	if err != nil {
-		t, err = time.Parse(time.RFC822, self.PubDate) // RSS 2.0 spec
+		t, err = time.Parse(time.RFC822, string(self)) // RSS 2.0 spec
 	}
 	return t, err
 }
 
-func (self *Item) FormatPubDate(format string) (string, error) {
-	t, err := self.ParsePubDate()
+func (self Date) Format(format string) (string, error) {
+	t, err := self.Parse()
 	if err != nil {
 		return "", err
 	}
 	return t.Format(format), nil
 }
 
-func (self *Item) MustFormatPubDate(format string) string {
-	s, err := self.FormatPubDate(format)
+func (self Date) MustFormat(format string) string {
+	s, err := self.Format(format)
 	if err != nil {
 		return err.Error()
 	}
 	return s
 }
 
-func Read(url string) (feed *Feed, err error) {
+func Read(url string) (*Channel, error) {
 	response, err := http.Get(url)
 	if err != nil {
 		return nil, err
 	}
+
 	defer response.Body.Close()
-	var buf bytes.Buffer
-	_, err = buf.ReadFrom(response.Body)
+	text, err := ioutil.ReadAll(response.Body)
 	if err != nil {
 		return nil, err
 	}
+	fmt.Println(string(text))
+
 	var rss struct {
-		Channel Feed
+		Channel Channel `xml:"channel"`
 	}
-	err = xml.Unmarshal(buf.Bytes(), &rss)
+	err = xml.Unmarshal(text, &rss)
 	if err != nil {
 		return nil, err
 	}
+
 	return &rss.Channel, nil
 }
