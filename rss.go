@@ -5,7 +5,6 @@ package rss
 
 import (
 	"encoding/xml"
-	"fmt"
 	"io/ioutil"
 	"net/http"
 	"time"
@@ -74,7 +73,6 @@ func Read(url string) (*Channel, error) {
 	if err != nil {
 		return nil, err
 	}
-	fmt.Println(string(text))
 
 	var rss struct {
 		Channel Channel `xml:"channel"`
