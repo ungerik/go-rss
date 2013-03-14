@@ -9,7 +9,7 @@ import (
 	"time"
 	
 	"code.google.com/p/go-charset/charset"
-	import _ "code.google.com/p/go-charset/data"
+	_ "code.google.com/p/go-charset/data"
 )
 
 type Channel struct {
