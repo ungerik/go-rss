@@ -5,9 +5,11 @@ package rss
 
 import (
 	"encoding/xml"
-	"io/ioutil"
 	"net/http"
 	"time"
+	
+	"code.google.com/p/go-charset/charset"
+	_ "code.google.com/p/go-charset/data"
 )
 
 type Channel struct {
@@ -39,7 +41,8 @@ type Item struct {
 type Date string
 
 func (self Date) Parse() (time.Time, error) {
-	t, err := time.Parse("Mon, 02 Jan 2006 15:04:05 -0700", string(self)) // Wordpress format
+	// Wordpress format
+	t, err := time.Parse("Mon, 02 Jan 2006 15:04:05 -0700", string(self)) 
 	if err != nil {
 		t, err = time.Parse(time.RFC822, string(self)) // RSS 2.0 spec
 	}
@@ -67,20 +70,16 @@ func Read(url string) (*Channel, error) {
 	if err != nil {
 		return nil, err
 	}
-
 	defer response.Body.Close()
-	text, err := ioutil.ReadAll(response.Body)
-	if err != nil {
-		return nil, err
-	}
+	xmlDecoder := xml.NewDecoder(response.Body)
+	xmlDecoder.CharsetReader = charset.NewReader
 
 	var rss struct {
 		Channel Channel `xml:"channel"`
 	}
-	err = xml.Unmarshal(text, &rss)
+	err = xmlDecoder.Decode(&rss)
 	if err != nil {
 		return nil, err
 	}
-
 	return &rss.Channel, nil
 }
