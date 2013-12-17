@@ -7,7 +7,7 @@ import (
 	"encoding/xml"
 	"net/http"
 	"time"
-	
+
 	"code.google.com/p/go-charset/charset"
 	_ "code.google.com/p/go-charset/data"
 )
@@ -26,9 +26,16 @@ type ItemEnclosure struct {
 	Type string `xml:"type,attr"`
 }
 
+type AtomLink struct {
+	Href string `xml:"href,attr"`
+	Rel  string `xml:"rel,attr"`
+	Type string `xml:"type,attr"`
+}
+
 type Item struct {
 	Title       string        `xml:"title"`
 	Link        string        `xml:"link"`
+	AtomLink    AtomLink      `xml:"http://www.w3.org/2005/Atom/ link"`
 	Comments    string        `xml:"comments"`
 	PubDate     Date          `xml:"pubDate"`
 	GUID        string        `xml:"guid"`
@@ -42,7 +49,7 @@ type Date string
 
 func (self Date) Parse() (time.Time, error) {
 	// Wordpress format
-	t, err := time.Parse("Mon, 02 Jan 2006 15:04:05 -0700", string(self)) 
+	t, err := time.Parse("Mon, 02 Jan 2006 15:04:05 -0700", string(self))
 	if err != nil {
 		t, err = time.Parse(time.RFC822, string(self)) // RSS 2.0 spec
 	}
