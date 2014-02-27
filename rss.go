@@ -73,7 +73,11 @@ func (self Date) MustFormat(format string) string {
 }
 
 func Read(url string) (*Channel, error) {
-	response, err := http.Get(url)
+	return ReadWithClient(url, http.DefaultClient)
+}
+
+func ReadWithClient(url string, client *http.Client) (*Channel, error) {
+	response, err := client.Get(url)
 	if err != nil {
 		return nil, err
 	}
@@ -84,8 +88,7 @@ func Read(url string) (*Channel, error) {
 	var rss struct {
 		Channel Channel `xml:"channel"`
 	}
-	err = xmlDecoder.Decode(&rss)
-	if err != nil {
+	if err = xmlDecoder.Decode(&rss); err != nil {
 		return nil, err
 	}
 	return &rss.Channel, nil
