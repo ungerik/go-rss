@@ -12,6 +12,10 @@ import (
 	_ "code.google.com/p/go-charset/data"
 )
 
+type Fetcher interface {
+	Get(url string) (resp *http.Response, err error)
+}
+
 type Channel struct {
 	Title         string `xml:"title"`
 	Link          string `xml:"link"`
@@ -76,7 +80,7 @@ func Read(url string) (*Channel, error) {
 	return ReadWithClient(url, http.DefaultClient)
 }
 
-func ReadWithClient(url string, client *http.Client) (*Channel, error) {
+func ReadWithClient(url string, client Fetcher) (*Channel, error) {
 	response, err := client.Get(url)
 	if err != nil {
 		return nil, err
