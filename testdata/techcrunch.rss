@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+
+<channel>
+	<title>TechCrunch » Europe</title>
+	
+	<link>http://techcrunch.com</link>
+	<description>Startup and Technology News</description>
+	<lastBuildDate>Thu, 27 Feb 2014 23:38:19 +0000</lastBuildDate>
+	<language>en</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain="techcrunch.com" port="80" path="/?rsscloud=notify" registerProcedure="" protocol="http-post" />
+<image>
+		<url>http://1.gravatar.com/blavatar/d9ea925a71f82f06a1e6224298f7fe80?s=96&amp;d=http%3A%2F%2Fs2.wp.com%2Fi%2Fbuttonw-com.png</url>
+		<title> » Europe</title>
+		<link>http://techcrunch.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="http://techcrunch.com/osd.xml" title="TechCrunch" />
+	
+	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/techcrunch/europe" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="techcrunch/europe" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://techcrunch.com/?pushpress=hub" /><item>
+		<title>WePopp Adds Restaurant Booking Via OpenTable</title>
+		<link>http://techcrunch.com/2014/02/27/le-restaurant/?ncid=rss</link>
+		<comments>http://techcrunch.com/2014/02/27/le-restaurant/#comments</comments>
+		<pubDate>Thu, 27 Feb 2014 11:22:27 +0000</pubDate>
+		<dc:creator><![CDATA[Steve O&#039;Hear]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[WePopp]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=964282</guid>
+		<description><![CDATA[WePopp, an iOS and Android app to help you plan events with friends, is extending its monetisation strategy today via a partnership with restaurant booking engine OpenTable. The new integration adds the ability to book a restaurant without leaving the app, whilst it also means that the French startup is leaving less money on the table, too. <a href="http://techcrunch.com/2014/02/27/le-restaurant/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2014/02/27/le-restaurant/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/unnamed-9.png" type="image/png" medium="image"><media:title type="html">WePopp%20Adds%20Restaurant%20Booking%20Via%26nbsp%3BOpenTable</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/unnamed-9.png?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/unnamed-9.png?w=150" medium="image">
+			<media:title type="html">WePopp</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/95b8a6df6d265cf57a4d89ee4856ea98?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">Steve O'Hear</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Google Moves In On Publishing, Launches Global Exchange With Time Inc. To Merge Ad Sales In The U.S. And UK</title>
+		<link>http://techcrunch.com/2014/02/26/google-moves-in-on-publishing-launches-global-exchange-with-time-inc-to-merge-ad-sales-in-the-u-s-and-uk/?ncid=rss</link>
+		<comments>http://techcrunch.com/2014/02/26/google-moves-in-on-publishing-launches-global-exchange-with-time-inc-to-merge-ad-sales-in-the-u-s-and-uk/#comments</comments>
+		<pubDate>Wed, 26 Feb 2014 17:09:59 +0000</pubDate>
+		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
+				<category><![CDATA[Advertising Tech]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Time Inc.]]></category>
+		<category><![CDATA[ad exchange]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=964265</guid>
+		<description><![CDATA[A big move today for Google in its bid to play a larger role in how publishers sell online advertising. Today it has announced the launch of the Time Inc. Global Exchange, a new ad exchange, powered by DoubleClick, that will let advertisers buy ad placements across not just Time's online publications in the U.S. but in other countries, too, and across multiple platforms (mainly desktop and&hellip; <a href="http://techcrunch.com/2014/02/26/google-moves-in-on-publishing-launches-global-exchange-with-time-inc-to-merge-ad-sales-in-the-u-s-and-uk/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2014/02/26/google-moves-in-on-publishing-launches-global-exchange-with-time-inc-to-merge-ad-sales-in-the-u-s-and-uk/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/nme-brand-image.jpg" type="image/jpeg" medium="image"><media:title type="html">Google%20Moves%20In%20On%20Publishing%2C%20Launches%20Global%20Exchange%20With%20Time%20Inc.%20To%20Merge%20Ad%20Sales%20In%20The%20U.S.%20And%26nbsp%3BUK</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/nme-brand-image.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/nme-brand-image.jpg?w=150" medium="image">
+			<media:title type="html">NME-brand-image</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/6648ec93043f0f368091adece63c6d52?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">ingridlunden</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Tradeshift Secures $75M To Expand Its Invoicing Platform Globally</title>
+		<link>http://techcrunch.com/2014/02/26/tradeshift-secures-75m-to-expand-its-invoicing-platform-globally/?ncid=rss</link>
+		<comments>http://techcrunch.com/2014/02/26/tradeshift-secures-75m-to-expand-its-invoicing-platform-globally/#comments</comments>
+		<pubDate>Wed, 26 Feb 2014 15:58:20 +0000</pubDate>
+		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
+				<category><![CDATA[Europe]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[tradeshift]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=964239</guid>
+		<description><![CDATA[Tradeshift, the SF-based enterprise invoicing startup that originally emerged from Copenhagen, has now closed $75 million in Series C growth funding from Singapore’s Scentan Ventures. The company will use the new funds for global expansion, including developing and growing a new partnership with Scentan, initially in Japan. Tradeshift will also open offices in Tokyo. Tradeshift has raised $112&hellip; <a href="http://techcrunch.com/2014/02/26/tradeshift-secures-75m-to-expand-its-invoicing-platform-globally/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2014/02/26/tradeshift-secures-75m-to-expand-its-invoicing-platform-globally/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/tradeshift.jpg" type="image/jpeg" medium="image"><media:title type="html">Tradeshift%20Secures%20%2475M%20To%20Expand%20Its%20Invoicing%20Platform%26nbsp%3BGlobally</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/tradeshift.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/tradeshift.jpg?w=150" medium="image">
+			<media:title type="html">Tradeshift</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/ef4a4ab87c72738ed187e21de55b2fc6?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">mike-butcher</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>A Closer Look At Blackphone, The Android Smartphone That Simplifies Privacy</title>
+		<link>http://techcrunch.com/2014/02/26/close-look-at-blackphone/?ncid=rss</link>
+		<comments>http://techcrunch.com/2014/02/26/close-look-at-blackphone/#comments</comments>
+		<pubDate>Wed, 26 Feb 2014 14:26:06 +0000</pubDate>
+		<dc:creator><![CDATA[Natasha Lomas]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Blackphone]]></category>
+		<category><![CDATA[geeksphone]]></category>
+		<category><![CDATA[silent circle]]></category>
+		<category><![CDATA[spideroak]]></category>
+		<category><![CDATA[Disconnect]]></category>
+		<category><![CDATA[kismet]]></category>
+		<category><![CDATA[mwc14]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=963788</guid>
+		<description><![CDATA[One of the more interesting devices here at Mobile World Congress is Blackphone: a pro-privacy handset being developed by Spanish startup Geeksphone, in partnership with U.S. security company Silent Circle using a “security-oriented” Android build called PrivatOS. <a href="http://techcrunch.com/2014/02/26/close-look-at-blackphone/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2014/02/26/close-look-at-blackphone/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/p1020512.jpg" type="image/jpeg" medium="image"><media:title type="html">A%20Closer%20Look%20At%20Blackphone%2C%20The%20Android%20Smartphone%20That%20Simplifies%26nbsp%3BPrivacy</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/p1020512.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/p1020512.jpg?w=150" medium="image">
+			<media:title type="html">Blackphone</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/68a02f90ad0a6349a7b852ddce6f93e4?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">nelomas</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/javier-geeksphone.jpg?w=680" medium="image">
+			<media:title type="html">javier-geeksphone</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/p1020507.jpg?w=680" medium="image">
+			<media:title type="html">blackphone</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/p1020514.jpg?w=680" medium="image">
+			<media:title type="html">Disconnect</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/p1020521.jpg?w=680" medium="image">
+			<media:title type="html">Blackphone security centre</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/p1020524.jpg?w=680" medium="image">
+			<media:title type="html">P1020524</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Current.ly Is An App That Makes Twitter Trending Topics Suck Less</title>
+		<link>http://techcrunch.com/2014/02/25/current-ly-is-an-app-that-makes-twitter-trending-topics-suck-less/?ncid=rss</link>
+		<comments>http://techcrunch.com/2014/02/25/current-ly-is-an-app-that-makes-twitter-trending-topics-suck-less/#comments</comments>
+		<pubDate>Tue, 25 Feb 2014 17:00:58 +0000</pubDate>
+		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Current.ly]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=963489</guid>
+		<description><![CDATA[Meet Current.ly, the app that resurfaces interesting content on Twitter. It works a lot like Twitter&#8217;s own trending topics, but better. The startup tries to show more interesting content. It&#8217;s a visually compelling laid-back Twitter experience to keep track of the major events happening right now. &#8220;Twitter&#8217;s trending algorithm on Twitter tends to have a lot of chitchat. For&hellip; <a href="http://techcrunch.com/2014/02/25/current-ly-is-an-app-that-makes-twitter-trending-topics-suck-less/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2014/02/25/current-ly-is-an-app-that-makes-twitter-trending-topics-suck-less/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/current-ly.jpg" type="image/jpeg" medium="image"><media:title type="html">Current.ly%20Is%20An%20App%20That%20Makes%20Twitter%20Trending%20Topics%20Suck%26nbsp%3BLess</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/current-ly.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/current-ly.jpg?w=150" medium="image">
+			<media:title type="html">Current.ly</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/2e71de62bf8a99d74a58f1546494fe82?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">romaindillet</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/current-ly-screenshots.jpg" medium="image">
+			<media:title type="html">Current.ly Screenshots</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/trends.jpg" medium="image">
+			<media:title type="html">trends</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Microsoft Is Interested In Buying Stake In Dailymotion</title>
+		<link>http://techcrunch.com/2014/02/25/microsoft-is-interested-in-buying-stake-in-dailymotion/?ncid=rss</link>
+		<comments>http://techcrunch.com/2014/02/25/microsoft-is-interested-in-buying-stake-in-dailymotion/#comments</comments>
+		<pubDate>Tue, 25 Feb 2014 13:18:01 +0000</pubDate>
+		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
+				<category><![CDATA[Europe]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[DailyMotion]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Orange]]></category>
+		<category><![CDATA[France Newsletter]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=963400</guid>
+		<description><![CDATA[Orange CEO Stéphane Richard talked with BFM Business at the Mobile World Congress about Dailymotion &#8212; as a reminder, the YouTube competitor is fully owned by Orange. The French telecom company would retain a majority stake. &#8220;We are still talking with a major American partner in particular,&#8221; Richard said. Then he dropped the name of this potential partner. &#8220;With Microsoft&hellip; <a href="http://techcrunch.com/2014/02/25/microsoft-is-interested-in-buying-stake-in-dailymotion/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2014/02/25/microsoft-is-interested-in-buying-stake-in-dailymotion/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/10/3118408862_58810f240e_o.jpg" type="image/jpeg" medium="image"><media:title type="html">Microsoft%20Is%20Interested%20In%20Buying%20Stake%20In%26nbsp%3BDailymotion</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/10/3118408862_58810f240e_o.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/10/3118408862_58810f240e_o.jpg?w=150" medium="image">
+			<media:title type="html">3118408862_58810f240e_o</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/2e71de62bf8a99d74a58f1546494fe82?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">romaindillet</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Bye, Bye Demo Day — Ignite100 Evolves Accelerator Model After Raising £700K To Run Three New Programs</title>
+		<link>http://techcrunch.com/2014/02/25/bye-bye-demo-day/?ncid=rss</link>
+		<comments>http://techcrunch.com/2014/02/25/bye-bye-demo-day/#comments</comments>
+		<pubDate>Tue, 25 Feb 2014 12:20:00 +0000</pubDate>
+		<dc:creator><![CDATA[Steve O&#039;Hear]]></dc:creator>
+				<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Fundings & Exits]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[ignite100]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=962641</guid>
+		<description><![CDATA[Along with funding to enable it to run three new programs, UK accelerator Ignite100 is taking the opportunity to iterate the Y Combinator/Techstars model from which it originally took inspiration. Namely it's extending the length of each program to 4 months, enabling cohorts to overlap their stay by a month, and -- perhaps controversially -- ditching Demo Day. <a href="http://techcrunch.com/2014/02/25/bye-bye-demo-day/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2014/02/25/bye-bye-demo-day/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/ignite-2013-alumni.jpg" type="image/jpeg" medium="image"><media:title type="html">Bye%2C%20Bye%20Demo%20Day%20%26%238212%3B%20Ignite100%20Evolves%20Accelerator%20Model%20After%20Raising%20%C2%A3700K%20To%20Run%20Three%20New%26nbsp%3BPrograms</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/ignite-2013-alumni.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/ignite-2013-alumni.jpg?w=150" medium="image">
+			<media:title type="html">Ignite 2013 alumni</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/95b8a6df6d265cf57a4d89ee4856ea98?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">Steve O'Hear</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Lydia Is A Fee-Free Payment App That’s Like Venmo For France</title>
+		<link>http://techcrunch.com/2014/02/24/lydia-is-a-fee-free-payment-app-thats-like-venmo-for-france/?ncid=rss</link>
+		<comments>http://techcrunch.com/2014/02/24/lydia-is-a-fee-free-payment-app-thats-like-venmo-for-france/#comments</comments>
+		<pubDate>Mon, 24 Feb 2014 16:09:49 +0000</pubDate>
+		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Lydia]]></category>
+		<category><![CDATA[Venmo]]></category>
+		<category><![CDATA[France Newsletter]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=962656</guid>
+		<description><![CDATA[French startup Lydia looks and acts a lot like Venmo -- and it's not a bad thing. Venmo is a great way to pay back your friends in a few taps without having to pay any fee. But its main issue is that it only works in the U.S. This is where Lydia comes into play. <a href="http://techcrunch.com/2014/02/24/lydia-is-a-fee-free-payment-app-thats-like-venmo-for-france/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2014/02/24/lydia-is-a-fee-free-payment-app-thats-like-venmo-for-france/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/lydia.jpg" type="image/jpeg" medium="image"><media:title type="html">Lydia%20Is%20A%20Fee-Free%20Payment%20App%20That%26%238217%3Bs%20Like%20Venmo%20For%26nbsp%3BFrance</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/lydia.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/lydia.jpg?w=150" medium="image">
+			<media:title type="html">Lydia</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/2e71de62bf8a99d74a58f1546494fe82?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">romaindillet</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Nokia’s Mobile UI Mixology Serves Up A Hybrid Family Of Devices To Outshine Budget ‘Droids</title>
+		<link>http://techcrunch.com/2014/02/24/nokia-x-hands-on/?ncid=rss</link>
+		<comments>http://techcrunch.com/2014/02/24/nokia-x-hands-on/#comments</comments>
+		<pubDate>Mon, 24 Feb 2014 11:48:15 +0000</pubDate>
+		<dc:creator><![CDATA[Natasha Lomas]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Nokia X]]></category>
+		<category><![CDATA[mwc14]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=962454</guid>
+		<description><![CDATA[TechCrunch got hands on with the Nokia X family this morning -- the line up of forked Android phones freshly unveiled by Nokia at its press conference today. The first three handsets in the new family are the four-inch Nokia X and X+, and the five-inch Nokia XL. <a href="http://techcrunch.com/2014/02/24/nokia-x-hands-on/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2014/02/24/nokia-x-hands-on/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/nokia-x-main1.jpg" type="image/jpeg" medium="image"><media:title type="html">Nokia%26%238217%3Bs%20Mobile%20UI%20Mixology%20Serves%20Up%20A%20Hybrid%20Family%20Of%20Devices%20To%20Outshine%20Budget%26nbsp%3B%26%238216%3BDroids</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/nokia-x-main1.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/nokia-x-main1.jpg?w=150" medium="image">
+			<media:title type="html">nokia-x-main</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/68a02f90ad0a6349a7b852ddce6f93e4?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">nelomas</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/nokia-x-side1.jpg?w=150" medium="image">
+			<media:title type="html">nokia-x-side</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/nokia-x-onedrive1.jpg?w=150" medium="image">
+			<media:title type="html">nokia-x-onedrive</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/nokia-x-keyboard1.jpg?w=150" medium="image">
+			<media:title type="html">nokia-x-keyboard</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/nokia-x-case1.jpg?w=150" medium="image">
+			<media:title type="html">nokia-x-case</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/nokia-x-back1.jpg?w=150" medium="image">
+			<media:title type="html">nokia-x-back</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/nokia-x-app-store1.jpg?w=150" medium="image">
+			<media:title type="html">nokia-x-app-store</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/nokia-lower-menu1.jpg?w=150" medium="image">
+			<media:title type="html">nokia-lower-menu</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/nokia-x-android-apps1.jpg?w=150" medium="image">
+			<media:title type="html">nokia-x-android-apps</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/nokia-x-apps-close1.jpg?w=150" medium="image">
+			<media:title type="html">nokia-x-apps-close</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/nokia-x-notification-lockscreen1.jpg?w=150" medium="image">
+			<media:title type="html">nokia-x-notification-lockscreen</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/nokia-xl-fastlane-main1.jpg?w=150" medium="image">
+			<media:title type="html">nokia-xl-fastlane-main</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/nokia-x-xl1.jpg?w=150" medium="image">
+			<media:title type="html">nokia-x-xl</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/nokia-xl-back1.jpg?w=150" medium="image">
+			<media:title type="html">nokia-xl-back</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/nokia-xl-calendar1.jpg?w=150" medium="image">
+			<media:title type="html">nokia-xl-calendar</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/nokia-xl-hands-on1.jpg?w=150" medium="image">
+			<media:title type="html">nokia-xl-hands-on</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/nokia-xl-keyboard1.jpg?w=150" medium="image">
+			<media:title type="html">nokia-xl-keyboard</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/nokia-xl-main1.jpg?w=150" medium="image">
+			<media:title type="html">nokia-xl-main</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/nokia-xl-side1.jpg?w=150" medium="image">
+			<media:title type="html">nokia-xl-side</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/nokia-x-hybrid11.jpg?w=150" medium="image">
+			<media:title type="html">nokia-x-hybrid1</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/nokia-x-apps-close1.jpg?w=150" medium="image">
+			<media:title type="html">nokia-x-apps-close</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/mwc14-event.jpg" medium="image" />
+	</item>
+		<item>
+		<title>Nokia’s Forking Of Android Could Benefit Google</title>
+		<link>http://techcrunch.com/2014/02/24/nandroid/?ncid=rss</link>
+		<comments>http://techcrunch.com/2014/02/24/nandroid/#comments</comments>
+		<pubDate>Mon, 24 Feb 2014 11:32:38 +0000</pubDate>
+		<dc:creator><![CDATA[Steve O&#039;Hear]]></dc:creator>
+				<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Nokia]]></category>
+		<category><![CDATA[Nokia X]]></category>
+		<category><![CDATA[Android]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=961026</guid>
+		<description><![CDATA[Back in October last year, I first heard rumblings that Nokia was working on an Android handset. "Devs rumor but rather solid, not confirmed by eye," said my source. Not long afterwards, others began to report similar rumours. However, at the time it remained unclear if this was simply the remnants of an existing skunkworks project or something more significant. <a href="http://techcrunch.com/2014/02/24/nandroid/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2014/02/24/nandroid/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/1200-nokia-x-unveil_nokia-press-conference-24th-february-2014-24.jpg" type="image/jpeg" medium="image"><media:title type="html">Nokia%26%238217%3Bs%20Forking%20Of%20Android%20Could%20Benefit%26nbsp%3BGoogle</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/1200-nokia-x-unveil_nokia-press-conference-24th-february-2014-24.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/1200-nokia-x-unveil_nokia-press-conference-24th-february-2014-24.jpg?w=150" medium="image">
+			<media:title type="html">Nokia android</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/95b8a6df6d265cf57a4d89ee4856ea98?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">Steve O'Hear</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Nokia Forks Android In Mobile Services Push — $122 Nokia X Will Also Be Lumia “Feeder”</title>
+		<link>http://techcrunch.com/2014/02/23/nokia-x/?ncid=rss</link>
+		<comments>http://techcrunch.com/2014/02/23/nokia-x/#comments</comments>
+		<pubDate>Mon, 24 Feb 2014 07:49:40 +0000</pubDate>
+		<dc:creator><![CDATA[Natasha Lomas]]></dc:creator>
+				<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Nokia]]></category>
+		<category><![CDATA[Nokia X]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[windows phone]]></category>
+		<category><![CDATA[mwc14]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=959209</guid>
+		<description><![CDATA[More proof, if proof were needed, that Android won the smartphone OS wars: Nokia, the former world No.1 smartphone maker and, nowadays, the primary OEM for Microsoft&#8217;s third-placed Windows Phone platform has just announced a new family of smartphones built upon the Android Open Source Project &#8212; confirming a slew of earlier rumours that Nokia was cooking up an Android device strategy.&hellip; <a href="http://techcrunch.com/2014/02/23/nokia-x/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2014/02/23/nokia-x/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/nokia-x-sm.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/nokia-x-sm.jpg?w=150" medium="image">
+			<media:title type="html">nokia-x-sm</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/68a02f90ad0a6349a7b852ddce6f93e4?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">nelomas</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/nokia_x_front_yellow_home.jpg" medium="image">
+			<media:title type="html">Nokia_X_Front_Yellow_Home</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/screen-shot-2014-02-23-at-5-02-58-pm.png" medium="image">
+			<media:title type="html">nokia-x</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/nokia_x_front_red_skype.jpg" medium="image">
+			<media:title type="html">Nokia_X_Front_Red_Skype</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/nokia_x_front_green_fastlane.jpg" medium="image">
+			<media:title type="html">Nokia_X_Front_Green_Fastlane</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/mwc14-event.jpg" medium="image" />
+	</item>
+		<item>
+		<title>Next-Gen YotaPhone Follow-Up Unveiled, With Full-Touch E-Ink Rear Screen</title>
+		<link>http://techcrunch.com/2014/02/23/next-gen-yotaphone/?ncid=rss</link>
+		<comments>http://techcrunch.com/2014/02/23/next-gen-yotaphone/#comments</comments>
+		<pubDate>Mon, 24 Feb 2014 06:00:46 +0000</pubDate>
+		<dc:creator><![CDATA[Natasha Lomas]]></dc:creator>
+				<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[yotaphone]]></category>
+		<category><![CDATA[yota devices]]></category>
+		<category><![CDATA[E Ink]]></category>
+		<category><![CDATA[mwc14]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=960660</guid>
+		<description><![CDATA[Russian mobile-making startup Yota Devices has just unveiled the next generation of its dual-screen smartphone, the YotaPhone. As with the current first-gen model, which went on sale in Russia and select European markets last December, the handset's flagship feature is that it's two-sided, with a full colour touchscreen display on the front and a low-power consuming e-ink display on the rear. <a href="http://techcrunch.com/2014/02/23/next-gen-yotaphone/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2014/02/23/next-gen-yotaphone/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/yotaphone-main.jpg" type="image/jpeg" medium="image"><media:title type="html">Next-Gen%20YotaPhone%20Follow-Up%20Unveiled%2C%20With%20Full-Touch%20E-Ink%20Rear%26nbsp%3BScreen</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/yotaphone-main.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/yotaphone-main.jpg?w=150" medium="image">
+			<media:title type="html">yotaphone-main</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/68a02f90ad0a6349a7b852ddce6f93e4?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">nelomas</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/yotaphone_photo_5.jpg?w=640" medium="image">
+			<media:title type="html">yp</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/screen-shot-2014-02-20-at-1-45-46-pm.png?w=640" medium="image">
+			<media:title type="html">YotaPhone</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/yota-quantified.jpg?w=640" medium="image">
+			<media:title type="html">yota-quantified</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/yotaphone15.jpg?w=150" medium="image">
+			<media:title type="html">yotaphone15</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/yotaphone13.jpg?w=150" medium="image">
+			<media:title type="html">yotaphone13</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/yotaphone11.jpg?w=150" medium="image">
+			<media:title type="html">yotaphone11</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/yotaphone10.jpg?w=150" medium="image">
+			<media:title type="html">yotaphone10</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/yotaphone9.jpg?w=150" medium="image">
+			<media:title type="html">yotaphone9</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/yotaphone8.jpg?w=150" medium="image">
+			<media:title type="html">yotaphone8</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/yotaphone7.jpg?w=150" medium="image">
+			<media:title type="html">yotaphone7</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/yotaphone6.jpg?w=150" medium="image">
+			<media:title type="html">yotaphone6</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/yotaphone3.jpg?w=150" medium="image">
+			<media:title type="html">yotaphone3</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/yotaphone-2.jpg?w=150" medium="image">
+			<media:title type="html">yotaphone-2</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/12/yotaphone-02.jpg?w=640" medium="image">
+			<media:title type="html">yotaphone-02</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/screen-shot-2014-02-20-at-7-44-00-pm.png?w=640" medium="image">
+			<media:title type="html">next-gen-yp</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/screen-shot-2014-02-20-at-8-33-16-pm.png?w=225" medium="image">
+			<media:title type="html">yp</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/nextgenyota-firstgenyota.jpg" medium="image">
+			<media:title type="html">nextgenyota-firstgenyota</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/mwc14-event.jpg" medium="image" />
+	</item>
+		<item>
+		<title>Android Remains The Outsized Giant At 70% Of Smartphone Sales, Phablets And iPhone 5c Make Waves: Kantar</title>
+		<link>http://techcrunch.com/2014/02/23/kantar-smartphone-sales-android/?ncid=rss</link>
+		<comments>http://techcrunch.com/2014/02/23/kantar-smartphone-sales-android/#comments</comments>
+		<pubDate>Sun, 23 Feb 2014 23:00:28 +0000</pubDate>
+		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
+				<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[smartphones]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[kantar worldpanel]]></category>
+		<category><![CDATA[mwc14]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=962312</guid>
+		<description><![CDATA[When it comes to sales of smartphones, Android is the green giant that continues to tower over the competition. In the last three months that ended in January 2014, the Google-developed operating system accounted for around 70% of sales across 12 key markets, according to the latest figures from WPP market research division Kantar Worldpanel ComTech.  <a href="http://techcrunch.com/2014/02/23/kantar-smartphone-sales-android/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2014/02/23/kantar-smartphone-sales-android/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/giant-android.jpg" type="image/jpeg" medium="image"><media:title type="html">Android%20Remains%20The%20Outsized%20Giant%20At%2070%25%20Of%20Smartphone%20Sales%2C%20Phablets%20And%20iPhone%205c%20Make%20Waves%3A%26nbsp%3BKantar</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/giant-android.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/giant-android.jpg?w=150" medium="image">
+			<media:title type="html">giant android</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/6648ec93043f0f368091adece63c6d52?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">ingridlunden</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/screen-shot-2014-02-23-at-18-52-15.png" medium="image">
+			<media:title type="html">kantar worldpanel numbers</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/mwc14-event.jpg" medium="image" />
+	</item>
+		<item>
+		<title>We Heart Nokia, But “We’re Less Excited About” A Nokia Android Handset, Says Microsoft</title>
+		<link>http://techcrunch.com/2014/02/23/962260/?ncid=rss</link>
+		<comments>http://techcrunch.com/2014/02/23/962260/#comments</comments>
+		<pubDate>Sun, 23 Feb 2014 13:14:50 +0000</pubDate>
+		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
+				<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Nokia]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[normandy]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=962260</guid>
+		<description><![CDATA[Microsoft is in the advanced stages of closing its acquisition of Nokia's handset business, but in the meantime Nokia is  reportedly working on Android devices. How does Microsoft feel about that? "They'll do some things we’re excited about, and some things we're less excited about," said senior executive Joe Belfiore, to a room of chuckling journalists and analysts. <a href="http://techcrunch.com/2014/02/23/962260/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2014/02/23/962260/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/normandy.jpg" type="image/jpeg" medium="image"><media:title type="html">We%20Heart%20Nokia%2C%20But%20%26%238220%3BWe%26%238217%3Bre%20Less%20Excited%20About%26%238221%3B%20A%20Nokia%20Android%20Handset%2C%20Says%26nbsp%3BMicrosoft</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/normandy.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/normandy.jpg?w=150" medium="image">
+			<media:title type="html">'normandy'</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/6648ec93043f0f368091adece63c6d52?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">ingridlunden</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Balderton Capital Leads £1.3M Seed In UK Car Buying Platform Carwow</title>
+		<link>http://techcrunch.com/2014/02/23/carwow/?ncid=rss</link>
+		<comments>http://techcrunch.com/2014/02/23/carwow/#comments</comments>
+		<pubDate>Sun, 23 Feb 2014 13:10:53 +0000</pubDate>
+		<dc:creator><![CDATA[Steve O&#039;Hear]]></dc:creator>
+				<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Fundings & Exits]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Carwow]]></category>
+		<category><![CDATA[Balderton Capital]]></category>
+		<category><![CDATA[Episode 1 Ventures]]></category>
+		<category><![CDATA[Samos Investments]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=962233</guid>
+		<description><![CDATA[Despite saying it was ‘doubling down’ to become a ‘mainly Series A’ VC in Europe, Balderton Capital's latest investment is at the seed stage. The London-based VC has led a £1.3 million round in UK car buying platform carwow. <a href="http://techcrunch.com/2014/02/23/carwow/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2014/02/23/carwow/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/unnamed-8.png" type="image/png" medium="image"><media:title type="html">Balderton%20Capital%20Leads%20%C2%A31.3M%20Seed%20In%20UK%20Car%20Buying%20Platform%26nbsp%3BCarwow</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/unnamed-8.png?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/unnamed-8.png?w=150" medium="image">
+			<media:title type="html">unnamed-8</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/95b8a6df6d265cf57a4d89ee4856ea98?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">Steve O'Hear</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>“We Love Touch” But Windows 8.1 To Focus On Non-Touch; Windows Phone Eyes Wide-Ranging OEM Plan</title>
+		<link>http://techcrunch.com/2014/02/23/we-love-touch-but-windows-8-1-update-to-focus-on-non-touch-more-hardware-and-more-focus-on-education-and-enterprise/?ncid=rss</link>
+		<comments>http://techcrunch.com/2014/02/23/we-love-touch-but-windows-8-1-update-to-focus-on-non-touch-more-hardware-and-more-focus-on-education-and-enterprise/#comments</comments>
+		<pubDate>Sun, 23 Feb 2014 12:22:06 +0000</pubDate>
+		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
+				<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[windows phone]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[mwc14]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=962229</guid>
+		<description><![CDATA[Today at Mobile World Congress in Barcelona, Microsoft kicked off the action with a step that points to the company's ambitions to continue to press ahead with its multi-hardware strategy, and to do it without leaving too many legacy Windows users behind. Joe Belfiore, head of platform at Microsoft covering phones, tablets and PCs, confirmed that the Windows 8.1 update coming this spring will be&hellip; <a href="http://techcrunch.com/2014/02/23/we-love-touch-but-windows-8-1-update-to-focus-on-non-touch-more-hardware-and-more-focus-on-education-and-enterprise/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2014/02/23/we-love-touch-but-windows-8-1-update-to-focus-on-non-touch-more-hardware-and-more-focus-on-education-and-enterprise/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/p1020114.jpg" type="image/jpeg" medium="image"><media:title type="html">%26%238220%3BWe%20Love%20Touch%26%238221%3B%20But%20Windows%208.1%20To%20Focus%20On%20Non-Touch%3B%20Windows%20Phone%20Eyes%20Wide-Ranging%20OEM%26nbsp%3BPlan</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/p1020114.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/p1020114.jpg?w=150" medium="image">
+			<media:title type="html">joe belfiore</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/6648ec93043f0f368091adece63c6d52?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">ingridlunden</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/mwc14-event.jpg" medium="image" />
+	</item>
+		<item>
+		<title>Navigator Campus Hopes To Put Russian Hardware Startups On The Map</title>
+		<link>http://techcrunch.com/2014/02/21/navigator-campus-hopes-to-put-russian-hardware-startups-on-the-map/?ncid=rss</link>
+		<comments>http://techcrunch.com/2014/02/21/navigator-campus-hopes-to-put-russian-hardware-startups-on-the-map/#comments</comments>
+		<pubDate>Fri, 21 Feb 2014 21:37:32 +0000</pubDate>
+		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
+				<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[TC]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=961952</guid>
+		<description><![CDATA[With hardware suddenly all the rage, accelerators devoted entirely to the genre are popping up all over the place. And that includes the far-flung regions of Russia. The Navigator Campus will be the first private hardware technology park in Russia’s Kazan region. If you're unsure where that is, well, it's at the confluence of the Volga and Kazanka Rivers in European Russia. Ok, nevermind.&hellip; <a href="http://techcrunch.com/2014/02/21/navigator-campus-hopes-to-put-russian-hardware-startups-on-the-map/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2014/02/21/navigator-campus-hopes-to-put-russian-hardware-startups-on-the-map/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/screen-shot-2014-02-21-at-22-35-09.png" type="image/png" medium="image"><media:title type="html">Navigator%20Campus%20Hopes%20To%20Put%20Russian%20Hardware%20Startups%20On%20The%26nbsp%3BMap</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/screen-shot-2014-02-21-at-22-35-09.png?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/screen-shot-2014-02-21-at-22-35-09.png?w=150" medium="image">
+			<media:title type="html">Screen Shot 2014-02-21 at 22.35.09</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/ef4a4ab87c72738ed187e21de55b2fc6?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">mike-butcher</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Changers Raises $1.5M To Turn Charging Your Phone Via The Sun Into An Infectious Game</title>
+		<link>http://techcrunch.com/2014/02/21/changers-raises-1-5m-to-turn-charging-your-phone-via-the-sun-into-an-infectious-game/?ncid=rss</link>
+		<comments>http://techcrunch.com/2014/02/21/changers-raises-1-5m-to-turn-charging-your-phone-via-the-sun-into-an-infectious-game/#comments</comments>
+		<pubDate>Fri, 21 Feb 2014 21:27:25 +0000</pubDate>
+		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
+				<category><![CDATA[Europe]]></category>
+		<category><![CDATA[GreenTech]]></category>
+		<category><![CDATA[TC]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=961945</guid>
+		<description><![CDATA[Ever thought about what might happen if you got rewarded, not for a Foursquare check-in, but for generating electricity? Changers, a startup which allows people to turn the creation of solar power into a game which encourages green behaviour, has closed $1.5 million in Series A financing. German government-backed fund BFB Frühphasenfonds Brandenburg led the round, with participation from&hellip; <a href="http://techcrunch.com/2014/02/21/changers-raises-1-5m-to-turn-charging-your-phone-via-the-sun-into-an-infectious-game/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2014/02/21/changers-raises-1-5m-to-turn-charging-your-phone-via-the-sun-into-an-infectious-game/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/screen-shot-2014-02-21-at-22-20-58.png" type="image/png" medium="image"><media:title type="html">Changers%20Raises%20%241.5M%20To%20Turn%20Charging%20Your%20Phone%20Via%20The%20Sun%20Into%20An%20Infectious%26nbsp%3BGame</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/screen-shot-2014-02-21-at-22-20-58.png?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/screen-shot-2014-02-21-at-22-20-58.png?w=150" medium="image">
+			<media:title type="html">Screen Shot 2014-02-21 at 22.20.58</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/ef4a4ab87c72738ed187e21de55b2fc6?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">mike-butcher</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Bye Bye, WhatsApp: Germans Switch To Threema For Privacy Reasons</title>
+		<link>http://techcrunch.com/2014/02/21/bye-bye-whatsapp-germans-switch-to-threema-for-privacy-reasons/?ncid=rss</link>
+		<comments>http://techcrunch.com/2014/02/21/bye-bye-whatsapp-germans-switch-to-threema-for-privacy-reasons/#comments</comments>
+		<pubDate>Fri, 21 Feb 2014 20:21:58 +0000</pubDate>
+		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Threema]]></category>
+		<category><![CDATA[WhatsApp]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=961834</guid>
+		<description><![CDATA[Swiss startup Threema probably didn't expect this. In 24 hours, the startup has doubled its user base, according to Süddeutsche. It is now sitting at the top of the paid App Store chart in Germany. Interestingly, Threema's key feature is its true end-to-end encryption -- German users probably don't want to use a Facebook-owned app anymore. <a href="http://techcrunch.com/2014/02/21/bye-bye-whatsapp-germans-switch-to-threema-for-privacy-reasons/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2014/02/21/bye-bye-whatsapp-germans-switch-to-threema-for-privacy-reasons/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/threema.png" type="image/png" medium="image"><media:title type="html">Bye%20Bye%2C%20WhatsApp%3A%20Germans%20Switch%20To%20Threema%20For%20Privacy%26nbsp%3BReasons</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/threema.png?w=84" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/threema.png?w=84" medium="image">
+			<media:title type="html">Threema</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/2e71de62bf8a99d74a58f1546494fe82?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">romaindillet</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/screen-shot-2014-02-21-at-19-59-25.png" medium="image">
+			<media:title type="html">Screen Shot 2014-02-21 at 19.59.25</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/fb-whatsapp-banner1.png" medium="image" />
+	</item>
+		<item>
+		<title>Google Acquires Spider.io To Help Spot And Stop Online Ad Fraud</title>
+		<link>http://techcrunch.com/2014/02/21/google-acquires-spider-io-to-help-spot-and-stop-online-ad-fraud/?ncid=rss</link>
+		<comments>http://techcrunch.com/2014/02/21/google-acquires-spider-io-to-help-spot-and-stop-online-ad-fraud/#comments</comments>
+		<pubDate>Fri, 21 Feb 2014 12:55:56 +0000</pubDate>
+		<dc:creator><![CDATA[Darrell Etherington]]></dc:creator>
+				<category><![CDATA[Advertising Tech]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Fundings & Exits]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[TCUK]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Ads]]></category>
+		<category><![CDATA[Spider.io]]></category>
+		<category><![CDATA[malware]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=961592</guid>
+		<description><![CDATA[London-based Spider.io has been acquired by Google, the company&#8217;s DoubleClick advertising blog announced today (via Re/Code). Spider.io is a startup that specialized in weeding out fraudulent clicks around online ads. The three-year old company has tech that will help Google identify bad behavior around their content in video and display ads on the web, to help them get a more accurate&hellip; <a href="http://techcrunch.com/2014/02/21/google-acquires-spider-io-to-help-spot-and-stop-online-ad-fraud/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2014/02/21/google-acquires-spider-io-to-help-spot-and-stop-online-ad-fraud/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/spiderio-google-sm.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/spiderio-google-sm.jpg?w=150" medium="image">
+			<media:title type="html">spiderio-google-sm</media:title>
+		</media:content>
+
+		<media:content url="http://1.gravatar.com/avatar/188039e12983eb749171a75cfd01378d?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">etherin</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/screen-shot-2014-02-21-at-7-55-11-am.png" medium="image">
+			<media:title type="html">spider.io plus google</media:title>
+		</media:content>
+	</item>
+	</channel>
+</rss>

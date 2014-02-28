@@ -1,6 +1,6 @@
-/*
-Simple RSS parser, tested with Wordpress feeds.
-*/
+/**
+ * Simple RSS parser, tested with various feeds.
+ */
 package rss
 
 import (
@@ -10,6 +10,10 @@ import (
 
 	"code.google.com/p/go-charset/charset"
 	_ "code.google.com/p/go-charset/data"
+)
+
+const (
+	wordpressDateFormat = "Mon, 02 Jan 2006 15:04:05 -0700"
 )
 
 type Fetcher interface {
@@ -30,16 +34,9 @@ type ItemEnclosure struct {
 	Type string `xml:"type,attr"`
 }
 
-type AtomLink struct {
-	Href string `xml:"href,attr"`
-	Rel  string `xml:"rel,attr"`
-	Type string `xml:"type,attr"`
-}
-
 type Item struct {
 	Title       string        `xml:"title"`
 	Link        string        `xml:"link"`
-	AtomLink    AtomLink      `xml:"http://www.w3.org/2005/Atom/ link"`
 	Comments    string        `xml:"comments"`
 	PubDate     Date          `xml:"pubDate"`
 	GUID        string        `xml:"guid"`
@@ -52,12 +49,15 @@ type Item struct {
 type Date string
 
 func (self Date) Parse() (time.Time, error) {
-	// Wordpress format
-	t, err := time.Parse("Mon, 02 Jan 2006 15:04:05 -0700", string(self))
+	t, err := self.ParseWithFormat(wordpressDateFormat)
 	if err != nil {
-		t, err = time.Parse(time.RFC822, string(self)) // RSS 2.0 spec
+		t, err = self.ParseWithFormat(time.RFC822) // RSS 2.0 spec
 	}
 	return t, err
+}
+
+func (self Date) ParseWithFormat(format string) (time.Time, error) {
+	return time.Parse(format, string(self))
 }
 
 func (self Date) Format(format string) (string, error) {
