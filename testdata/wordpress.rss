@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title></title>
+	<atom:link href="http://rottenindenmark.wordpress.com/feed/" rel="self" type="application/rss+xml" />
+	<link>http://rottenindenmark.wordpress.com</link>
+	<description>Is this gentleman bothering you?</description>
+	<lastBuildDate>Thu, 27 Feb 2014 17:42:47 +0000</lastBuildDate>
+	<language>en</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='rottenindenmark.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>http://0.gravatar.com/blavatar/4ec3d17c0a8cdcc1402298b47dbee1f5?s=96&#038;d=http%3A%2F%2Fs2.wp.com%2Fi%2Fbuttonw-com.png</url>
+		<title></title>
+		<link>http://rottenindenmark.wordpress.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="http://rottenindenmark.wordpress.com/osd.xml" title="" />
+	<atom:link rel='hub' href='http://rottenindenmark.wordpress.com/?pushpress=hub'/>
+	<item>
+		<title>How to Write About Tax Havens</title>
+		<link>http://rottenindenmark.wordpress.com/2014/02/13/how-to-write-about-tax-havens/</link>
+		<comments>http://rottenindenmark.wordpress.com/2014/02/13/how-to-write-about-tax-havens/#comments</comments>
+		<pubDate>Thu, 13 Feb 2014 06:19:42 +0000</pubDate>
+		<dc:creator><![CDATA[Mike]]></dc:creator>
+				<category><![CDATA[Journalism]]></category>
+		<category><![CDATA[London]]></category>
+		<category><![CDATA[Personal]]></category>
+		<category><![CDATA[Serious]]></category>
+		<category><![CDATA[United Kingdom]]></category>
+		<category><![CDATA[Work]]></category>
+		<category><![CDATA[income inequality]]></category>
+		<category><![CDATA[london]]></category>
+		<category><![CDATA[real estate]]></category>
+		<category><![CDATA[tax evasion]]></category>
+
+		<guid isPermaLink="false">http://rottenindenmark.wordpress.com/?p=7301</guid>
+		<description><![CDATA[I interviewed my buddy Nic Shaxson for Longreads. Here&#8217;s a clip: Last year Shaxson published a Vanity Fair article, &#8216;A Tale of Two Londons,&#8217; that described the residents of one of London’s most exclusive addresses—One Hyde Park—and the accounting acrobatics they had &#8230; <a href="http://rottenindenmark.wordpress.com/2014/02/13/how-to-write-about-tax-havens/">Continue reading <span class="meta-nav">&#8594;</span></a><img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=rottenindenmark.wordpress.com&#038;blog=15624535&#038;post=7301&#038;subd=rottenindenmark&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p style="text-align:center;"><a href="http://rottenindenmark.files.wordpress.com/2014/02/tumblr_lu3ivwfo181qeg95lo1_500.jpg"><img class="aligncenter size-full wp-image-7303" alt="Cold Morning in a suburb of Torino, 1955 by Riccardo Moncalvo" src="http://rottenindenmark.files.wordpress.com/2014/02/tumblr_lu3ivwfo181qeg95lo1_500.jpg?w=500"   /></a></p>
+<p><em>I interviewed my buddy Nic Shaxson for<a href="http://blog.longreads.com/post/how-to-write-about-tax-havens-and-the-super-rich-an-interview-with-nicholas-shaxson/"> Longreads</a>. Here&#8217;s a clip:</em></p>
+<p>Last year Shaxson published a Vanity Fair article, &#8216;<a href="http://www.vanityfair.com/society/2013/04/mysterious-residents-one-hyde-park-london?src=longreads">A Tale of Two Londons</a>,&#8217; that described the residents of one of London’s most exclusive addresses—One Hyde Park—and the accounting acrobatics they had performed to get there.<span style="line-height:1.7;"> </span></p>
+<p>Here’s how it works: If you’re a Russian oil billionaire or a Nigerian bureaucro-baron and you want to hide some of your money from national taxes and local scrutiny, London real estate is a great place to stash it. All you need to do is establish a holding company, park it offshore and get a-buying. Here’s Shaxson:</p>
+<blockquote><p><em>These buyers use offshore companies for three big and related reasons: tax, secrecy, and “asset protection.” A property owned outright becomes subject to various British taxes, particularly capital-gains and taxes on transfers of ownership. But properties held through offshore companies can often avoid these taxes. According to London lawyers, the big reason for using these structures has been to avoid inheritance taxes. [...]</em></p>
+<p><em>But secrecy, for many, is at least as important: once a foreign investor has avoided British taxes, then offshore secrecy gives him the opportunity to avoid scrutiny from his own country’s tax—or criminal—authorities too. Others use offshore structures for “asset protection”—frequently, to avoid angry creditors. That seems to be the case with a company called Postlake Ltd.—registered on the Isle of Man—which owns a $5.6 million apartment on the fourth floor [of One Hyde Park].</em></p></blockquote>
+<p>Shaxson argues that this phenomenon has taken over the U.K. real estate market—extortionate penthouses for the ultrarich sitting empty while the rest of us outbid each other for the froth below.</p>
+<p><em><a href="http://blog.longreads.com/post/how-to-write-about-tax-havens-and-the-super-rich-an-interview-with-nicholas-shaxson/">Now go read the whole thing!</a></em></p><br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/rottenindenmark.wordpress.com/7301/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/rottenindenmark.wordpress.com/7301/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=rottenindenmark.wordpress.com&#038;blog=15624535&#038;post=7301&#038;subd=rottenindenmark&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://rottenindenmark.wordpress.com/2014/02/13/how-to-write-about-tax-havens/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/c35fd6249a1967812426f2821d7012e4?s=96&#38;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#38;r=R" medium="image">
+			<media:title type="html">specificshardlymatter</media:title>
+		</media:content>
+
+		<media:content url="http://rottenindenmark.files.wordpress.com/2014/02/tumblr_lu3ivwfo181qeg95lo1_500.jpg" medium="image">
+			<media:title type="html">Cold Morning in a suburb of Torino, 1955 by Riccardo Moncalvo</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Bleg: Anyone been to Bangladesh?</title>
+		<link>http://rottenindenmark.wordpress.com/2014/02/01/bleg-anyone-been-to-bangladesh/</link>
+		<comments>http://rottenindenmark.wordpress.com/2014/02/01/bleg-anyone-been-to-bangladesh/#comments</comments>
+		<pubDate>Sat, 01 Feb 2014 07:41:15 +0000</pubDate>
+		<dc:creator><![CDATA[Mike]]></dc:creator>
+				<category><![CDATA[Random]]></category>
+
+		<guid isPermaLink="false">http://rottenindenmark.wordpress.com/?p=7299</guid>
+		<description><![CDATA[I&#8217;m going to Dhaka for two weeks in March. Any suggestions on stuff to do, people and things to see?<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=rottenindenmark.wordpress.com&#038;blog=15624535&#038;post=7299&#038;subd=rottenindenmark&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;m going to Dhaka for two weeks in March. Any suggestions on stuff to do, people and things to see?</p><br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/rottenindenmark.wordpress.com/7299/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/rottenindenmark.wordpress.com/7299/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=rottenindenmark.wordpress.com&#038;blog=15624535&#038;post=7299&#038;subd=rottenindenmark&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://rottenindenmark.wordpress.com/2014/02/01/bleg-anyone-been-to-bangladesh/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/c35fd6249a1967812426f2821d7012e4?s=96&#38;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#38;r=R" medium="image">
+			<media:title type="html">specificshardlymatter</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Five Stories About Sports for People Who Hate Sports</title>
+		<link>http://rottenindenmark.wordpress.com/2014/01/30/five-stories-about-sports-for-people-who-hate-sports/</link>
+		<comments>http://rottenindenmark.wordpress.com/2014/01/30/five-stories-about-sports-for-people-who-hate-sports/#comments</comments>
+		<pubDate>Thu, 30 Jan 2014 15:50:12 +0000</pubDate>
+		<dc:creator><![CDATA[Mike]]></dc:creator>
+				<category><![CDATA[Journalism]]></category>
+		<category><![CDATA[journalism]]></category>
+		<category><![CDATA[longreads]]></category>
+		<category><![CDATA[sports]]></category>
+
+		<guid isPermaLink="false">http://rottenindenmark.wordpress.com/?p=7295</guid>
+		<description><![CDATA[I&#8217;m on Longreads again<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=rottenindenmark.wordpress.com&#038;blog=15624535&#038;post=7295&#038;subd=rottenindenmark&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.flickr.com/photos/martinvlach/"><br class="Apple-interchange-newline" /><img class="aligncenter size-full wp-image-7296" alt="martin vlach 1[4]" src="http://rottenindenmark.files.wordpress.com/2014/01/martin-vlach-14.jpg?w=500&#038;h=358" width="500" height="358" /></a></p>
+<p><a href="http://blog.longreads.com/post/five-stories-about-sports-for-people-who-hate-sports">I&#8217;m on Longreads again</a></p><br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/rottenindenmark.wordpress.com/7295/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/rottenindenmark.wordpress.com/7295/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=rottenindenmark.wordpress.com&#038;blog=15624535&#038;post=7295&#038;subd=rottenindenmark&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://rottenindenmark.wordpress.com/2014/01/30/five-stories-about-sports-for-people-who-hate-sports/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/c35fd6249a1967812426f2821d7012e4?s=96&#38;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#38;r=R" medium="image">
+			<media:title type="html">specificshardlymatter</media:title>
+		</media:content>
+
+		<media:content url="http://rottenindenmark.files.wordpress.com/2014/01/martin-vlach-14.jpg" medium="image">
+			<media:title type="html">martin vlach 1[4]</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Reading List: Journalism&#8217;s Most Fabulous Fabricators</title>
+		<link>http://rottenindenmark.wordpress.com/2014/01/22/reading-list-journalisms-most-fabulous-fabricators/</link>
+		<comments>http://rottenindenmark.wordpress.com/2014/01/22/reading-list-journalisms-most-fabulous-fabricators/#comments</comments>
+		<pubDate>Wed, 22 Jan 2014 20:27:27 +0000</pubDate>
+		<dc:creator><![CDATA[Mike]]></dc:creator>
+				<category><![CDATA[Journalism]]></category>
+		<category><![CDATA[jonah lehrer]]></category>
+		<category><![CDATA[journalism]]></category>
+		<category><![CDATA[lying]]></category>
+		<category><![CDATA[media]]></category>
+
+		<guid isPermaLink="false">http://rottenindenmark.wordpress.com/?p=7287</guid>
+		<description><![CDATA[I&#8217;m blogging for Longreads now<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=rottenindenmark.wordpress.com&#038;blog=15624535&#038;post=7287&#038;subd=rottenindenmark&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p style="text-align:center;"><a href="http://ffffound.com/image/fd3a208c046a9311458bfd198a0e23b38de7182b"><img class="aligncenter size-full wp-image-7292" alt="" src="http://rottenindenmark.files.wordpress.com/2014/01/tumblr_lpuzr4zdkk1qeg95lo1_500.jpg?w=500"   /></a></p>
+<p><a href="http://blog.longreads.com/post/famous-cases-of-journalistic-fraud-a-reading-list/">I&#8217;m blogging for Longreads now</a></p><br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/rottenindenmark.wordpress.com/7287/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/rottenindenmark.wordpress.com/7287/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=rottenindenmark.wordpress.com&#038;blog=15624535&#038;post=7287&#038;subd=rottenindenmark&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://rottenindenmark.wordpress.com/2014/01/22/reading-list-journalisms-most-fabulous-fabricators/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/c35fd6249a1967812426f2821d7012e4?s=96&#38;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#38;r=R" medium="image">
+			<media:title type="html">specificshardlymatter</media:title>
+		</media:content>
+
+		<media:content url="http://rottenindenmark.files.wordpress.com/2014/01/tumblr_lpuzr4zdkk1qeg95lo1_500.jpg" medium="image" />
+	</item>
+		<item>
+		<title>Nate Silver, Malcolm Gladwell and the Future of Journalism</title>
+		<link>http://rottenindenmark.wordpress.com/2014/01/09/nate-silver-malcolm-gladwell-and-the-future-of-journalism/</link>
+		<comments>http://rottenindenmark.wordpress.com/2014/01/09/nate-silver-malcolm-gladwell-and-the-future-of-journalism/#comments</comments>
+		<pubDate>Thu, 09 Jan 2014 05:52:56 +0000</pubDate>
+		<dc:creator><![CDATA[Mike]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Journalism]]></category>
+		<category><![CDATA[Serious]]></category>
+		<category><![CDATA[jonah lehrer]]></category>
+		<category><![CDATA[journalism]]></category>
+		<category><![CDATA[malcolm Gladwell]]></category>
+		<category><![CDATA[nate silver]]></category>
+		<category><![CDATA[ta-nehisi coates]]></category>
+
+		<guid isPermaLink="false">http://rottenindenmark.wordpress.com/?p=7279</guid>
+		<description><![CDATA[Originally published on The Huffington Post  &#160; I didn&#8217;t realize that Nate Silver&#8217;s The Signal and the Noise was one of the best books I read last year until about three weeks after I finished it. Why am I still &#8230; <a href="http://rottenindenmark.wordpress.com/2014/01/09/nate-silver-malcolm-gladwell-and-the-future-of-journalism/">Continue reading <span class="meta-nav">&#8594;</span></a><img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=rottenindenmark.wordpress.com&#038;blog=15624535&#038;post=7279&#038;subd=rottenindenmark&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p><em>Originally published on <a href="http://www.huffingtonpost.com/michael-hobbes/nate-silver-malcolm-gladw_b_4556466.html">The Huffington Post</a> </em></p>
+<p>&nbsp;</p>
+<p>I didn&#8217;t realize that Nate Silver&#8217;s <em>The Signal and the Noise</em> was one of the best books I read last year until about three weeks after I finished it. Why am I still thinking about this book? I would think, riding the bus, going over one of his examples in my head for the twelfth time.</p>
+<p>It&#8217;s not that I&#8217;m so into baseball, or politics, or stock prices, or that I want to get better at predicting them. It&#8217;s that Silver&#8217;s book is an argument, and a challenge, for how I read stories in the future &#8212; and how I write them.</p>
+<p>Silver&#8217;s core point is this:</p>
+<blockquote><p>Our predictions may be more prone to failure in the era of Big Data. As there is an exponential amount of available information, there is likewise an exponential increase in the number of hypotheses to investigate. For instance, the U.S. government now publishes data on about 45,000 economic statistics. If you want to test for a relationship between all combinations of two pairs of these statistics &#8212; is there a causal relationship between the bank prime loan rate and the unemployment rate in Alabama? &#8212; that gives you literally one billion hypotheses to test.</p>
+<p>But the number of <em>meaningful</em> relationships in the data &#8212; those that speak to causality rather than correlation and testify to how the world really works &#8212; is orders of magnitude smaller. Nor is it likely to be increasing at nearly so fast a rate as the information itself; there isn&#8217;t any more truth in the world that there was before the Internet or the printing press. Most of the data is just noise, as most of the universe is filled with empty space.</p></blockquote>
+<p>This is not just a problem for Big Data. We&#8217;re not just surrounded by more quantitative information, more numbers, than ever before. We&#8217;re also surrounded by qualitative data too. From Longreads to UpWorthy, we&#8217;re have access to more stories, more characters, more anecdotes, more illustrations and examples than ever before. But just as more numbers don&#8217;t inherently produce more truth, more stories don&#8217;t inherently provide more lessons necessitating them.</p>
+<p>Silver&#8217;s book reminded me of one of the worst books I read last year, Malcolm Gladwell&#8217;s<em> David and Goliath: Underdogs, Misfits, and the Art of Battling Giants.</em></p>
+<p>In his most talked-about chapter, Gladwell profiles superlawyer David Boies, the dude who represented Gore against Bush at the Supreme Court, gay marriage against the Mormons in California.</p>
+<p>Boies is dyslexic. It takes him hours to read a legal brief, and he foundered in odd jobs until his mid-20s, when he went to NYU Law School, then worked his way up through government and law firms to become a legal goliath.</p>
+<p>Boies&#8217;s dyslexia, as Gladwell tells it, is a &#8216;desirable difficulty&#8217;. Being bad at reading volumes of case law made Boies focus on being good at listening and arguing, skills other lawyers neglected. Hollywood producer Brian Grazer, also at the top of his field, also dyslexic, became a great negotiator to compensate for his difficulty reading. Goldman Sachs CEO Gary Cohn grew up dyslexic and found that it made him an outsider, gave him the skill of presenting a persona. He used that skill to blag his way into his first job in finance.</p>
+<p>&#8220;You wouldn&#8217;t wish dyslexia on your child,&#8221; Gladwell ominously concludes, &#8220;Or would you?&#8221; You can almost hear the music cue: <em>Bum bum BUMMMM</em>.</p>
+<p>If all this sounds a bit too easy, that&#8217;s because it is. When Gladwell&#8217;s book came out, critics (most prominently <a href="http://online.wsj.com/news/articles/SB10001424052702304713704579093090254007968" target="_hplink">Christopher F. Chablis in the <em>Wall Street Journal</em></a>) pointed out that dyslexia is, rather obviously, not a magic formula for success, decidedly not something you would give to your child if you had the choice.</p>
+<p>Gladwell says &#8220;an extraordinarily high percentage of entrepreneurs are dyslexic.&#8221; A <a href="http://languagelog.ldc.upenn.edu/nll/?p=8123" target="_hplink">dyslexia researcher</a> points out that this claim is based on a survey of 102 entrepreneurs and 37 corporate managers (out of 2,000 people contacted) and that it wasn&#8217;t even designed to detect dyslexia, only dyslexia-like traits such as difficulty with spelling.</p>
+<p>Gladwell admits that dyslexics are over-represented in the prison population; Chablis, like a high school English teacher, says &#8216;develop this further&#8217;: It&#8217;s kinda sorta a major counterpoint to your argument. Gladwell points to a study where people did better on an intelligence test when it was in hard-to-read font (Lesson: difficulty makes you concentrate harder). Chablis says this test was on just 40 people, all Princeton students, and hasn&#8217;t been replicated on a larger scale.</p>
+<p>The perennial critique of Gladwell is that his conclusions do not offer any new insights, only <a href="http://www.newstatesman.com/2013/10/malcolm-gladwell-backlash-pseudo-profundity" target="_hplink">reformulations of what we already know</a>. This seems unfair. As Silver says, there is only so much truth in the world, only so many insights to be pointed out and illustrated. Most people go their whole lives without coming up with a profound insight into anything. Gladwell can hardly be faulted for pointing out and reformulating the insights we already know.</p>
+<p>The more generous critique of <em>David and Goliath</em> is, <em>why didn&#8217;t Gladwell tell us all this himself?</em> Why is his chapter, his book, written with this false certitude, these capitalized lessons? Boies&#8217;s story would be no less interesting, no less well-told, if it was juxtaposed with the story of one of those dyslexic prisoners. I might have actually enjoyed that chapter more if it was fortified with the contradictions and arguments in the academic literature, with bright orange caveats highlighting the places where Boies&#8217;s story is not typical, not indicative of something larger. Lay it on me, Gladwell, I can handle it.</p>
+<p>Gladwell is a talented writer, a diligent researcher and interviewer, a monster intellect. If anyone could present the contradictions and paradoxes of the idea of &#8216;desirable difficulty,&#8217; it&#8217;s him. Gladwell is too smart, too curious, too skeptical, to genuinely believe that parents should be giving their kids dyslexia because it is a surefire way to end up a Hollywood produces or a finance CEO.</p>
+<p>Hedging against the challenge of &#8216;more information, same amount of truth,&#8217; says Silver, requires giving predictions and conclusions with confidence intervals. We&#8217;re not certain that this hurricane will make landfall in Tampa, but there&#8217;s a 60 percent chance. Obama is not a surefire bet to beat Romney, but he has more <a href="http://www.nytimes.com/interactive/2012/11/02/us/politics/paths-to-the-white-house.html" target="_hplink">plausible paths to victory</a>. These statements don&#8217;t remove certainty, but they reduce it.</p>
+<p>Gladwell&#8217;s cardinal sin, to me, is not crediting his readers with enough intelligence to disclose his confidence intervals. Does he really think that the &#8216;desirable difficulty&#8217; of dyslexia explains 100 percent of Boies&#8217;s success? Probably not. If Gladwell is making the argument that dyslexia explains 5 percent of his success, or 20 percent, why not just tell us? It&#8217;s as if Gladwell is trying to avoid the unfair criticism of his work &#8212; these insights are profound, I swear! &#8212; and in doing so steps right into the more compelling criticism. There&#8217;s nothing highbrow hates more than middlebrow, and nothing says middlebrow like massaging complicated phenomena into chicken soups for the soul.</p>
+<p>In 2012, when Jonah Lehrer was caught fabricating quotes and misrepresenting scientific findings in his book <em>Imagine: How Creativity Works</em>, Ta-Nehisi Coates, (one of the best working practitioners of journalistic uncertainty &#8212; I mean that in a good way) <a href="http://www.theatlantic.com/national/archive/2012/07/jonah-lehrers-grievous-oraculism/260532/" target="_hplink">wrote</a>:</p>
+<blockquote><p>Great long-form journalism comes from the author&#8217;s irrepressible need to answer a question. Fictional long-form journalism comes from the writer&#8217;s irrepressible need to be hailed as an oracle. In the former fabulism isn&#8217;t just wrong because it cheats the reader, it&#8217;s wrong because it cheats the writer. Manufactured evidence tends not to satiate an aching curiosity. But it does wonders for those most interested in oraculism.</p></blockquote>
+<p>I&#8217;m not implying that Gladwell fabricated anything. His sense of curiosity is palpable in everything he writes, and a major component of what makes his best work so interesting.</p>
+<p>But Silver&#8217;s book is a justified, albeit indirect, criticism of Gladwell&#8217;s approach. Silver is arguing for more curiosity and less certitude, not just for people who predict events, but for those who explain them afterwards.</p>
+<p>Ultimately, the fault may be ours. Gladwell is under pressure from publishers, from readers, to write books of big ideas, to deliver conclusions, to expand stories into insights that make us feel like we are reaching them ourselves. Book buyers and magazine readers may not tolerate an investigation into adversity, or creativity, or decision-making that finds them too complicated for capitalized lessons, one that concludes there is nothing to conclude.</p>
+<p>But maybe that is changing. In the same way Silver has changed what we expect from political forecasts, maybe next generation&#8217;s Malcolm Gladwell will be someone who dips into subjects, guides us through contradictory evidence and leaves us with no certitude, with more questions than when we arrived. I&#8217;m ready to read that kind of journalism. I hope someone out there is ready to write it.</p><br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/rottenindenmark.wordpress.com/7279/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/rottenindenmark.wordpress.com/7279/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=rottenindenmark.wordpress.com&#038;blog=15624535&#038;post=7279&#038;subd=rottenindenmark&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://rottenindenmark.wordpress.com/2014/01/09/nate-silver-malcolm-gladwell-and-the-future-of-journalism/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/c35fd6249a1967812426f2821d7012e4?s=96&#38;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#38;r=R" medium="image">
+			<media:title type="html">specificshardlymatter</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Zimbabwe Dollarized. How Does the U.S. Feel About That?</title>
+		<link>http://rottenindenmark.wordpress.com/2014/01/06/zimbabwe-dollarized-us-perspective/</link>
+		<comments>http://rottenindenmark.wordpress.com/2014/01/06/zimbabwe-dollarized-us-perspective/#comments</comments>
+		<pubDate>Mon, 06 Jan 2014 11:33:17 +0000</pubDate>
+		<dc:creator><![CDATA[Mike]]></dc:creator>
+				<category><![CDATA[Random]]></category>
+		<category><![CDATA[Serious]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[Work]]></category>
+		<category><![CDATA[zimbabwe]]></category>
+
+		<guid isPermaLink="false">http://rottenindenmark.wordpress.com/?p=7266</guid>
+		<description><![CDATA[The rainbow of 20s you get from the ATM in Harare Here&#8217;s a section that got cut from my New Republic story about the use of the US dollar in Zimbabwe Wait, so a country can just adopt the United &#8230; <a href="http://rottenindenmark.wordpress.com/2014/01/06/zimbabwe-dollarized-us-perspective/">Continue reading <span class="meta-nav">&#8594;</span></a><img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=rottenindenmark.wordpress.com&#038;blog=15624535&#038;post=7266&#038;subd=rottenindenmark&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<dl class="wp-caption aligncenter" id="attachment_7010" style="width:510px;">
+<dt class="wp-caption-dt"><a href="http://rottenindenmark.files.wordpress.com/2013/06/img_1870.jpg"><img class="size-full wp-image-7010" alt="IMG_1870" src="http://rottenindenmark.files.wordpress.com/2013/06/img_1870.jpg?w=500&#038;h=375" width="500" height="375" /></a></dt>
+<dd class="wp-caption-dd">The rainbow of 20s you get from the ATM in Harare</dd>
+</dl>
+<p><em>Here&#8217;s a section that got cut from my <a href="http://www.newrepublic.com/article/115925/zimbabwe-prices-why-are-they-high-new-york-citys">New Republic story</a> about the use of the US dollar in Zimbabwe</em></p>
+<p>Wait, so a country can just adopt the United States’s currency without our permission?</p>
+<p>“The U.S. government has never taken any overt position on dollarization, formal or informal.” This is Benjamin Cohen, a political economy processor at the University of California Santa Barbara, former Fed employee and the author of some <a href="http://www.polsci.ucsb.edu/faculty/cohen/recent/dollarization.html">articles</a> I’ve been reading to try to understand how one country just gets up one morning and starts using another country’s money.</p>
+<p>Ninety percent of the world’s $100 bills, Dr. Cohen says, are in circulation outside of the United States. Dozens of countries are considered  to be “highly dollarized,” meaning more than 30 percent of their money supply is in dollars.</p>
+<p>Unlike Zimbabwe, which has formally adopted the dollar, most countries use the U.S. dollar informally, in parallel with the local currency. A few years ago I was in Cambodia for work, and found that the local currency, the riel, was only used for small stuff like meals, transport and entertainment. Anything major—a TV, a plane ticket, an iPhone—prices were quoted and paid in U.S. dollars.</p>
+<p>It’s not just Cambodia. These sorts of arrangements are commonplace throughout the Middle East, Latin America and Southeast Asia. People use the local currency, but keep U.S. dollars as a hedge against inflation, like Tea Partiers hoarding gold.</p>
+<p>According to Cohen, the United States has no reason to prevent these arrangements. Not only does the U.S. dollar provide a quarry of monetary calm for citizens of inflating nations, the U.S. actually makes money every time our money leaves our borders. <span style="line-height:1.7;">“Seniorage,” as the economists call it, is the profit the U.S. earns every time a foreigner ‘buys’ a dollar for a dollar (</span><span style="line-height:1.7;">It </span><a style="line-height:1.7;" href="http://econlog.econlib.org/archives/2013/10/the_relative_un.html">costs 6 cents</a><span style="line-height:1.7;"> to print a $1 bill. If you print one, then use it to buy something that </span><a style="line-height:1.7;" href="http://www.mcdonalds.com/us/en/food/meal_bundles/dollar_menu.html">costs a dollar</a><span style="line-height:1.7;">, you’ve just earned 94 cents profit. That’s seniorage.).</span></p>
+<p>This sounds like it shouldn’t be a real thing, but the US <a href="http://krugman.blogs.nytimes.com/2013/10/22/godwin-and-the-greenback/">earns $20 billion per year</a> from all those $100 bills held internationally. Not a huge proportion of GDP, but hey, free money, right?</p>
+<p>The other upsides are obvious. Every time another country uses our currency, it reinforces the U.S. dollar as world’s preferred international currency, just like every time someone drinks a Coke or eats a Big Mac it reinforces the status of those brands.</p>
+<p>Foreign countries using our currency even gives us diplomatic power. Panama, one of the first countries to formally adopt the U.S. dollar, froze in its tracks when the U.S. cut off access to hard currency in the late 1980s to put pressure on Noriega.</p>
+<p>The only real downside of foreign countries dollarizing, for the U.S. at least, is that it creates a headache for the Fed. The more countries dollarize, the more the Fed has to take them into account when making monetary policy. A million calculations go into the decision to raise or lower interest rates, and the last thing the Fed needs is to add the interests of Cambodian iPod salesmen into the mix.</p>
+<p>One of the more significant downsides is if a dollarized country suddenly reintroduced their domestic currency, it might flood the market with millions of now-unneeded U.S. dollars, reducing the value of all of them. It doesn’t even have to be a whole country. If the dollar was used widely enough, huge purchases of dollars by foreigners could significantly affect its value.</p>
+<p>This is why, Cohen says, the U.S. takes a policy of “benign neglect” toward foreign countries that want to formally or informally dollarize. You want to buy a bunch of dollars and give them to your citizens in exchange for your old currency? Fine. You want to encourage your banks to offer accounts denominated in U.S. dollars? Have a blast. The U.S. isn’t going to be particularly helpful in helping you set this up, but they’re not going to stop you either.</p>
+<p>Ten countries (East Timor, Ecuador, El Salvador, Panama and a bunch of small island nations) are formally dollarized, meaning the U.S. dollar is their official currency (most of them have their own coins though).</p>
+<p>Zimbabwe is formally dollarized in that all government spending is in U.S. dollars, but it also recognizes the euro, the British pound, the Botswanan pula and the South African rand (why the Mozambican metical got left out, I have no idea). Stores accept payment in whatever currency you have handy, and sometimes give you change in a different currency than you paid.</p>
+<p>One of the things that always surprised me about Zimbabwe was how it just switched to U.S. dollars one day, without any relationship to the U.S. Federal Reserve. It was even under sanctions at the time. Can it just do that?</p>
+<p>“It’s totally normal to switch to the U.S. dollar without any relationship to the Fed,” Cohen says. “It doesn’t require an application. Anyone can buy paper money, and anyone can get a dollar bank account. Their own country may restrict those things, but the U.S. doesn’t.”</p>
+<p>When Ecuador officially adopted the U.S. dollar in 2000, it carried out a mass currency conversion. The central bank sold their U.S. treasury bonds to the U.S. for cash, brought the cash back to Ecuador and gave Ecuadoreans a window in which to exchange their sucres for U.S. dollars. The U.S. didn’t orchestrate, nor condemn, this process.</p>
+<p>Like an introduced species, the U.S. dollar tends to take over an increasingly large percentage of the economy. The only country Cohen knows of that has de-dollarized is Israel, which introduced the U.S. dollar in the late 1970s as a parallel currency, and only managed to get rid of it after a series of economic reforms reinstated confidence in the shekel. Lots of informally dollarized countries, like Argentina, go through waves of increasing, then decreasing dollarization in line with citizens’ confidence in the local currency.</p>
+<p>I have no idea what any of this means for Zimbabwe. As I say in the New Republic story, bringing back the Zimbabwe dollar is seen by economists (including the head of the Reserve Bank of Zimbabwe) as a bad idea, but that doesn’t mean it won’t happen.</p>
+<p><i style="line-height:1.7;">Dr. Cohen’s written a bunch of interesting, easy to read articles on dollarization from the US perspective</i></p>
+<ul>
+<li><i><a href="http://www.polsci.ucsb.edu/faculty/cohen/recent/dollarization.html">U.S. Policy on Dollarisation: A Political Analysis</a> (my favorite)</i></li>
+<li><i><a href="http://www.cap.uni-muenchen.de/transatlantic/download/Cohen.PDF">Dollarization: Pros and Cons</a></i></li>
+<li><i><a href="http://www.polsci.ucsb.edu/faculty/cohen/inpress/pdfs/Dollarized_Hemisphere.pdf">Is A Dollarized Hemisphere in the U.S. interest?</a></i></li>
+<li><i><a href="http://www.polsci.ucsb.edu/faculty/cohen/recent/pdfs/Dollarization_RIP2.pdf">Dollarization, Rest in Peace</a></i></li>
+</ul>
+<p><i> </i><i>Thanks for the interview!</i></p><br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/rottenindenmark.wordpress.com/7266/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/rottenindenmark.wordpress.com/7266/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=rottenindenmark.wordpress.com&#038;blog=15624535&#038;post=7266&#038;subd=rottenindenmark&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://rottenindenmark.wordpress.com/2014/01/06/zimbabwe-dollarized-us-perspective/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/c35fd6249a1967812426f2821d7012e4?s=96&#38;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#38;r=R" medium="image">
+			<media:title type="html">specificshardlymatter</media:title>
+		</media:content>
+
+		<media:content url="http://rottenindenmark.files.wordpress.com/2013/06/img_1870.jpg" medium="image">
+			<media:title type="html">IMG_1870</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Zimbabwe: The Director&#8217;s Cut</title>
+		<link>http://rottenindenmark.wordpress.com/2014/01/06/zimbabwe-the-directors-cut/</link>
+		<comments>http://rottenindenmark.wordpress.com/2014/01/06/zimbabwe-the-directors-cut/#comments</comments>
+		<pubDate>Mon, 06 Jan 2014 08:09:08 +0000</pubDate>
+		<dc:creator><![CDATA[Mike]]></dc:creator>
+				<category><![CDATA[Essays]]></category>
+		<category><![CDATA[Journalism]]></category>
+		<category><![CDATA[Personal]]></category>
+		<category><![CDATA[Serious]]></category>
+		<category><![CDATA[Work]]></category>
+		<category><![CDATA[poverty]]></category>
+		<category><![CDATA[zimbabwe]]></category>
+
+		<guid isPermaLink="false">http://rottenindenmark.wordpress.com/?p=7129</guid>
+		<description><![CDATA[I have an essay in The New Republic about my trip to Zimbabwe last year, and my weird obsession with how expensive everything was there. One of the things they tell nonfiction writers is &#8216;employ holy shit details&#8217;, and in Zimbabwe &#8230; <a href="http://rottenindenmark.wordpress.com/2014/01/06/zimbabwe-the-directors-cut/">Continue reading <span class="meta-nav">&#8594;</span></a><img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=rottenindenmark.wordpress.com&#038;blog=15624535&#038;post=7129&#038;subd=rottenindenmark&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>I have an <a href="http://www.newrepublic.com/article/115925/zimbabwe-prices-why-are-they-high-new-york-citys">essay in The New Republic</a> about my trip to Zimbabwe last year, and my weird obsession with how expensive everything was there.</p>
+<p>One of the things they <a href="http://thefirstbound.com/2013/08/04/51-ways-to-improve-your-writing/">tell</a> nonfiction writers is &#8216;employ holy shit details&#8217;, and in Zimbabwe there is almost no other kind. A lot of insane statistics ended up in the piece, but even more ended up on the cutting room floor. Here are some of them:</p>
+<ul>
+<li>In 2003, Zimbabwe was out of foreign reserves to import paper and ink to print more money, and had to switch to &#8216;bearer checks&#8217;, thin pieces of paper in increasingly outlandish denominations. Banks limited withdrawals, and anti-riot police had to be dispatched to prevent bank run.</li>
+<li>Fleeing the cratering economy, Zimbabweans almost singlehandedly raised retail sales in South Africa by 10 percent between 2006 and 2007. Emigrants in South Africa paid bus drivers 20 percent commission  to take envelopes of cash, sacks of groceries, back home.</li>
+<li>In 2007 a government order required shops to reduce the prices on basic goods by 50 percent. Instead of stabilizing the economy, it simply reversed the direction of the arbitrage. People bought milk in Mutare for 33,000 Zimbabwe dollars, drove it across the border to Mozambique and sold it for the equivalent of 350,000 Zimbabwe dollars.</li>
+<li>All this time, the government maintained an &#8216;official&#8217; exchange rate that was orders of magnitude lower than the black market rate. If you wanted to do anything legally—import goods, change money at the banks—you had to use the government rates. &#8216;I know a guy who worked at a luxury car dealership,&#8217; my friend Colin told me. &#8216;These generals would come in and say &#8220;I&#8217;ll buy this car&#8221; and he would have to give it to them for the official exchange rate. He was selling cars for $8, $9.&#8217;</li>
+<li>Between 2006 and 2009, the government slashed 25  zeroes off the currency. I ask Zimbabweans the prices they last remember at the supermarket and they tell me that a loaf of bread was 22 billion dollars. Which doesn&#8217;t actually matter, because you had to be connected to secure one anyway.</li>
+<li>Bank teller wages rose with inflation, and they were partly paid in fuel coupons.  They could also &#8216;burn money&#8217;—buy US dollars at the official exchange rate, then sell them at the black market rates. Bank employees were flying to Dubai, buying electronics and coming back to Zimbabwe to sell them on.</li>
+<li>These days, Zimbabwean banks are the opposite of too big to fail, they&#8217;re too small to succeed. As of January 2013, the entire banking sector held just $3.8 billion  in assets, more than half of which were short-term deposits. While the banks are lending out more than they used to, the loans are riskier, since no one has quite figured out how to run a business profitably here. In March 2010, 2 percent of bank loans didn&#8217;t get paid back. By December 2012, it was 14 percent .</li>
+<li> A 2013 survey of 150 store owners in a suburb of Harare found that 47 percent of them were using their own savings to raise capital and 13 percent were using their relatives and friends. Only 3 percent were using the banking system.</li>
+<li><span style="line-height:1.7;">What Zimbabwe has gone through in the last 14 years is maybe the greatest loss of productive capacity and personal wealth in modern history. Per capita GDP fell from $644 in 1990 to $376 in 2011. South Africa&#8217;s GDP was 17 times larger than Zimbabwe&#8217;s in 1996. It was 58 times larger in 2012.</span></li>
+<li>Almost 70 percent of Zimbabwe&#8217;s government budget goes to government salaries alone.</li>
+<li>In 2009 Zimbabwe still had the highest 15-24-year-old literacy rates in Africa, but the aftershocks of the crisis are set to drag that down. As of 2012, only 67 percent of kids finished school, and only 50 percent made it from primary to secondary school.</li>
+<li><span style="line-height:1.7;"><span style="line-height:1.7;">The Zimbabwe stock exchange fell 20 percent after Mugabe&#8217;s victory was announced , and some estimates say $800 million in investment has left the country since then.</span></span></li>
+</ul>
+<p><span style="line-height:1.7;">If you want to get a more full view of what Zimbabwe went through during hyperinflation and the challenges it faces now, here&#8217;s some publications that give a fuller picture than I was able to, written by people who know more about economics, about Zimbabwe, than me.</span></p>
+<ul>
+<li>Here&#8217;s the <a href="http://www.consultancyafrica.com/index.php?option=com_content&amp;view=article&amp;id=1092:dollarisation-in-zimbabwe-cause-and-effect-&amp;catid=87:african-finance-a-economy&amp;Itemid=294">Consultancy Africa Intelligence report</a>, written by Tapiwa Mhute, who I spoke to a few times, on the causes and consequences of Zimbabwe&#8217;s dollarization.</li>
+<li><span style="line-height:1.7;">Here&#8217;s a </span><a style="line-height:1.7;" href="http://www3.grips.ac.jp/~pinc/data/09-12.pdf">terrific overview</a><span style="line-height:1.7;"> of the path to hyperinflation written, rather randomly, by a graduate student in Japan.</span></li>
+<li>Here&#8217;s a pretty devastating <a href="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2011/10/06/000158349_20111006092919/Rendered/PDF/WPS5816.pdf">World Bank report</a> on the problems with Zimbabwe&#8217;s infrastructure.</li>
+<li>Here&#8217;s the report on <a href="http://www.academia.edu/566228/EXPLORING_THE_ROLE_OF_REMITTANCES_IN_HOUSEHOLD_LIVELIHOOD_STRATEGIES_IN_GLEN-NORAH_HARARE">remittance strategies</a> by families in one neighborhood in Harare.</li>
+<li>Here&#8217;s an <a href="http://www.hsrcpress.ac.za/product.php?productid=2295">anthology of articles</a> about the hyperinflation. &#8216;Negotiating the Zimbabwe–Mozambique Border&#8217; is a complete fucking stunner</li>
+<li>The debate about what &#8216;really&#8217; saved the Zimbabwean economy is ongoing and, like everything else in Zimbabwe, is totally politicised. <a href="http://www.dailymaverick.co.za/article/2013-09-17-zimbabwes-great-dollarization-debate-who-really-rescued-the-economy/#.Ujk-iWSfjk0">Here&#8217;s an overview</a> of some of the arguments.</li>
+<li>Here&#8217;s an <a href="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Policy-Documents/Zimbabwe%20ST%20Strategy%20-%20%20concept%20note.pdf">African Development Bank report</a> from 2009, telling Zimbabwe how to fix the crisis. Most of it&#8217;s boring technocratic stuff but, like most of these reports, the &#8216;context&#8217; section gives a great overview of the challenges.</li>
+<li>Here&#8217;s the <a href="http://www.imf.org/external/pubs/ft/scr/2013/cr13193.pdf">same sort of thing</a> from the IMF and <a href="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/04/08/000333037_20130408102210/Rendered/PDF/742260ISN0P1220Official0Use0Only090.pdf">from the World Bank</a> four years later, in 2013. They&#8217;re basically giving the same overview I am, only with less Grindr.</li>
+<li>Here&#8217;s a Cato Institute (I know, I know) report from 2013: <a href="http://www.cato.org/publications/policy-analysis/zimbabwe-why-one-worlds-least-free-economies-growing-so-fast">Why Is One of the World’s Least-Free Economies Growing So Fast?</a></li>
+<li>Here&#8217;s Tapiwa Chagonda&#8217;s <a href="http://www.codesria.org/IMG/pdf/papers14.pdf">fascinating survey</a> of bank tellers and teachers during hyperinflation.</li>
+<li>Here&#8217;s <a href="https://muse.jhu.edu/books/9781779221605">Beyond the Enclave</a>, Godfrey Kanyenze&#8217;s searing account of the political factors behind hyperinflation and dollarization.</li>
+<li>And here&#8217;s Vince Musewe&#8217;s <a href="http://www.thezimbabwean.co/comment/blogs/vince-musewe/">angry, moving columns</a> for The Zimbabwean, giving a more up to date picture of the conditions in Zimbabwe</li>
+</ul>
+<p>I mostly worked on the piece in August and September, and I&#8217;m sure more reports and statistics have come out since then, so apologies if anything in the story is outdated.</p>
+<p><span style="line-height:1.7;">I&#8217;m not a journalist, I&#8217;m a human rights guy. One thing I&#8217;ve realized over the last 18 months, as I&#8217;ve spent more and more of my weekday mornings and Sunday nights working on these little longforms, is how dependent journalists are on the generosity and patience of their sources. For this story, I basically cold-called a dozen or so Zimbabwean economists, told them I didn&#8217;t know anything about their country or their field and asked if they could, slowly and monosyllabically, walk me through everything they knew.</span></p>
+<p>Amazingly, all of them obliged, and they were super patient with all of my follow ups and hang-on-explain-that-agains. Colin and Lovemore took a risk telling a foreigner about their economic tribulations the last five years, and trusted that I would represent them honestly and wouldn&#8217;t publish any details that identified them. Everyone I interviewed, I have nothing to offer them for their time and their trust except my sincere gratitude—and my crushing anxiety that I may have misunderstood or misrepresented them.</p>
+<p><span style="line-height:1.7;">I don&#8217;t know if I&#8217;ll ever be good at this whole journalism thing, or feel like I have the right to be doing it. I tried really hard to fact-check this story, to avoid giving the impression that my experience was definitive. I arrived in Zimbabwe as an outsider, a tourist. No matter how many people I met, no matter how many reports I read or statistics I double-checked, I departed as one. There is a lot of complicated information out there about Zimbabwe, a lot of conflicting narratives. Mine is just one of them.</span></p><br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/rottenindenmark.wordpress.com/7129/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/rottenindenmark.wordpress.com/7129/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=rottenindenmark.wordpress.com&#038;blog=15624535&#038;post=7129&#038;subd=rottenindenmark&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://rottenindenmark.wordpress.com/2014/01/06/zimbabwe-the-directors-cut/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/c35fd6249a1967812426f2821d7012e4?s=96&#38;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#38;r=R" medium="image">
+			<media:title type="html">specificshardlymatter</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>The Best Headphone Songs of 2013</title>
+		<link>http://rottenindenmark.wordpress.com/2014/01/02/the-best-headphone-songs-of-2013-2/</link>
+		<comments>http://rottenindenmark.wordpress.com/2014/01/02/the-best-headphone-songs-of-2013-2/#comments</comments>
+		<pubDate>Thu, 02 Jan 2014 06:48:37 +0000</pubDate>
+		<dc:creator><![CDATA[Mike]]></dc:creator>
+				<category><![CDATA[Music]]></category>
+		<category><![CDATA[Personal]]></category>
+		<category><![CDATA[dan deacon]]></category>
+		<category><![CDATA[headphones]]></category>
+		<category><![CDATA[James Blake]]></category>
+		<category><![CDATA[Kanye West]]></category>
+		<category><![CDATA[listicles]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[music videos]]></category>
+		<category><![CDATA[soundcloud]]></category>
+
+		<guid isPermaLink="false">http://rottenindenmark.wordpress.com/?p=7250</guid>
+		<description><![CDATA[Originally posted on The Billfold When we write the history of how technology has made us happier, I hope there’s a whole chapter about headphones. Life in the pre-headphones era was a dystopia of un-entertained silences, un-podcasted public transport. Bus &#8230; <a href="http://rottenindenmark.wordpress.com/2014/01/02/the-best-headphone-songs-of-2013-2/">Continue reading <span class="meta-nav">&#8594;</span></a><img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=rottenindenmark.wordpress.com&#038;blog=15624535&#038;post=7250&#038;subd=rottenindenmark&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p><em>Originally posted on <a href="http://thebillfold.com/2014/01/the-best-headphone-songs-i-bought-in-2013/">The Billfold</a></em></p>
+<p>When we write the history of how technology has made us happier, I hope there’s a whole chapter about headphones. Life in the pre-headphones era was a dystopia of un-entertained silences, un-podcasted public transport. Bus rides without TED Talks, old magazines in waiting rooms, flights spent deflecting extroverted strangers. Going for a jog meant <em>listening to yourself breathe. </em></p>
+<p>Me, I have my headphones on basically always, and my life is objectively the better for it. I know the internet is the place where we’re supposed to complain how we’re cut off from each other, how we hide between earbuds instead of interacting, how we soundtrack our lives rather than experiencing them.</p>
+<p>But really, how much solitary reflection do we actually need? And isn’t it better with Robyn singing over it anyway? I still take long, lonely winter walks, but now I listen to a MOOC about the Civil War on the way! The un-examined life isn’t may not be worth living, but the un-distracted one goes by <em>a lot slower</em><em>.</em></p>
+<p>Anyway, here are all the ways I retreated from the world this year:</p>
+<p><span style="color:#ffffff;line-height:1.7;">-</span></p>
+<p><strong>Julianna Barwick &#8211; &#8216;Forever&#8217;</strong></p>
+<p>It&#8217;s weird to pick one track off this album, since all the songs are basically the same wavy, overlapping vowel crescendoes. Still, if you want to feel like you&#8217;re attending a Methodist Easter service at the bottom of the Mariana Trench, Barwick&#8217;s got you covered.</p>
+<p><span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='500' height='312' src='http://www.youtube.com/embed/P8s_pm9uqMs?version=3&#038;rel=1&#038;fs=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0'></iframe></span></p>
+<p><span style="color:#ffffff;">-</span></p>
+<p><strong>Kanye West &#8211; The last minute and a half of &#8216;New Slaves&#8217;</strong></p>
+<p>Most of the tracks on Yeezus would be noticeably better without Kanye West rapping on them. &#8216;New Slaves&#8217; is the only song where wishing <em>ugh</em> <em>Kanye just shut the fuck up for a second</em><i> </i>actually pays off. Two minutes and 45 seconds in, he finally does, and for 90 seconds gives us the album&#8217;s only glimpse (&#8216;I can&#8217;t lose, I can&#8217;t lose&#8217;) of the vulnerability behind all that Versace.</p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F100325459&color=ff6600&auto_play=false&show_artwork=false"></iframe>
+<p><span style="color:#ffffff;"><strong>-</strong></span></p>
+<p><strong>M.I.A. &#8211; &#8216;Y.A.L.A.&#8217;</strong></p>
+<p>Just because your politics are daft and your lyrics are incoherent doesn&#8217;t mean you can&#8217;t make a bangin&#8217;-ass club jam. The only way to enjoy this song is to resist the temptation to get all Pitchfork about it (<em>Julianne Moore?</em>) and just enjoy the swagger.</p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F116419791&color=ff6600&auto_play=false&show_artwork=true"></iframe>
+<p><span style="color:#ffffff;">-</span></p>
+<p><strong>Azealia Banks &#8211; &#8216;No Problems&#8217;</strong></p>
+<p>Azaelia Banks has built a career out of being the girl who beat you up in middle school, and this song (&#8216;you&#8217;re a ham in the pig shack&#8217;) is the bullyingest three minutes of the year.</p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F73621569&color=ff6600&auto_play=false&show_artwork=false"></iframe>
+<p><span style="color:#ffffff;"><strong>-</strong></span></p>
+<p><strong>Phosphorescent &#8211; &#8216;Ride On / Right On&#8217; &amp; &#8216;Song for Zola&#8217;</strong></p>
+<p>The world needs more alt-country. Haha I&#8217;m obviously kidding, but this band exists, and by now they&#8217;ve established that they have a right to.</p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F71082732&color=ff6600&auto_play=false&show_artwork=false"></iframe>
+<p><span style="color:#ffffff;"><strong>-</strong></span></p>
+<p><strong>Kavinsky ft. The Weeknd &#8211; &#8216;Odd Look&#8217;</strong></p>
+<p>Because the Drive soundtrack needed more R. Kelly.</p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F102381372&color=ff6600&auto_play=false&show_artwork=false"></iframe>
+<p><span style="color:#ffffff;"><strong>-</strong></span></p>
+<p><strong>Dan Deacon &#8211; &#8216;Why Am I On This Cloud?&#8217;</strong></p>
+<p>You know that theme that plays in Kill Bill whenever Uma Thurman is about to murder someone? That is what this song is for.</p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F98444777&color=ff6600&auto_play=false&show_artwork=false"></iframe>
+<p><span style="color:#ffffff;"><strong>-</strong></span></p>
+<p><strong>James Blake &#8211; &#8216;Retrograde&#8217;</strong></p>
+<p>Sometimes I think James Blake only releases albums to see what genre music critics will assign to them. Is this Electro-folk? Emo-step? Why are the lyrics so tender when the music around them is so mean? I&#8217;d better play it again to find out.</p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F79062641&color=ff6600&auto_play=false&show_artwork=false"></iframe>
+<p><span style="color:#ffffff;"><strong>-</strong></span></p>
+<p><strong>Lubomyr Melnyk &#8211; &#8216;Pockets of Light&#8217;</strong></p>
+<p>If I hadn&#8217;ta seen Melnyk play this song live earlier this year, I&#8217;d think he was using some sort of software to hit the keys this fast. But no, it&#8217;s just him, analog, plinking like a court stenographer and reminding you that your talents are generic and unworthy. Like most of the others on this list, this song defies explanation (just when it&#8217;s getting boring it&#8217;s like <em>hang on, lyrics what?!</em>), but it&#8217;s great for making you feel like whatever you&#8217;re doing is in slow motion.</p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F106072808&color=ff6600&auto_play=false&show_artwork=false"></iframe>
+<p><span style="color:#ffffff;"><strong>-</strong></span></p>
+<p><strong>Daft Punk &#8211; &#8216;Contact&#8217;</strong></p>
+<p>After we all got sick of ‘Get Lucky’ and started listening to the rest of the album, it turns out Daft Punk still has a few climaxes left in them. The rest of the album might take place in the 1970s, but these four minutes toward the end are a little reminder that it&#8217;s still 2013 somewhere out there.</p>
+<div class='embed-vimeo' style='text-align:center;'><iframe src='http://player.vimeo.com/video/67072281' width='400' height='300' frameborder='0'></iframe></div>
+<p><span style="color:#ffffff;"><strong>-</strong></span></p>
+<p><strong>Tyler Fedchuk &#8211; &#8216;White Light Mix&#8217;  </strong></p>
+<p>The whole point of listening to headphones is to make you feel like whatever you&#8217;re doing is epic and spectacular. Fedchuk, who has been making crackerjack electro mixes at <a href="http://radiozero.ca/">Radiozero</a> for years, created <a href="http://www.whitelightmixes.com/mixes/white-light-65-tyler-fedchuk/">an hour</a> that evokes the feeling of driving through downtown LA, looking for prostitutes to kill.</p>
+<p><span style="color:#ffffff;"><strong>-</strong></span></p>
+<p><strong>Clap Your Hands Say Yeah - &#8217;Little Moments&#8217;</strong></p>
+<p>You know how when we talk about economic development, it starts with poor countries attracting a bunch of low-wage sweatshops, then &#8216;moving up the value chain&#8217; to stuff like design, processing, consulting, etc? The indie-band equivalent is the transition from cheap acoustics to fancy synthesizers, and Clap Your Hands Say Yeah finally did the equivalent of joining the WTO this year.</p>
+<p><span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='500' height='312' src='http://www.youtube.com/embed/0Frm8Q97r3g?version=3&#038;rel=1&#038;fs=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0'></iframe></span></p>
+<p><span style="color:#ffffff;"><strong>-</strong></span></p>
+<p><strong>Hunters &amp; Collectors &#8211; &#8216;Talking To A Stranger (Avalanches Remix)&#8217; &amp; The Avalanches (feat. David Berman) &#8211; &#8216;A Cowboy Overflow of the Heart&#8217;</strong></p>
+<p>So in 2000, The Avalanches put out one of the best albums ever, (<em>Since I Left You)</em>, then some of the <a href="https://soundcloud.com/bulba-1/the-avalanches-gimix">best</a> <a href="http://www.youtube.com/watch?v=VVnr7LT670s">mixtapes</a> <a href="http://www.kcrw.com/music/programs/mb/mb011130the_avalanches">ever</a>, then disappeared into oblivion (Australia) for more than a decade. Now they are back with a remix of an off-brand Mumford &amp; Sons-a-like and a &#8230; poem?</p>
+<p>Neither of these should work, but somehow they do. Like the best songs on <em>Since</em>, &#8216;Talking to a Stranger&#8217; bears almost no relationship to its source material. And this fucking poem. Jesus, if you didn&#8217;t already feel alone listening to your headphones around other people, well, now you do.</p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F57061649&color=ff6600&auto_play=false&show_artwork=false"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F109364329&color=ff6600&auto_play=false&show_artwork=false"></iframe><br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/rottenindenmark.wordpress.com/7250/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/rottenindenmark.wordpress.com/7250/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=rottenindenmark.wordpress.com&#038;blog=15624535&#038;post=7250&#038;subd=rottenindenmark&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://rottenindenmark.wordpress.com/2014/01/02/the-best-headphone-songs-of-2013-2/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/c35fd6249a1967812426f2821d7012e4?s=96&#38;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#38;r=R" medium="image">
+			<media:title type="html">specificshardlymatter</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Things I&#8217;ll Never Understand</title>
+		<link>http://rottenindenmark.wordpress.com/2014/01/01/madeira/</link>
+		<comments>http://rottenindenmark.wordpress.com/2014/01/01/madeira/#comments</comments>
+		<pubDate>Wed, 01 Jan 2014 07:24:25 +0000</pubDate>
+		<dc:creator><![CDATA[Mike]]></dc:creator>
+				<category><![CDATA[Pictures]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[madeira]]></category>
+		<category><![CDATA[portugal]]></category>
+
+		<guid isPermaLink="false">http://rottenindenmark.wordpress.com/?p=7227</guid>
+		<description><![CDATA[One of the reasons I think I’m not ready to have kids is that I wouldn’t be able to answer their questions about life basics. Why is the sky blue, where do mountains come from, etc. I don’t know why &#8230; <a href="http://rottenindenmark.wordpress.com/2014/01/01/madeira/">Continue reading <span class="meta-nav">&#8594;</span></a><img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=rottenindenmark.wordpress.com&#038;blog=15624535&#038;post=7227&#038;subd=rottenindenmark&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<dl class="wp-caption aligncenter" id="attachment_7231" style="width:510px;">
+<dt class="wp-caption-dt"><a href="http://rottenindenmark.files.wordpress.com/2014/01/img_3337.jpg"><img class="size-full wp-image-7231" alt="IMG_3337" src="http://rottenindenmark.files.wordpress.com/2014/01/img_3337.jpg?w=500&#038;h=344" width="500" height="344" /></a></dt>
+<dd class="wp-caption-dd">One of the reasons I think I’m not ready to have kids is that I wouldn’t be able to answer their questions about life basics.</dd>
+</dl>
+<dl class="wp-caption aligncenter" id="attachment_7235" style="width:510px;">
+<dt class="wp-caption-dt"><a href="http://rottenindenmark.files.wordpress.com/2014/01/img_3902.jpg"><img class="size-full wp-image-7235" alt="IMG_3902" src="http://rottenindenmark.files.wordpress.com/2014/01/img_3902.jpg?w=500&#038;h=375" width="500" height="375" /></a></dt>
+<dd class="wp-caption-dd">Why is the sky blue, where do mountains come from, etc.</dd>
+</dl>
+<dl class="wp-caption aligncenter" id="attachment_7233" style="width:510px;">
+<dt class="wp-caption-dt"><a href="http://rottenindenmark.files.wordpress.com/2014/01/img_3412.jpg"><img class="size-full wp-image-7233" alt="IMG_3412" src="http://rottenindenmark.files.wordpress.com/2014/01/img_3412.jpg?w=500&#038;h=375" width="500" height="375" /></a></dt>
+<dd class="wp-caption-dd">I don’t know why I know so little about this stuff. I went to high school, college, grad school (twice!). I have read books, sometimes even for fun.</dd>
+</dl>
+<dl class="wp-caption aligncenter" id="attachment_7228" style="width:510px;">
+<dt class="wp-caption-dt"><a href="http://rottenindenmark.files.wordpress.com/2014/01/img_3270.jpg"><img class="size-full wp-image-7228" alt="IMG_3270" src="http://rottenindenmark.files.wordpress.com/2014/01/img_3270.jpg?w=500&#038;h=666" width="500" height="666" /></a></dt>
+<dd class="wp-caption-dd">But when confronted with nature, the real kind, still and un-narrated, I can’t explain any of the whys or hows.</dd>
+</dl>
+<dl class="wp-caption aligncenter" id="attachment_7225" style="width:510px;">
+<dt class="wp-caption-dt"><a href="http://rottenindenmark.files.wordpress.com/2013/12/img_3531.jpg"><img class="size-full wp-image-7225" alt="IMG_3531" src="http://rottenindenmark.files.wordpress.com/2013/12/img_3531.jpg?w=500&#038;h=375" width="500" height="375" /></a></dt>
+<dd class="wp-caption-dd">I spent Christmas this year in Madeira.</dd>
+</dl>
+<dl class="wp-caption aligncenter" id="attachment_7224" style="width:510px;">
+<dt class="wp-caption-dt"><a href="http://rottenindenmark.files.wordpress.com/2013/12/img_3502.jpg"><img class="size-full wp-image-7224" alt="IMG_3502" src="http://rottenindenmark.files.wordpress.com/2013/12/img_3502.jpg?w=500&#038;h=666" width="500" height="666" /></a></dt>
+<dd class="wp-caption-dd">It&#8217;s island off the coast of Morocco that, for random historical reasons, is an autonomous region of Portugal, like a little European Hawaii.</dd>
+</dl>
+<dl class="wp-caption aligncenter" id="attachment_7222" style="width:510px;">
+<dt class="wp-caption-dt"><a href="http://rottenindenmark.files.wordpress.com/2013/12/img_3452.jpg"><img class="size-full wp-image-7222" alt="IMG_3452" src="http://rottenindenmark.files.wordpress.com/2013/12/img_3452.jpg?w=500&#038;h=375" width="500" height="375" /></a></dt>
+<dd class="wp-caption-dd">I knew very little about it before I visited. But now, because I have been there, I am interested in it.</dd>
+</dl>
+<dl class="wp-caption aligncenter" id="attachment_7221" style="width:510px;">
+<dt class="wp-caption-dt"><a href="http://rottenindenmark.files.wordpress.com/2013/12/img_3430.jpg"><img class="size-full wp-image-7221" alt="IMG_3430" src="http://rottenindenmark.files.wordpress.com/2013/12/img_3430.jpg?w=500&#038;h=375" width="500" height="375" /></a></dt>
+<dd class="wp-caption-dd">It was discovered in the early 1400s, uninhabited, a spike of volcano that wriggled up out of the Atlantic, then spend the next 5 million years getting ground back down to sea level.</dd>
+</dl>
+<dl class="wp-caption aligncenter" id="attachment_7220" style="width:510px;">
+<dt class="wp-caption-dt"><a href="http://rottenindenmark.files.wordpress.com/2013/12/img_3981.jpg"><img class="size-full wp-image-7220" alt="IMG_3981" src="http://rottenindenmark.files.wordpress.com/2013/12/img_3981.jpg?w=500&#038;h=375" width="500" height="375" /></a></dt>
+<dd class="wp-caption-dd">This process is apparently ongoing. Most of what&#8217;s sticking out of the water is hills. The old joke among the locals is &#8216;The only flat surfaces on Madeira are vertical.&#8217;</dd>
+</dl>
+<dl class="wp-caption aligncenter" id="attachment_7241" style="width:510px;">
+<dt class="wp-caption-dt"><a href="http://rottenindenmark.files.wordpress.com/2014/01/img_3306.jpg"><img class="size-full wp-image-7241" alt="IMG_3306" src="http://rottenindenmark.files.wordpress.com/2014/01/img_3306.jpg?w=500&#038;h=666" width="500" height="666" /></a></dt>
+<dd class="wp-caption-dd">The climate is perfect for growing sugarcane, so the early years were spent terracing the hills, creating stairstep cropland, cultivating it one stripe at a time. All the agriculture is still done by hand. </dd>
+</dl>
+<dl class="wp-caption aligncenter" id="attachment_7218" style="width:510px;">
+<dt class="wp-caption-dt"><a href="http://rottenindenmark.files.wordpress.com/2013/12/img_3970.jpg"><img class="size-full wp-image-7218" alt="IMG_3970" src="http://rottenindenmark.files.wordpress.com/2013/12/img_3970.jpg?w=500&#038;h=375" width="500" height="375" /></a></dt>
+<dd class="wp-caption-dd">Sugar crashed when Europe discovered Brazil, the Caribbean, slavery. Madeira converted its little sugar plots into little vineyards. </dd>
+</dl>
+<dl class="wp-caption aligncenter" id="attachment_7216" style="width:510px;">
+<dt class="wp-caption-dt"><a href="http://rottenindenmark.files.wordpress.com/2013/12/img_3962.jpg"><img class="size-full wp-image-7216" alt="IMG_3962" src="http://rottenindenmark.files.wordpress.com/2013/12/img_3962.jpg?w=500&#038;h=666" width="500" height="666" /></a></dt>
+<dd class="wp-caption-dd">That worked til the 1890s, when a disease wiped out all the grapes (think Irish potato famine, but this time the victims were warm-weather alcoholics). </dd>
+</dl>
+<dl class="wp-caption aligncenter" id="attachment_7212" style="width:510px;">
+<dt class="wp-caption-dt"><a href="http://rottenindenmark.files.wordpress.com/2013/12/img_3859.jpg"><img class="size-full wp-image-7212" alt="IMG_3859" src="http://rottenindenmark.files.wordpress.com/2013/12/img_3859.jpg?w=500&#038;h=598" width="500" height="598" /></a></dt>
+<dd class="wp-caption-dd">The economy crashed, most of the island emigrated.</dd>
+</dl>
+<dl class="wp-caption aligncenter" id="attachment_7211" style="width:510px;">
+<dt class="wp-caption-dt"><a href="http://rottenindenmark.files.wordpress.com/2013/12/img_3349.jpg"><img class="size-full wp-image-7211 " alt="IMG_3349" src="http://rottenindenmark.files.wordpress.com/2013/12/img_3349.jpg?w=500&#038;h=375" width="500" height="375" /></a></dt>
+<dd class="wp-caption-dd">Nowadays they still grow crops—those are banana trees down there—but mostly they cultivate tourists, people like me who fly all the way here for the weather and the pictures and the differences.</dd>
+</dl>
+<dl class="wp-caption aligncenter" id="attachment_7210" style="width:510px;">
+<dt class="wp-caption-dt"><a href="http://rottenindenmark.files.wordpress.com/2013/12/img_3825.jpg"><img class="size-full wp-image-7210" alt="IMG_3825" src="http://rottenindenmark.files.wordpress.com/2013/12/img_3825.jpg?w=500&#038;h=666" width="500" height="666" /></a></dt>
+<dd class="wp-caption-dd">This narrative, the path Madeira took  here, it makes sense to me, it’s full of people and businesses and a big economy that goes boom one century and pfffft the next. </dd>
+</dl>
+<dl class="wp-caption aligncenter" id="attachment_7208" style="width:510px;">
+<dt class="wp-caption-dt"><a href="http://rottenindenmark.files.wordpress.com/2013/12/img_3819.jpg"><img class="size-full wp-image-7208" alt="IMG_3819" src="http://rottenindenmark.files.wordpress.com/2013/12/img_3819.jpg?w=500&#038;h=375" width="500" height="375" /></a></dt>
+<dd class="wp-caption-dd">That&#8217;s the story of everywhere, basically.</dd>
+</dl>
+<dl class="wp-caption aligncenter" id="attachment_7204" style="width:510px;">
+<dt class="wp-caption-dt"><a href="http://rottenindenmark.files.wordpress.com/2013/12/img_3801.jpg"><img class="size-full wp-image-7204" alt="IMG_3801" src="http://rottenindenmark.files.wordpress.com/2013/12/img_3801.jpg?w=500&#038;h=375" width="500" height="375" /></a></dt>
+<dd class="wp-caption-dd">But then I bike to the top of a mountain on this very same boom-and-pffft island and I am holding my boyfriend’s hand and we are looking together at a bunch of lava rocks sticking out through a beach and I realize that I have no idea why some rocks get ground into sand and others don’t.</dd>
+</dl>
+<dl class="wp-caption aligncenter" id="attachment_7203" style="width:510px;">
+<dt class="wp-caption-dt"><a href="http://rottenindenmark.files.wordpress.com/2013/12/img_3796.jpg"><img class="size-full wp-image-7203" alt="IMG_3796" src="http://rottenindenmark.files.wordpress.com/2013/12/img_3796.jpg?w=500&#038;h=375" width="500" height="375" /></a></dt>
+<dd class="wp-caption-dd">And then I’m thinking that if I was at the top of this same mountain, holding my son’s hand instead of my boyfriend’s, this is the shit he would ask me about, the rocks and the sun and why is the water that shade of blue and how many stars are there in the sky and I have no idea how to answer.</dd>
+</dl>
+<dl class="wp-caption aligncenter" id="attachment_7200" style="width:510px;">
+<dt class="wp-caption-dt"><a href="http://rottenindenmark.files.wordpress.com/2013/12/img_3665.jpg"><img class="size-full wp-image-7200" alt="IMG_3665" src="http://rottenindenmark.files.wordpress.com/2013/12/img_3665.jpg?w=500&#038;h=375" width="500" height="375" /></a></dt>
+<dd class="wp-caption-dd">Or maybe he won’t ask me, maybe we’re not the kind of society where we do that anymore. Maybe he’ll stand on that mountain and look at that beach and use his free hand to whip out his little tablet or whatever and he’ll read the Wikipedia entry about lava and we&#8217;ll stand there and neither of us will say anything.</dd>
+</dl>
+<dl class="wp-caption aligncenter" id="attachment_7199" style="width:510px;">
+<dt class="wp-caption-dt"><a href="http://rottenindenmark.files.wordpress.com/2013/12/img_3615.jpg"><img class="size-full wp-image-7199" alt="IMG_3615" src="http://rottenindenmark.files.wordpress.com/2013/12/img_3615.jpg?w=500&#038;h=375" width="500" height="375" /></a></dt>
+<dd class="wp-caption-dd">And maybe that&#8217;s better for both of us. I can&#8217;t explain how anything works when it&#8217;s really small or really big or made of rocks, when it can&#8217;t tell me how it works itself.</dd>
+</dl>
+<dl class="wp-caption aligncenter" id="attachment_7202" style="width:510px;">
+<dt class="wp-caption-dt"><a href="http://rottenindenmark.files.wordpress.com/2013/12/img_3780.jpg"><img class="size-full wp-image-7202" alt="IMG_3780" src="http://rottenindenmark.files.wordpress.com/2013/12/img_3780.jpg?w=500&#038;h=666" width="500" height="666" /></a></dt>
+<dd class="wp-caption-dd">But hey, if he ever wants to know how the island’s GDP is calculated, I&#8217;m right next to him.</dd>
+</dl><br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/rottenindenmark.wordpress.com/7227/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/rottenindenmark.wordpress.com/7227/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=rottenindenmark.wordpress.com&#038;blog=15624535&#038;post=7227&#038;subd=rottenindenmark&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://rottenindenmark.wordpress.com/2014/01/01/madeira/feed/</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/c35fd6249a1967812426f2821d7012e4?s=96&#38;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#38;r=R" medium="image">
+			<media:title type="html">specificshardlymatter</media:title>
+		</media:content>
+
+		<media:content url="http://rottenindenmark.files.wordpress.com/2014/01/img_3337.jpg" medium="image">
+			<media:title type="html">IMG_3337</media:title>
+		</media:content>
+
+		<media:content url="http://rottenindenmark.files.wordpress.com/2014/01/img_3902.jpg" medium="image">
+			<media:title type="html">IMG_3902</media:title>
+		</media:content>
+
+		<media:content url="http://rottenindenmark.files.wordpress.com/2014/01/img_3412.jpg" medium="image">
+			<media:title type="html">IMG_3412</media:title>
+		</media:content>
+
+		<media:content url="http://rottenindenmark.files.wordpress.com/2014/01/img_3270.jpg" medium="image">
+			<media:title type="html">IMG_3270</media:title>
+		</media:content>
+
+		<media:content url="http://rottenindenmark.files.wordpress.com/2013/12/img_3531.jpg" medium="image">
+			<media:title type="html">IMG_3531</media:title>
+		</media:content>
+
+		<media:content url="http://rottenindenmark.files.wordpress.com/2013/12/img_3502.jpg" medium="image">
+			<media:title type="html">IMG_3502</media:title>
+		</media:content>
+
+		<media:content url="http://rottenindenmark.files.wordpress.com/2013/12/img_3452.jpg" medium="image">
+			<media:title type="html">IMG_3452</media:title>
+		</media:content>
+
+		<media:content url="http://rottenindenmark.files.wordpress.com/2013/12/img_3430.jpg" medium="image">
+			<media:title type="html">IMG_3430</media:title>
+		</media:content>
+
+		<media:content url="http://rottenindenmark.files.wordpress.com/2013/12/img_3981.jpg" medium="image">
+			<media:title type="html">IMG_3981</media:title>
+		</media:content>
+
+		<media:content url="http://rottenindenmark.files.wordpress.com/2014/01/img_3306.jpg" medium="image">
+			<media:title type="html">IMG_3306</media:title>
+		</media:content>
+
+		<media:content url="http://rottenindenmark.files.wordpress.com/2013/12/img_3970.jpg" medium="image">
+			<media:title type="html">IMG_3970</media:title>
+		</media:content>
+
+		<media:content url="http://rottenindenmark.files.wordpress.com/2013/12/img_3962.jpg" medium="image">
+			<media:title type="html">IMG_3962</media:title>
+		</media:content>
+
+		<media:content url="http://rottenindenmark.files.wordpress.com/2013/12/img_3859.jpg" medium="image">
+			<media:title type="html">IMG_3859</media:title>
+		</media:content>
+
+		<media:content url="http://rottenindenmark.files.wordpress.com/2013/12/img_3349.jpg" medium="image">
+			<media:title type="html">IMG_3349</media:title>
+		</media:content>
+
+		<media:content url="http://rottenindenmark.files.wordpress.com/2013/12/img_3825.jpg" medium="image">
+			<media:title type="html">IMG_3825</media:title>
+		</media:content>
+
+		<media:content url="http://rottenindenmark.files.wordpress.com/2013/12/img_3819.jpg" medium="image">
+			<media:title type="html">IMG_3819</media:title>
+		</media:content>
+
+		<media:content url="http://rottenindenmark.files.wordpress.com/2013/12/img_3801.jpg" medium="image">
+			<media:title type="html">IMG_3801</media:title>
+		</media:content>
+
+		<media:content url="http://rottenindenmark.files.wordpress.com/2013/12/img_3796.jpg" medium="image">
+			<media:title type="html">IMG_3796</media:title>
+		</media:content>
+
+		<media:content url="http://rottenindenmark.files.wordpress.com/2013/12/img_3665.jpg" medium="image">
+			<media:title type="html">IMG_3665</media:title>
+		</media:content>
+
+		<media:content url="http://rottenindenmark.files.wordpress.com/2013/12/img_3615.jpg" medium="image">
+			<media:title type="html">IMG_3615</media:title>
+		</media:content>
+
+		<media:content url="http://rottenindenmark.files.wordpress.com/2013/12/img_3780.jpg" medium="image">
+			<media:title type="html">IMG_3780</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>What Happens When One of Your Coworkers Dies</title>
+		<link>http://rottenindenmark.wordpress.com/2013/12/20/what-happens-when-one-of-your-coworkers-dies/</link>
+		<comments>http://rottenindenmark.wordpress.com/2013/12/20/what-happens-when-one-of-your-coworkers-dies/#comments</comments>
+		<pubDate>Fri, 20 Dec 2013 06:08:40 +0000</pubDate>
+		<dc:creator><![CDATA[Mike]]></dc:creator>
+				<category><![CDATA[Essays]]></category>
+		<category><![CDATA[London]]></category>
+		<category><![CDATA[Personal]]></category>
+		<category><![CDATA[Work]]></category>
+
+		<guid isPermaLink="false">http://rottenindenmark.wordpress.com/?p=7185</guid>
+		<description><![CDATA[Originally posted on The Billfold &#160; The first thing that happens is someone tells you. It’s Tuesday, it’s February, it’s my first day back at work after a week on vacation. I notice the candle in the foyer just as &#8230; <a href="http://rottenindenmark.wordpress.com/2013/12/20/what-happens-when-one-of-your-coworkers-dies/">Continue reading <span class="meta-nav">&#8594;</span></a><img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=rottenindenmark.wordpress.com&#038;blog=15624535&#038;post=7185&#038;subd=rottenindenmark&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p><em>Originally posted on <a href="http://thebillfold.com/2013/12/what-happens-when-one-of-your-coworkers-dies/">The Billfold</a></em></p>
+<p>&nbsp;</p>
+<p>The first thing that happens is someone tells you.</p>
+<p>It’s Tuesday, it’s February, it’s my first day back at work after a week on vacation. I notice the candle in the foyer just as the whoosh of the door blows it out. <em>They never did that for </em>my<em> birthday</em>, I think as I walk past reception.</p>
+<p>This is my job. It’s a publisher, we make coffee table books about movies, architecture, political issues that lend themselves to stock photography. Most of us think of ourselves as writers, though that is not really what we do anymore.</p>
+<p>Dominic is the one who tells me. He and Naomi are here already, sitting at opposite desks, leaning in like they’re playing Battleship. Dominic bikes here from some distant suburb I’ve never heard of, then showers and changes into the same thing every day: pressed white shirt, pastel v-neck, khakis, loafers. I’ve never been here early enough to see what he’s wearing when he arrives.</p>
+<p>“Hey there Mike,” he says. His Dutch accent sharpens the th’s into d’s. <em>Hey der. </em>He turns off his monitor and swivels toward me.</p>
+<p>Naomi looks up, holding a mug dangling two teabag strings. She moved here three months ago from Australia, she still has that new-hire enthusiasm, the “let’s make great books!” gusto we’re all waiting to wear off.</p>
+<p>“Well hello, Mike!” she says as I de-layer at my desk—hat, scarf, gloves—and turn my computer on.</p>
+<p>She’s about to say something else, but Dominic gives a little traffic-cop hand wave and she stops.</p>
+<p>“Mike don’t open your e-mails,” he says.</p>
+<p>That’s when I notice that our office has a candle in it too.</p>
+<p>“You need to know,” he says, trails off, starts again, “that Colin has passed away.”</p>
+<p>“Colin in marketing?”</p>
+<p>“Correct.”</p>
+<p>Colin Schwartz. The guy at the back of the external-relations office, a sliver between two big iMac screens.</p>
+<p>“Oh fuck,” I say. “How?”</p>
+<p>Last Monday, Dominic says, Colin didn’t show up to work and didn’t call or e-mail to explain where he was. On Tuesday his boss told HR. On Thursday the office manager went to his apartment to see if he was home. No one answered her knock. She called the police. They forced open the door and found his body.</p>
+<p>“Oh fuck,” I say again. “Was it like a heart attack or something?”</p>
+<p>“Well, as you may know, Colin was depressed,” Dominic says. “He had some emotional problems. So it looks like…”</p>
+<p>“Oh <em>fuck</em>,” I say. “Are you saying he killed himself?”</p>
+<p>“Nothing’s clear right now.”</p>
+<p>“They had a meeting yesterday and the MD told us,” Naomi says. “Everyone in marketing went home.”</p>
+<p>I stare at my keyboard for a second, type in my password, open Outlook. There’s the official announcement from our president, the meeting cancellations, the invite from comms to record memories of Colin.</p>
+<p>“OK Mike,” Dominic says, and swivels back to his desk.</p>
+<p>“So, um,” Naomi says, “how was your vacation?”</p>
+<p style="text-align:center;">&#8212;</p>
+<p>The next thing that happens is we are terrible.</p>
+<p>“I don’t want to say I saw it coming or anything, but it’s not exactly out of the blue,” says Bill, who runs our Twitter feed.</p>
+<p>The roof of our building is the size of a soccer field, but we’re bunched together by the door, hoods up, facing away from the wind. Bill is the only one smoking out here, the rest of us are just listening.</p>
+<p>“They were working him too hard,” says Will, one of the copy editors. “Marketing’s way understaffed.”</p>
+<p>I barely knew Colin. He sat two offices down from me, but we never worked on anything together, never laid eyes on each other after 5 p.m. Our relationship consisted, in its entirety, of work-related small talk in the break room, his lunch rotating behind us in the microwave. Ding, stir, have a good rest of your day.</p>
+<p>After Dominic told me, I spent an hour thinking things like, <em>Was it something I did? Could I have reached out to him? </em>Then I spent at least twice that long thinking, <em>Of course not, asshole</em>.</p>
+<p>“I was on a conference call with Colin two weeks ago. He stopped talking in the middle of a sentence and just started breathing really loud,” Bill says.</p>
+<p>I’ve been having conversations like this all over the building. It’s Wednesday, it’s right after lunch, it’s been two days since they announced Colin died. And this is how we’ve spent it: Bunched up in corners, whispering things to see if they are true.</p>
+<p>Sarah from finance wonders if Colin’s death has anything to do with the department restructuring. Mark in HR heard Colin didn’t take a vacation for the last two years. Tina from photos heard Colin moved here to study at the London School of Economics, but dropped out.</p>
+<p>None of these people knew Colin any better than I did. We’re just magnifying what we know, zooming in on the crumbs as if it will reveal where they lead.</p>
+<p>“You know they changed his job title without consulting him.” Bill says, and the rest of us nod solemnly.</p>
+<p>I wish I could say I was the grown-up here, the one who pointed out that none of us really knew Colin, that his death was none of our business, that we should all get back to work. But I wasn’t.</p>
+<p>“He was gay,” I say. I only found this out yesterday, when Dominic mentioned Colin’s boyfriend had been notified. “Do you think that has anything to do with it?”</p>
+<p>“The weird thing is, Colin never struck me as the unhappiest person here,” says Jessica, the receptionist. “I would have put Colin way down the list. Like, look at Chris in Online. That guy puts in earbuds when he walks to the bathroom.”</p>
+<p>“I saw Lucy talking to the external relations director yesterday,” Will says. “I think she’s applying for his job.”</p>
+<p>“Oh shit I hope it’s not her,” Bill says. “Remember that presentation she gave at the annual meeting last year?” I smirk along with everyone else. Bill lights another cigarette, giving us all permission to stay out here at least five more minutes.</p>
+<p style="text-align:center;">&#8212;</p>
+<p>The next thing that happens is we mourn.</p>
+<p>It’s Thursday, it’s 10 a.m., it’s our weekly staff meeting. Colin’s picture is projected on the wall. The senior management team is sitting in suits at the big conference table, each with their own box of tissues.</p>
+<p>I’m leaning against the wall. There’s only room in here for about 50 chairs, most of us are standing. Naomi is in sitting down next to me, she’s already crying.</p>
+<p>The managing director starts talking, the only voice in the room. He tells us how this is going to work. For the last two days, comms has been recording employees talking about Colin, how they want to remember him. Today we’re going to watch the video.</p>
+<p>“The speculation has to stop,” he says. “Colin died of natural causes.”</p>
+<p>He nods over to the comms director, who hits play. The video begins with Colin’s work—excerpts of promos he made, books he launched, conference presentations he gave—then the rest is testimonials from his colleagues. They’re edited together in reverse hierarchical order.</p>
+<p>Interns, then assistants, then peers, describe working with Colin. The time they bumped into him at the printer, the time his soup exploded in the microwave, the time they sat together on a bus from the airport to a conference, each with their headphones on.</p>
+<p>Story after story, they’re all like this, proximity aspiring to intimacy, and it’s clear that no one here knew him, not the people in his department, not his managers, not the people he had lunch with and traveled with. They talk about his cluttered desk, his e-mail forwards, his cocktails at the Christmas party. They try to pull a person out of the time he spent here and they can’t.</p>
+<p>“I always said hi to Colin when I passed him in the hall,” says someone on the video.</p>
+<p>Naomi stops crying. She makes a little sound like she’s surprised, like she’s discovered the exact borders of her compassion. She takes a shallow breath, puts her purse on her lap, starts looking through it for tissues.</p>
+<p>Colin’s boss is on vacation this week. He recorded a message by webcam. He’s lying on his side on a hotel bed. He talks about the clarity of Colin’s press releases as palm trees shudder in the wind behind him.</p>
+<p>“I wish I had gotten to know him better,” he says. “He seemed nice.”</p>
+<p>That comment, those three words, and I jerk my head away from the screen. I look out the window and there is a huge piece of bird shit on the windowsill. People on the screen keep talking, managers and directors now, but their memories of him are all the same hellos and bump-intos and chit-chats, and I realize this is it, this is what he left behind, his lunch and his e-mails and the clever thing he wrote on his boss’s birthday card. I close my eyes and the video goes on and on and then I open them and everyone around me is crying.</p>
+<p>The last clip is the MD, chest heaving. He’s telling the camera, us, how Colin prepped him for his first TV interview.</p>
+<p>“Don’t gesture so much,” Colin told him, “Gesturing looks awkward on TV. Emphasize with your words, not your hands.”</p>
+<p>The MD did his interview, a whole hour, with his hands in his lap, as instructed. And afterwards he asked Colin, “how did I do?” and Colin said “You were like a statue up there! Why didn’t you use your hands?!”</p>
+<p>And we all laugh, and the camera stays pointed at the MD, and his smile fades, his eyes go wet, he lets out a sob and the camera turns off and the screen shows Colin’s picture again.</p>
+<p style="text-align:center;">&#8212;</p>
+<p>The next thing that happens is it makes us close.</p>
+<p>After the staff meeting, we shut the door to our office and Naomi asks me if I knew anyone else who died. I tell her about my godmother who got brain cancer when I was 12.</p>
+<p>“Did you know her well?” she asks.</p>
+<p>“In whatever way kids know adults, I guess. We spent a lot of time together when I was little. I mostly remember her mac and cheese.”</p>
+<p>Then I ask Naomi and she tells me about the principal of her Catholic school who died in a car accident when she was seven. It was her first funeral, and she raised his hand in the middle of the eulogy to ask a question. As she’s telling it she lets herself smile a little, and I realize I never knew she went to Catholic school.</p>
+<p>It’s like this the rest of the week. Maybe it’s because the MD asked us to stop speculating, or maybe everyone else saw the video like I did, felt the same urgency to populate this place, but we stop talking about Colin and we start talking about us.</p>
+<p>On the roof, Bill tells me that his parents died when he was 22. He had just finished his first triathlon, and was so tired he fell asleep on the note his roommate had left on his bed. He woke up, pulled it out from under the covers and read it, still in his little running shorts.</p>
+<p>In the break room, Jessica is hanging up a picture of Colin. She tells me that when she was 10 years old she accidentally took a big handful of children’s Tylenol because it was flavored and she thought it was candy.</p>
+<p>“For years, my parents thought it was a suicide attempt,” she says, yanking out a strip of scotch tape.</p>
+<p>On Friday Dominic and I walk to the train station together and he tells me about the cat he buried in his backyard when he was seven.</p>
+<p>“I dug him up two years ago,’ he says, “and he was just a box of bones.’ He makes two fists, huge in his mittens, to show me his size.</p>
+<p style="text-align:center;">&#8212;</p>
+<p>The next thing that happens is it’s all over.</p>
+<p>Monday morning, in the corridor past reception, I walk past marketing and hear someone say. “Did you see Jessica crying at the staff meeting? She barely even knew him.”</p>
+<p>Dominic is already here, and I wonder if his khakis, his pianist posture, are the things I would say about him if he died.</p>
+<p>“Did Naomi send the invite last week for the meeting with research?” he says.</p>
+<p>“I don’t think so,” I say. “With everything happening last week, she must have forgotten.”</p>
+<p>“Well if people are going to be here,” he says, “they might as well be working.”</p>
+<p>It’s not that we forget, it’s just that we’re done remembering together. As the memorial fades from memory, as the tasks pile up and dwindle, as we all settle back into our boxes on the org chart, our dead colleague becomes just another thing we think about but don’t say.</p>
+<p>The last time we talk about Colin at work is in a budget meeting. It’s March, it’s six weeks since Colin died, it’s me and Dominic in a conference room with Marketing, getting an overview of our spending before the quarterly board meeting.</p>
+<p>“What’s this 40,000 that appeared in the budget in February?” Dominic asks.</p>
+<p>“That’s Colin,” says Bill. Dead people don’t get salaries, so Colin’s appears as a surplus.</p>
+<p>“OK,” Dominic says. “And why has this travel spending figure been adjusted?”</p>
+<p>And that’s it, we just move through the rest of the budget. I think about looking up, making eye contact across the table, sharing an acknowledgement of the moment that just passed. Instead, I just keep my eyes on the Excel sheet, keep following the numbers with my pencil.</p>
+<p style="text-align:center;">&#8212;</p>
+<p>The last thing that happens is Naomi quits.</p>
+<p>“I’m going back to my old job in Adelaide,” she says. It’s April, it’s Friday, it’s two months since Colin died. We’re sitting on the stoop of a church near work, holding paper coffee cups with two hands, watching rain drip from the awning.</p>
+<p>“Why?” I ask.</p>
+<p>“Do you remember Colin?” she says.</p>
+<p>I tell her I barely knew him.</p>
+<p>“Neither did I,” she says. “But do you remember the week after he died?”</p>
+<p>We talk about the memorial, everyone crying, how we were with each other afterwards, how we’re not anymore.</p>
+<p>“I keep making these pledges to get to know people here,” she says, “and then in the very next second I know that I’m not going to, that it’s too hard. At least back in Australia I have family waiting for me at the end of the day.”</p>
+<p>I feel like we should hug now but we don’t. I stand up, take the empty coffee cup out of Naomi’s hand, throw it in the trash.</p>
+<p>It’s later, it’s after Naomi left, it’s me and Dominic in the break room, his lunch rotating in the microwave. He’s looking at the picture of Colin posted on the wall.</p>
+<p>“It’s too close to the microwave,” he says. “The steam is going to make it come down.”</p>
+<p>As if agreeing, the microwave dings.</p>
+<p>“Here,” he says.</p>
+<p>He leans in, grabs it from the wall, moves it higher, sticks it back to the wall. “That’s better.”</p>
+<p>He grabs his soup from the microwave, stirs it.</p>
+<p>“OK Mike,” he says. “Have a good rest of your day.”</p><br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/rottenindenmark.wordpress.com/7185/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/rottenindenmark.wordpress.com/7185/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=rottenindenmark.wordpress.com&#038;blog=15624535&#038;post=7185&#038;subd=rottenindenmark&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://rottenindenmark.wordpress.com/2013/12/20/what-happens-when-one-of-your-coworkers-dies/feed/</wfw:commentRss>
+		<slash:comments>104</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/c35fd6249a1967812426f2821d7012e4?s=96&#38;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#38;r=R" medium="image">
+			<media:title type="html">specificshardlymatter</media:title>
+		</media:content>
+	</item>
+	</channel>
+</rss>
