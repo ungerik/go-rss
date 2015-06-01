@@ -1,3 +1,23 @@
-Simple RSS parser, tested with Wordpress feeds.
+Simple RSS parser, tested with various feeds.
 
 License: Public Domain
+
+## Installation
+
+    go get github.com/ungerik/go-rss
+
+## Usage
+
+
+    import "github.com/ungerik/go-rss"
+
+    channel, err := rss.Read("https://en.blog.wordpress.com/feed/")
+    if err != nil {
+    	fmt.Println(err)
+    }
+
+    fmt.Println(channel.Title)
+
+    for _, item := range channel.Item {
+      fmt.Println(item.Title)
+    }
