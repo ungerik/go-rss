@@ -1,6 +1,4 @@
-/**
- * Simple RSS parser, tested with various feeds.
- */
+//Package rss provides a Simple RSS parser, tested with various feeds.
 package rss
 
 import (
@@ -9,17 +7,19 @@ import (
 	"time"
 
 	"code.google.com/p/go-charset/charset"
-	_ "code.google.com/p/go-charset/data"
+	_ "code.google.com/p/go-charset/data" //initialize only
 )
 
 const (
 	wordpressDateFormat = "Mon, 02 Jan 2006 15:04:05 -0700"
 )
 
+//Fetcher interface
 type Fetcher interface {
 	Get(url string) (resp *http.Response, err error)
 }
 
+//Channel struct for RSS
 type Channel struct {
 	Title         string `xml:"title"`
 	Link          string `xml:"link"`
@@ -29,11 +29,13 @@ type Channel struct {
 	Item          []Item `xml:"item"`
 }
 
+//ItemEnclosure struct for each Item Enclosure
 type ItemEnclosure struct {
 	URL  string `xml:"url,attr"`
 	Type string `xml:"type,attr"`
 }
 
+//Item struct for each Item in the Channel
 type Item struct {
 	Title       string          `xml:"title"`
 	Link        string          `xml:"link"`
@@ -46,40 +48,48 @@ type Item struct {
 	Content     string          `xml:"content"`
 }
 
+//Date type
 type Date string
 
-func (self Date) Parse() (time.Time, error) {
-	t, err := self.ParseWithFormat(wordpressDateFormat)
+//Parse (Date function) and returns Time, error
+func (d Date) Parse() (time.Time, error) {
+	t, err := d.ParseWithFormat(wordpressDateFormat)
 	if err != nil {
-		t, err = self.ParseWithFormat(time.RFC822) // RSS 2.0 spec
+		t, err = d.ParseWithFormat(time.RFC822) // RSS 2.0 spec
 	}
 	return t, err
 }
 
-func (self Date) ParseWithFormat(format string) (time.Time, error) {
-	return time.Parse(format, string(self))
+//ParseWithFormat (Date function), takes a string and returns Time, error
+func (d Date) ParseWithFormat(format string) (time.Time, error) {
+	return time.Parse(format, string(d))
 }
 
-func (self Date) Format(format string) (string, error) {
-	t, err := self.Parse()
+//Format (Date function), takes a string and returns string, error
+func (d Date) Format(format string) (string, error) {
+	t, err := d.Parse()
 	if err != nil {
 		return "", err
 	}
 	return t.Format(format), nil
 }
 
-func (self Date) MustFormat(format string) string {
-	s, err := self.Format(format)
+//MustFormat (Date function), take a string and returns string
+func (d Date) MustFormat(format string) string {
+	s, err := d.Format(format)
 	if err != nil {
 		return err.Error()
 	}
 	return s
 }
 
+//Read a string url and returns a Channel struct, error
 func Read(url string) (*Channel, error) {
 	return ReadWithClient(url, http.DefaultClient)
 }
 
+//ReadWithClient a string url and custom client that must match the Fetcher interface
+//returns a Channel struct, error
 func ReadWithClient(url string, client Fetcher) (*Channel, error) {
 	response, err := client.Get(url)
 	if err != nil {
