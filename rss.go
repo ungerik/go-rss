@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"time"
 
-	"code.google.com/p/go-charset/charset"
-	_ "code.google.com/p/go-charset/data" //initialize only
+	"github.com/suapapa/go-charset/charset"
+	_ "github.com/suapapa/go-charset/data" //initialize only
 )
 
 const (
