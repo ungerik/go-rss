@@ -46,6 +46,7 @@ type Item struct {
 	Enclosure   []ItemEnclosure `xml:"enclosure"`
 	Description string          `xml:"description"`
 	Content     string          `xml:"content"`
+	FullText    string          `xml:"full-text"`
 }
 
 //Date type
