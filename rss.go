@@ -5,6 +5,7 @@ import (
 	"encoding/xml"
 	"net/http"
 	"time"
+	"crypto/tls"
 
 	"github.com/paulrosania/go-charset/charset"
 	_ "github.com/paulrosania/go-charset/data" //initialize only
@@ -87,6 +88,16 @@ func (d Date) MustFormat(format string) string {
 //Read a string url and returns a Channel struct, error
 func Read(url string) (*Channel, error) {
 	return ReadWithClient(url, http.DefaultClient)
+}
+
+//Read without certificate check
+func InsecureRead(url string) (*Channel, error) {
+	tr := &http.Transport{
+		TLSClientConfig: &tls.Config{InsecureSkipVerify: true},
+	}
+	client := &http.Client{Transport: tr}
+
+	return ReadWithClient(url, client)
 }
 
 //ReadWithClient a string url and custom client that must match the Fetcher interface
