@@ -46,6 +46,7 @@ type Item struct {
 	Category    []string        `xml:"category"`
 	Enclosure   []ItemEnclosure `xml:"enclosure"`
 	Description string          `xml:"description"`
+	Author 		string          `xml:"author"`
 	Content     string          `xml:"content"`
 	FullText    string          `xml:"full-text"`
 }
