@@ -30,7 +30,7 @@ func (f *testFetcher) Get(url string) (resp *http.Response, err error) {
 }
 
 // A trivial test making sure that that all feeds parse - it *does not* check
-// for correctness or completeness thereof.
+// for correctness or completeness thereof, except for dates.
 func TestAllFeedsParse(t *testing.T) {
 	fileInfos, err := ioutil.ReadDir(testDataDir)
 	if err != nil {
@@ -41,8 +41,14 @@ func TestAllFeedsParse(t *testing.T) {
 		if !strings.HasSuffix(fileName, testFileSuffix) {
 			continue
 		}
-		if _, err := ReadWithClient(fileName, new(testFetcher)); err != nil {
+		channel, err := ReadWithClient(fileName, new(testFetcher))
+		if err != nil {
 			t.Fatalf("ReadWithClient(%q) err = %v, expected nil", fileName, err)
+		}
+		for _, item := range channel.Item {
+			if _, err := item.PubDate.Parse(); err != nil {
+				t.Fatalf("Date Parser(%q) err = %v, expected nil", fileName, err)
+			}
 		}
 	}
 }

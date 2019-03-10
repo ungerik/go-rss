@@ -46,7 +46,7 @@ type Item struct {
 	Category    []string        `xml:"category"`
 	Enclosure   []ItemEnclosure `xml:"enclosure"`
 	Description string          `xml:"description"`
-	Author 		string          `xml:"author"`
+	Author      string          `xml:"author"`
 	Content     string          `xml:"content"`
 	FullText    string          `xml:"full-text"`
 }
@@ -59,6 +59,9 @@ func (d Date) Parse() (time.Time, error) {
 	t, err := d.ParseWithFormat(wordpressDateFormat)
 	if err != nil {
 		t, err = d.ParseWithFormat(time.RFC822) // RSS 2.0 spec
+		if err != nil {
+			t, err = d.ParseWithFormat(time.RFC3339) // Atom
+		}
 	}
 	return t, err
 }
