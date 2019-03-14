@@ -94,7 +94,7 @@ func Read(url string) (*Channel, error) {
 	return ReadWithClient(url, http.DefaultClient)
 }
 
-//Read without certificate check
+//InsecureRead reads without certificate check
 func InsecureRead(url string) (*Channel, error) {
 	tr := &http.Transport{
 		TLSClientConfig: &tls.Config{InsecureSkipVerify: true},
