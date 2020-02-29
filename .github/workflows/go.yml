@@ -16,8 +16,8 @@ jobs:
     - name: check out
       uses: actions/checkout@v2
     
-    - name: go get
-      run: go get -u -v ./...
+    - name: deps
+      run: go get -v -t -d ./...
 
     - name: vet and build
       run: go vet ./... && go build
