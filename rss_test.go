@@ -1,6 +1,7 @@
 package rss
 
 import (
+	"fmt"
 	"io/ioutil"
 	"net/http"
 	"os"
@@ -41,10 +42,17 @@ func TestAllFeedsParse(t *testing.T) {
 		if !strings.HasSuffix(fileName, testFileSuffix) {
 			continue
 		}
-		channel, err := ReadWithClient(fileName, new(testFetcher))
+
+		resp, err := ReadWithClient(fileName, new(testFetcher))
 		if err != nil {
 			t.Fatalf("ReadWithClient(%q) err = %v, expected nil", fileName, err)
 		}
+
+		channel, err := Regular(resp)
+		if err != nil {
+			fmt.Println(err)
+		}
+
 		for _, item := range channel.Item {
 			if _, err := item.PubDate.Parse(); err != nil {
 				t.Fatalf("Date Parser(%q) err = %v, expected nil", fileName, err)

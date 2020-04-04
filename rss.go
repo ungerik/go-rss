@@ -1,54 +1,16 @@
-//Package rss provides a Simple RSS parser, tested with various feeds.
 package rss
 
 import (
-	"encoding/xml"
+	"crypto/tls"
 	"net/http"
 	"time"
-	"crypto/tls"
-
-	"github.com/paulrosania/go-charset/charset"
-	_ "github.com/paulrosania/go-charset/data" //initialize only
 )
 
-const (
-	wordpressDateFormat = "Mon, 02 Jan 2006 15:04:05 -0700"
-)
+const wordpressDateFormat = "Mon, 02 Jan 2006 15:04:05 -0700"
 
 //Fetcher interface
 type Fetcher interface {
 	Get(url string) (resp *http.Response, err error)
-}
-
-//Channel struct for RSS
-type Channel struct {
-	Title         string `xml:"title"`
-	Link          string `xml:"link"`
-	Description   string `xml:"description"`
-	Language      string `xml:"language"`
-	LastBuildDate Date   `xml:"lastBuildDate"`
-	Item          []Item `xml:"item"`
-}
-
-//ItemEnclosure struct for each Item Enclosure
-type ItemEnclosure struct {
-	URL  string `xml:"url,attr"`
-	Type string `xml:"type,attr"`
-}
-
-//Item struct for each Item in the Channel
-type Item struct {
-	Title       string          `xml:"title"`
-	Link        string          `xml:"link"`
-	Comments    string          `xml:"comments"`
-	PubDate     Date            `xml:"pubDate"`
-	GUID        string          `xml:"guid"`
-	Category    []string        `xml:"category"`
-	Enclosure   []ItemEnclosure `xml:"enclosure"`
-	Description string          `xml:"description"`
-	Author      string          `xml:"author"`
-	Content     string          `xml:"content"`
-	FullText    string          `xml:"full-text"`
 }
 
 //Date type
@@ -90,12 +52,12 @@ func (d Date) MustFormat(format string) string {
 }
 
 //Read a string url and returns a Channel struct, error
-func Read(url string) (*Channel, error) {
+func Read(url string) (*http.Response, error) {
 	return ReadWithClient(url, http.DefaultClient)
 }
 
 //InsecureRead reads without certificate check
-func InsecureRead(url string) (*Channel, error) {
+func InsecureRead(url string) (*http.Response, error) {
 	tr := &http.Transport{
 		TLSClientConfig: &tls.Config{InsecureSkipVerify: true},
 	}
@@ -106,20 +68,10 @@ func InsecureRead(url string) (*Channel, error) {
 
 //ReadWithClient a string url and custom client that must match the Fetcher interface
 //returns a Channel struct, error
-func ReadWithClient(url string, client Fetcher) (*Channel, error) {
+func ReadWithClient(url string, client Fetcher) (*http.Response, error) {
 	response, err := client.Get(url)
 	if err != nil {
 		return nil, err
 	}
-	defer response.Body.Close()
-	xmlDecoder := xml.NewDecoder(response.Body)
-	xmlDecoder.CharsetReader = charset.NewReader
-
-	var rss struct {
-		Channel Channel `xml:"channel"`
-	}
-	if err = xmlDecoder.Decode(&rss); err != nil {
-		return nil, err
-	}
-	return &rss.Channel, nil
+	return response, nil
 }
