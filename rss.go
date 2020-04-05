@@ -52,24 +52,36 @@ func (d Date) MustFormat(format string) string {
 }
 
 //Read a string url and returns a Channel struct, error
-func Read(url string) (*http.Response, error) {
-	return ReadWithClient(url, http.DefaultClient)
+func Read(url string, reddit bool) (*http.Response, error) {
+	return ReadWithClient(url, http.DefaultClient, reddit)
 }
 
 //InsecureRead reads without certificate check
-func InsecureRead(url string) (*http.Response, error) {
+func InsecureRead(url string, reddit bool) (*http.Response, error) {
 	tr := &http.Transport{
 		TLSClientConfig: &tls.Config{InsecureSkipVerify: true},
 	}
 	client := &http.Client{Transport: tr}
 
-	return ReadWithClient(url, client)
+	return ReadWithClient(url, client, reddit)
 }
 
 //ReadWithClient a string url and custom client that must match the Fetcher interface
 //returns a Channel struct, error
-func ReadWithClient(url string, client Fetcher) (*http.Response, error) {
-	response, err := client.Get(url)
+func ReadWithClient(url string, client *http.Client, reddit bool) (*http.Response, error) {
+	req, err := http.NewRequest("GET", url, nil)
+	if err != nil {
+		return nil, err
+	}
+
+	// This header is required to read Reddit Feeds, see:
+	// https://www.reddit.com/r/redditdev/comments/5w60r1/error_429_too_many_requests_i_havent_made_many/
+	// Note: a random string is required to prevent occurrence of 'Too Many Requests' response.
+	if reddit {
+		req.Header.Set("user-agent", "hello:myappname:v0.0 (by /u/ocelost)")
+	}
+
+	response, err := client.Do(req)
 	if err != nil {
 		return nil, err
 	}

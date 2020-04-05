@@ -1,3 +1,4 @@
+https://reddit.com/.rss
 http://blog.golang.org/feed.atom
 http://feeds.nos.nl/nosnieuwsalgemeen
 https://aws.amazon.com/blogs/devops/feed
@@ -14,3 +15,4 @@ https://www.docker.com/blog/feed
 https://www.theregister.co.uk/data_centre/bofh/headlines.atom
 https://www.theregister.co.uk/devops/headlines.atom
 https://xkcd.com/rss.xml
+https://www.filmvandaag.nl/feeds/rss/nieuws
