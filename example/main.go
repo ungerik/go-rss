@@ -4,6 +4,7 @@ import (
 	"bufio"
 	"fmt"
 	"log"
+	"net/url"
 	"os"
 	"path/filepath"
 
@@ -20,15 +21,27 @@ func main() {
 
 	scanner := bufio.NewScanner(file)
 	for scanner.Scan() {
-		url := scanner.Text()
-		ext := filepath.Ext(url)
+		stringURL := scanner.Text()
+		ext := filepath.Ext(stringURL)
 
-		resp, err := rss.Read(url)
+		u, err := url.Parse(stringURL)
+		if err != nil {
+			panic(err)
+		}
+
+		fmt.Println("\n" + u.Host)
+
+		reddit := false
+		if u.Host == "reddit.com" {
+			reddit = true
+		}
+
+		resp, err := rss.Read(stringURL, reddit)
 		if err != nil {
 			fmt.Println(err)
 		}
 
-		if ext == ".atom" {
+		if ext == ".atom" || u.Host == "reddit.com" {
 			feed, err := rss.Atom(resp)
 			if err != nil {
 				fmt.Println(err)
@@ -50,7 +63,7 @@ func main() {
 				if err != nil {
 					fmt.Println(err)
 				}
-				fmt.Println(time.String() + " " + item.Title)
+				fmt.Println(time.String() + " " + item.Title + " " + item.Link)
 			}
 		}
 	}
