@@ -1,0 +1,16 @@
+http://blog.golang.org/feed.atom
+http://feeds.nos.nl/nosnieuwsalgemeen
+https://aws.amazon.com/blogs/devops/feed
+https://aws.amazon.com/new/feed
+https://blog.centos.org/feed
+https://cloudblog.withgoogle.com/products/devops-sre/rss
+https://devblogs.microsoft.com/devops/feed
+https://github.blog/feed
+https://github.com/golang/go/releases.atom
+https://kubernetes.io/feed.xml
+https://stackoverflow.blog//feed
+https://ubuntu.com/blog/feed
+https://www.docker.com/blog/feed
+https://www.theregister.co.uk/data_centre/bofh/headlines.atom
+https://www.theregister.co.uk/devops/headlines.atom
+https://xkcd.com/rss.xml

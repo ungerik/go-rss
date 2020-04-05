@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed
+    xmlns="http://www.w3.org/2005/Atom">
+    <category term="google" label="r/google"/>
+    <updated>2020-04-04T10:59:23+00:00</updated>
+    <icon>https://www.redditstatic.com/icon.png/</icon>
+    <id>/r/google.xml</id>
+    <link rel="self" href="https://www.reddit.com/r/google.xml" type="application/atom+xml" />
+    <link rel="alternate" href="https://www.reddit.com/r/google" type="text/html" />
+    <subtitle>For news and announcements from and about Google</subtitle>
+    <title>Google</title>
+    <entry>
+        <author>
+            <name>/u/AutoModerator</name>
+            <uri>https://www.reddit.com/user/AutoModerator</uri>
+        </author>
+        <category term="google" label="r/google"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Have a question you need answered? A new Google product you want to talk about? Ask away here!&lt;/p&gt; &lt;p&gt;Recently, we at &lt;a href=&quot;/r/Google&quot;&gt;/r/Google&lt;/a&gt; have noticed a large number of support questions being asked. For a long time, we’ve removed these posts and directed the users to other subreddits, like &lt;a href=&quot;/r/techsupport&quot;&gt;/r/techsupport&lt;/a&gt;. However, we feel that users should be able to ask their Google-related questions here. These monthly threads serve as a hub for all of the support you need, as well as discussion about any Google products.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;&lt;strong&gt;Please note!&lt;/strong&gt; Top level comments must be related to the topics discussed above. Any comments made off-topic will be removed at the discretion of the Moderator team.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://discordapp.com/invite/Google&quot;&gt;&lt;strong&gt;Discord Server&lt;/strong&gt;&lt;/a&gt; We have made a Discord Server for more in-depth discussions relating to Google and for quicker response to tech support questions.&lt;/p&gt; &lt;/blockquote&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AutoModerator&quot;&gt; /u/AutoModerator &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/ex4p3v/monthly_discussion_and_support_thread_february/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/ex4p3v/monthly_discussion_and_support_thread_february/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_ex4p3v</id>
+        <link href="https://www.reddit.com/r/google/comments/ex4p3v/monthly_discussion_and_support_thread_february/" />
+        <updated>2020-02-01T11:13:12+00:00</updated>
+        <title>Monthly Discussion and Support Thread - February 2020</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/AutoModerator</name>
+            <uri>https://www.reddit.com/user/AutoModerator</uri>
+        </author>
+        <category term="google" label="r/google"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Have a question you need answered? A new Google product you want to talk about? Ask away here!&lt;/p&gt; &lt;p&gt;Recently, we at &lt;a href=&quot;/r/Google&quot;&gt;/r/Google&lt;/a&gt; have noticed a large number of support questions being asked. For a long time, we’ve removed these posts and directed the users to other subreddits, like &lt;a href=&quot;/r/techsupport&quot;&gt;/r/techsupport&lt;/a&gt;. However, we feel that users should be able to ask their Google-related questions here. These monthly threads serve as a hub for all of the support you need, as well as discussion about any Google products.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;&lt;strong&gt;Please note!&lt;/strong&gt; Top level comments must be related to the topics discussed above. Any comments made off-topic will be removed at the discretion of the Moderator team.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://discordapp.com/invite/Google&quot;&gt;&lt;strong&gt;Discord Server&lt;/strong&gt;&lt;/a&gt; We have made a Discord Server for more in-depth discussions relating to Google and for quicker response to tech support questions.&lt;/p&gt; &lt;/blockquote&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AutoModerator&quot;&gt; /u/AutoModerator &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/fsxuui/monthly_discussion_and_support_thread_april_2020/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/fsxuui/monthly_discussion_and_support_thread_april_2020/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_fsxuui</id>
+        <link href="https://www.reddit.com/r/google/comments/fsxuui/monthly_discussion_and_support_thread_april_2020/" />
+        <updated>2020-04-01T11:15:44+00:00</updated>
+        <title>Monthly Discussion and Support Thread - April 2020</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/ncdriver</name>
+            <uri>https://www.reddit.com/user/ncdriver</uri>
+        </author>
+        <category term="google" label="r/google"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;VentureBeat: Google’s AI accurately predicts physicians’ prescribing decisions 75% of the time. &lt;a href=&quot;https://venturebeat.com/2020/04/02/googles-ai-predicts-physicians-prescribing-decisions-75-of-the-time/&quot;&gt;https://venturebeat.com/2020/04/02/googles-ai-predicts-physicians-prescribing-decisions-75-of-the-time/&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ncdriver&quot;&gt; /u/ncdriver &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/fulxy8/googles_ai_accurately_predicts_physicians/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/fulxy8/googles_ai_accurately_predicts_physicians/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_fulxy8</id>
+        <link href="https://www.reddit.com/r/google/comments/fulxy8/googles_ai_accurately_predicts_physicians/" />
+        <updated>2020-04-04T02:42:43+00:00</updated>
+        <title>Google’s AI accurately predicts physicians’ prescribing decisions 75% of the time</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/dootah</name>
+            <uri>https://www.reddit.com/user/dootah</uri>
+        </author>
+        <category term="google" label="r/google"/>
+        <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/google/comments/fuqrqj/open_letter_to_google_not_compliant_two_words/&quot;&gt; &lt;img src=&quot;https://b.thumbs.redditmedia.com/HRXr8Lpz-r-l3wqLrGDCNDw-Pr4zvFkDl7TshMbl03g.jpg&quot; alt=&quot;Open Letter to Google - ‍‘Not compliant’ – Two words that are killing Coronavirus app innovation&quot; title=&quot;Open Letter to Google - ‍‘Not compliant’ – Two words that are killing Coronavirus app innovation&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/dootah&quot;&gt; /u/dootah &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.mysymptoms.app/open-letter-to-google-apple-my-symptoms-app&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/fuqrqj/open_letter_to_google_not_compliant_two_words/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+        <id>t3_fuqrqj</id>
+        <link href="https://www.reddit.com/r/google/comments/fuqrqj/open_letter_to_google_not_compliant_two_words/" />
+        <updated>2020-04-04T09:31:01+00:00</updated>
+        <title>Open Letter to Google - ‍‘Not compliant’ – Two words that are killing Coronavirus app innovation</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/wewewawa</name>
+            <uri>https://www.reddit.com/user/wewewawa</uri>
+        </author>
+        <category term="google" label="r/google"/>
+        <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/google/comments/fttxds/california_governor_says_we_need_more_googles_as/&quot;&gt; &lt;img src=&quot;https://b.thumbs.redditmedia.com/WrQUEx1Qt3SqCCr58IJgNGnJM-go_XU1Yl4Kvs7Kqec.jpg&quot; alt=&quot;California governor says ‘We need more Googles’ as company offers free Wi-Fi and Chromebooks to students&quot; title=&quot;California governor says ‘We need more Googles’ as company offers free Wi-Fi and Chromebooks to students&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/wewewawa&quot;&gt; /u/wewewawa &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.cnbc.com/2020/04/01/coronavirus-google-offers-wi-fi-chromebooks-to-california-students.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/fttxds/california_governor_says_we_need_more_googles_as/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+        <id>t3_fttxds</id>
+        <link href="https://www.reddit.com/r/google/comments/fttxds/california_governor_says_we_need_more_googles_as/" />
+        <updated>2020-04-02T20:31:28+00:00</updated>
+        <title>California governor says ‘We need more Googles’ as company offers free Wi-Fi and Chromebooks to students</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Sscoops</name>
+            <uri>https://www.reddit.com/user/Sscoops</uri>
+        </author>
+        <category term="google" label="r/google"/>
+        <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/google/comments/ftybo4/googles_new_3d_search_bring_it_to_life_ar_feature/&quot;&gt; &lt;img src=&quot;https://b.thumbs.redditmedia.com/IMxQH5EaGqLpF4feIYhqdWKswlsPNsPOOu8H7sXJuYY.jpg&quot; alt=&quot;Google's new 3D search, bring it to life AR feature&quot; title=&quot;Google's new 3D search, bring it to life AR feature&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Sscoops&quot;&gt; /u/Sscoops &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://v.redd.it/yu2xowi42iq41&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/ftybo4/googles_new_3d_search_bring_it_to_life_ar_feature/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+        <id>t3_ftybo4</id>
+        <link href="https://www.reddit.com/r/google/comments/ftybo4/googles_new_3d_search_bring_it_to_life_ar_feature/" />
+        <updated>2020-04-03T00:46:08+00:00</updated>
+        <title>Google's new 3D search, bring it to life AR feature</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/acoster</name>
+            <uri>https://www.reddit.com/user/acoster</uri>
+        </author>
+        <category term="google" label="r/google"/>
+        <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/google/comments/fu419w/new_google_launch_covid19_community_mobility/&quot;&gt; &lt;img src=&quot;https://b.thumbs.redditmedia.com/mYZISGMzXBP5UJVjdgKX1VLDkfmqcQs-j2JQWfOXVPE.jpg&quot; alt=&quot;New Google &amp;quot;launch&amp;quot;: COVID-19 Community Mobility Report&quot; title=&quot;New Google &amp;quot;launch&amp;quot;: COVID-19 Community Mobility Report&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/acoster&quot;&gt; /u/acoster &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.google.com/covid19/mobility/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/fu419w/new_google_launch_covid19_community_mobility/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+        <id>t3_fu419w</id>
+        <link href="https://www.reddit.com/r/google/comments/fu419w/new_google_launch_covid19_community_mobility/" />
+        <updated>2020-04-03T07:36:12+00:00</updated>
+        <title>New Google &quot;launch&quot;: COVID-19 Community Mobility Report</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/bassetisanasset</name>
+            <uri>https://www.reddit.com/user/bassetisanasset</uri>
+        </author>
+        <category term="google" label="r/google"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I have a pixel and love everything about it. The predictive text is so infuriating that it makes me want to go back to iOS.&lt;/p&gt; &lt;p&gt;Does anyone have luck using an iPhone when everything else in your home is Google? &lt;/p&gt; &lt;p&gt;I&amp;#39;m constantly having to retype and delete while writing. This was never an issue on iPhone. It can be a word like better and if I type bettwr it will leave it. &lt;/p&gt; &lt;p&gt;I love the pixel in every other way. I just wonder if anyone&amp;#39;s gone from the amazing integration of the pixel and their other home device and then back to iOS without feeling limited.&lt;/p&gt; &lt;p&gt;This is all because of how bad gboard is. And yes, I&amp;#39;ve tried 3rd party keyboards. I&amp;#39;ve had to hir the backspace a dozen times jn this sentence alone. I can&amp;#39;t deal anymore.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/bassetisanasset&quot;&gt; /u/bassetisanasset &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/fuecz2/using_google_home_and_assistant_with_iphone/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/fuecz2/using_google_home_and_assistant_with_iphone/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_fuecz2</id>
+        <link href="https://www.reddit.com/r/google/comments/fuecz2/using_google_home_and_assistant_with_iphone/" />
+        <updated>2020-04-03T19:07:03+00:00</updated>
+        <title>Using Google home and assistant with iphone</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/csrabbit</name>
+            <uri>https://www.reddit.com/user/csrabbit</uri>
+        </author>
+        <category term="google" label="r/google"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;When you google a &amp;quot;topic + &amp;#39;reddit&amp;#39;&amp;quot; now google returns incorrect results by date.&lt;/p&gt; &lt;p&gt;It will return articles that are years old as days old articles because below the old article on the reddit page reddit lists the newly posted articles in the sub with more recent dates and for some reason google is grabbing that date data instead of the actual date of the primary returned article.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/csrabbit&quot;&gt; /u/csrabbit &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/fucvcu/google_not_returning_reddit_results_properly/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/fucvcu/google_not_returning_reddit_results_properly/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_fucvcu</id>
+        <link href="https://www.reddit.com/r/google/comments/fucvcu/google_not_returning_reddit_results_properly/" />
+        <updated>2020-04-03T17:45:32+00:00</updated>
+        <title>Google not returning reddit results properly because of new.reddit's layout</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Constant_Sandwich</name>
+            <uri>https://www.reddit.com/user/Constant_Sandwich</uri>
+        </author>
+        <category term="google" label="r/google"/>
+        <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/google/comments/fu8w4v/google_keeps_supervpn_on_play_store_despite/&quot;&gt; &lt;img src=&quot;https://b.thumbs.redditmedia.com/CA2zGqH40LJ57Rt2RafBgJPF5-8HNhxpZTCLqQP8M7I.jpg&quot; alt=&quot;Google Keeps SuperVPN on Play Store Despite Vulnerability&quot; title=&quot;Google Keeps SuperVPN on Play Store Despite Vulnerability&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Constant_Sandwich&quot;&gt; /u/Constant_Sandwich &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://vpnpro.com/blog/google-confirms-supervpn-vulnerability-but-keeps-it-on-play-store/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/fu8w4v/google_keeps_supervpn_on_play_store_despite/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+        <id>t3_fu8w4v</id>
+        <link href="https://www.reddit.com/r/google/comments/fu8w4v/google_keeps_supervpn_on_play_store_despite/" />
+        <updated>2020-04-03T13:59:30+00:00</updated>
+        <title>Google Keeps SuperVPN on Play Store Despite Vulnerability</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/mbsw1110</name>
+            <uri>https://www.reddit.com/user/mbsw1110</uri>
+        </author>
+        <category term="google" label="r/google"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;m doing work from home thanks to corona, and I&amp;#39;m having issues running meetings with my mic through Google Meet. When coworkers run the meeting they don&amp;#39;t seem to have an issue, but when I start it I keep getting a message that says my mic has been turned off due to the size of the call. There were only 14 people in the call, but other people are leading calls with 80 people and don&amp;#39;t seem to have an issue. Any help would be great!!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/mbsw1110&quot;&gt; /u/mbsw1110 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/fu8vft/google_meet_help/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/fu8vft/google_meet_help/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_fu8vft</id>
+        <link href="https://www.reddit.com/r/google/comments/fu8vft/google_meet_help/" />
+        <updated>2020-04-03T13:58:18+00:00</updated>
+        <title>Google Meet Help</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/CheeseBoy4231</name>
+            <uri>https://www.reddit.com/user/CheeseBoy4231</uri>
+        </author>
+        <category term="google" label="r/google"/>
+        <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/google/comments/ftanhs/holy_shit/&quot;&gt; &lt;img src=&quot;https://b.thumbs.redditmedia.com/8bs6DbUbMKTQP79BDguYJZ_NWKwgtl2CXiOp31J3itk.jpg&quot; alt=&quot;holy shit&quot; title=&quot;holy shit&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/CheeseBoy4231&quot;&gt; /u/CheeseBoy4231 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/fle8qp6zdaq41.jpg&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/ftanhs/holy_shit/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+        <id>t3_ftanhs</id>
+        <link href="https://www.reddit.com/r/google/comments/ftanhs/holy_shit/" />
+        <updated>2020-04-01T22:56:52+00:00</updated>
+        <title>holy shit</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/raja777m</name>
+            <uri>https://www.reddit.com/user/raja777m</uri>
+        </author>
+        <category term="google" label="r/google"/>
+        <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/google/comments/fu86kg/gboard_acting_weird_stuttering_happening_since/&quot;&gt; &lt;img src=&quot;https://a.thumbs.redditmedia.com/8gGsUDjnyhVYb7_UY90BL3Apc_14Oke3S2xr3j8mwu4.jpg&quot; alt=&quot;GBoard acting weird. stuttering happening since yesterday.&quot; title=&quot;GBoard acting weird. stuttering happening since yesterday.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/raja777m&quot;&gt; /u/raja777m &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://v.redd.it/tbkv4n24llq41&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/fu86kg/gboard_acting_weird_stuttering_happening_since/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+        <id>t3_fu86kg</id>
+        <link href="https://www.reddit.com/r/google/comments/fu86kg/gboard_acting_weird_stuttering_happening_since/" />
+        <updated>2020-04-03T13:12:26+00:00</updated>
+        <title>GBoard acting weird. stuttering happening since yesterday.</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/HekBech</name>
+            <uri>https://www.reddit.com/user/HekBech</uri>
+        </author>
+        <category term="google" label="r/google"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Im using my phone and DroidCam and OBS to use my phone as a webcam but when i go into google meet/hangout the camera fails. If theres any questions about anything please ask me.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/HekBech&quot;&gt; /u/HekBech &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/fu6ii1/droidcam_and_obs_in_google_meet_not_working/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/fu6ii1/droidcam_and_obs_in_google_meet_not_working/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_fu6ii1</id>
+        <link href="https://www.reddit.com/r/google/comments/fu6ii1/droidcam_and_obs_in_google_meet_not_working/" />
+        <updated>2020-04-03T11:09:52+00:00</updated>
+        <title>DroidCam and OBS in Google Meet not working</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/headline-code</name>
+            <uri>https://www.reddit.com/user/headline-code</uri>
+        </author>
+        <category term="google" label="r/google"/>
+        <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/google/comments/fu5ndg/googles_alphabet_inc_to_allow_covid_ads_on_its/&quot;&gt; &lt;img src=&quot;https://b.thumbs.redditmedia.com/a5cFPDpEJnXoN3PJhHg06K8MkeT_dapGE1wyJITooFw.jpg&quot; alt=&quot;Google's Alphabet Inc to Allow COVID Ads on Its Websites&quot; title=&quot;Google's Alphabet Inc to Allow COVID Ads on Its Websites&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/headline-code&quot;&gt; /u/headline-code &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://headlinecode.com/googles-alphabet-inc-to-allow-covid-ads-on-its-websites/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/fu5ndg/googles_alphabet_inc_to_allow_covid_ads_on_its/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+        <id>t3_fu5ndg</id>
+        <link href="https://www.reddit.com/r/google/comments/fu5ndg/googles_alphabet_inc_to_allow_covid_ads_on_its/" />
+        <updated>2020-04-03T09:58:02+00:00</updated>
+        <title>Google's Alphabet Inc to Allow COVID Ads on Its Websites</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Reddevil313</name>
+            <uri>https://www.reddit.com/user/Reddevil313</uri>
+        </author>
+        <category term="google" label="r/google"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;m watching Goodellas today and the color is over saturated and the sound is just a few frames out of sync. It wasn&amp;#39;t always like that.&lt;/p&gt; &lt;p&gt;I purchased The Departed years ago and it played in letterbox in HD. Now it only plays a cropped, pan-and-scan version. &lt;/p&gt; &lt;p&gt;I see no options or settings to change this.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Reddevil313&quot;&gt; /u/Reddevil313 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/ftyjc1/i_think_im_done_buying_movies_on_google_play/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/ftyjc1/i_think_im_done_buying_movies_on_google_play/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_ftyjc1</id>
+        <link href="https://www.reddit.com/r/google/comments/ftyjc1/i_think_im_done_buying_movies_on_google_play/" />
+        <updated>2020-04-03T01:00:07+00:00</updated>
+        <title>I think I'm done buying movies on Google Play</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Cocksellent</name>
+            <uri>https://www.reddit.com/user/Cocksellent</uri>
+        </author>
+        <category term="google" label="r/google"/>
+        <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/google/comments/fu9p3a/guy_is_in_live_with_an_egirl/&quot;&gt; &lt;img src=&quot;https://b.thumbs.redditmedia.com/cCpHrDs7nY39itYXia557Y1y3SgN1YtMWrhIGEiiO2A.jpg&quot; alt=&quot;G-uy is in live with an E-girl&quot; title=&quot;G-uy is in live with an E-girl&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Cocksellent&quot;&gt; /u/Cocksellent &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/i6np1reo8mq41.png&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/fu9p3a/guy_is_in_live_with_an_egirl/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+        <id>t3_fu9p3a</id>
+        <link href="https://www.reddit.com/r/google/comments/fu9p3a/guy_is_in_live_with_an_egirl/" />
+        <updated>2020-04-03T14:48:33+00:00</updated>
+        <title>G-uy is in live with an E-girl</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/yayoshorti</name>
+            <uri>https://www.reddit.com/user/yayoshorti</uri>
+        </author>
+        <category term="google" label="r/google"/>
+        <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/google/comments/fu15l0/anybody_else_keep_randomly_getting_these_google/&quot;&gt; &lt;img src=&quot;https://b.thumbs.redditmedia.com/RjS2QbirrU2QbF3q9JmabWZCpz2bwLQeXbxXvJ5PZSI.jpg&quot; alt=&quot;Anybody else keep randomly getting these Google Assistant Headphones notifications? I don't know how to keep them from popping up.&quot; title=&quot;Anybody else keep randomly getting these Google Assistant Headphones notifications? I don't know how to keep them from popping up.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/yayoshorti&quot;&gt; /u/yayoshorti &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/18acs3ncziq41.png&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/fu15l0/anybody_else_keep_randomly_getting_these_google/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+        <id>t3_fu15l0</id>
+        <link href="https://www.reddit.com/r/google/comments/fu15l0/anybody_else_keep_randomly_getting_these_google/" />
+        <updated>2020-04-03T03:50:55+00:00</updated>
+        <title>Anybody else keep randomly getting these Google Assistant Headphones notifications? I don't know how to keep them from popping up.</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/ThreeSixty404</name>
+            <uri>https://www.reddit.com/user/ThreeSixty404</uri>
+        </author>
+        <category term="google" label="r/google"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I think in 2020 it&amp;#39;s about time to implement some sort of filtering function, filters defined by the user maybe. To me staying up to date on the latest news is very important, especially if they cover topics I really care about. For that reason I use Google Discover very often on my smartphone, it does a great job. Unfortunately it sometimes causes disasters. I don&amp;#39;t want to seem overdramatic but let&amp;#39;s be honest, nobody wants spoilers about their favorite series, a movie yet to be seen or whatever... Now, for some TV series and movies maybe you can deactivate feeds or stop using the app until you&amp;#39;ve seen them, but the situation is different for Animes since the Manga is usually ahead, so you could imagine what happens.&lt;/p&gt; &lt;p&gt;TL;DR: Let&amp;#39;s make Google understand that it&amp;#39;s time to introduce a filtering function for feeds to avoid spoilers...it is sad, really.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ThreeSixty404&quot;&gt; /u/ThreeSixty404 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/ftt4jr/google_feed_antispoiler_feature/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/ftt4jr/google_feed_antispoiler_feature/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_ftt4jr</id>
+        <link href="https://www.reddit.com/r/google/comments/ftt4jr/google_feed_antispoiler_feature/" />
+        <updated>2020-04-02T19:49:04+00:00</updated>
+        <title>Google Feed anti-spoiler feature</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Brandonblaze116</name>
+            <uri>https://www.reddit.com/user/Brandonblaze116</uri>
+        </author>
+        <category term="google" label="r/google"/>
+        <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/google/comments/fu1snd/oh_google_i/&quot;&gt; &lt;img src=&quot;https://b.thumbs.redditmedia.com/OlegUhs4WZXKfu5Rinby-SyiPg4gE5B9Yt0ZryM0Y7k.jpg&quot; alt=&quot;Oh Google, I-&quot; title=&quot;Oh Google, I-&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Brandonblaze116&quot;&gt; /u/Brandonblaze116 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/576ex3sc7jq41.jpg&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/fu1snd/oh_google_i/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+        <id>t3_fu1snd</id>
+        <link href="https://www.reddit.com/r/google/comments/fu1snd/oh_google_i/" />
+        <updated>2020-04-03T04:35:47+00:00</updated>
+        <title>Oh Google, I-</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/koavf</name>
+            <uri>https://www.reddit.com/user/koavf</uri>
+        </author>
+        <category term="google" label="r/google"/>
+        <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/google/comments/fu3w0d/how_google_ruined_the_internet_superhighway_98/&quot;&gt; &lt;img src=&quot;https://b.thumbs.redditmedia.com/FhyUCoUagF6166GxtVMtNgFacSpVQTmyeaSmGL37sRk.jpg&quot; alt=&quot;How Google Ruined the Internet — Superhighway 98&quot; title=&quot;How Google Ruined the Internet — Superhighway 98&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/koavf&quot;&gt; /u/koavf &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.superhighway98.com/google?2&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/fu3w0d/how_google_ruined_the_internet_superhighway_98/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+        <id>t3_fu3w0d</id>
+        <link href="https://www.reddit.com/r/google/comments/fu3w0d/how_google_ruined_the_internet_superhighway_98/" />
+        <updated>2020-04-03T07:23:20+00:00</updated>
+        <title>How Google Ruined the Internet — Superhighway 98</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/prat33k__</name>
+            <uri>https://www.reddit.com/user/prat33k__</uri>
+        </author>
+        <category term="google" label="r/google"/>
+        <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/google/comments/fu0jzq/not_sure_how_to_enhance_beauty_with_capscium_here/&quot;&gt; &lt;img src=&quot;https://b.thumbs.redditmedia.com/IVOfKD1Ea_jP40DM6u2vAxZj7b1UZZGtW4uMT6h65es.jpg&quot; alt=&quot;Not sure how to enhance Beauty with Capscium here.&quot; title=&quot;Not sure how to enhance Beauty with Capscium here.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/prat33k__&quot;&gt; /u/prat33k__ &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/pekwo9u5siq41.jpg&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/fu0jzq/not_sure_how_to_enhance_beauty_with_capscium_here/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+        <id>t3_fu0jzq</id>
+        <link href="https://www.reddit.com/r/google/comments/fu0jzq/not_sure_how_to_enhance_beauty_with_capscium_here/" />
+        <updated>2020-04-03T03:10:38+00:00</updated>
+        <title>Not sure how to enhance Beauty with Capscium here.</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Burstar1</name>
+            <uri>https://www.reddit.com/user/Burstar1</uri>
+        </author>
+        <category term="google" label="r/google"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I want to search for recipes that use the ingredient &amp;quot;pizza yeast&amp;quot; without listing a billion pizza recipes.&lt;/p&gt; &lt;p&gt;How would I do this?&lt;/p&gt; &lt;p&gt;My thought was:&lt;/p&gt; &lt;p&gt;&amp;quot;pizza yeast&amp;quot; recipe -pizza&lt;/p&gt; &lt;p&gt;but this produces no results, and I&amp;#39;m sure this is a syntax error (I get that -pizza invalidates the &amp;quot;pizza yeast&amp;quot;)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Burstar1&quot;&gt; /u/Burstar1 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/fttdck/search_phrase_avoiding_subcomponent_of_phrase/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/fttdck/search_phrase_avoiding_subcomponent_of_phrase/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_fttdck</id>
+        <link href="https://www.reddit.com/r/google/comments/fttdck/search_phrase_avoiding_subcomponent_of_phrase/" />
+        <updated>2020-04-02T20:01:56+00:00</updated>
+        <title>Search phrase avoiding sub-component of phrase</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/MuddaxxirKhan</name>
+            <uri>https://www.reddit.com/user/MuddaxxirKhan</uri>
+        </author>
+        <category term="google" label="r/google"/>
+        <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/google/comments/fttb0h/google_releases_android_11_developer_preview_21/&quot;&gt; &lt;img src=&quot;https://b.thumbs.redditmedia.com/jQAsKoD53ukpNHPpDQcloOtqUI2gY9NoR0C02-eYDZA.jpg&quot; alt=&quot;Google releases Android 11 Developer Preview 2.1 with bug fixes&quot; title=&quot;Google releases Android 11 Developer Preview 2.1 with bug fixes&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MuddaxxirKhan&quot;&gt; /u/MuddaxxirKhan &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.dailytend.com/2020/04/02/google-releases-android-11-developer-preview-2-1-with-bug-fixes/11821/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/fttb0h/google_releases_android_11_developer_preview_21/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+        <id>t3_fttb0h</id>
+        <link href="https://www.reddit.com/r/google/comments/fttb0h/google_releases_android_11_developer_preview_21/" />
+        <updated>2020-04-02T19:58:32+00:00</updated>
+        <title>Google releases Android 11 Developer Preview 2.1 with bug fixes</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/SkippyVORE</name>
+            <uri>https://www.reddit.com/user/SkippyVORE</uri>
+        </author>
+        <category term="google" label="r/google"/>
+        <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/google/comments/ftz0rp/help_i_cant_change_my_username_on_google/&quot;&gt; &lt;img src=&quot;https://b.thumbs.redditmedia.com/YC69j-nJUBubSKz_pGig8kYOlB8lkVG_7BktxzTmhnU.jpg&quot; alt=&quot;Help I can’t change my username on google&quot; title=&quot;Help I can’t change my username on google&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/SkippyVORE&quot;&gt; /u/SkippyVORE &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/8rq9cp3eaiq41.jpg&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/ftz0rp/help_i_cant_change_my_username_on_google/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+        <id>t3_ftz0rp</id>
+        <link href="https://www.reddit.com/r/google/comments/ftz0rp/help_i_cant_change_my_username_on_google/" />
+        <updated>2020-04-03T01:31:03+00:00</updated>
+        <title>Help I can’t change my username on google</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/mati2110</name>
+            <uri>https://www.reddit.com/user/mati2110</uri>
+        </author>
+        <category term="google" label="r/google"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;at least for me, this change makes gDrive useless for my daily work&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://gsuiteupdates.googleblog.com/2020/03/shortcuts-for-google-drive.html&quot;&gt;https://gsuiteupdates.googleblog.com/2020/03/shortcuts-for-google-drive.html&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/mati2110&quot;&gt; /u/mati2110 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/ftrwbg/google_drive_add_to_my_drive_changed_to_add/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/ftrwbg/google_drive_add_to_my_drive_changed_to_add/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_ftrwbg</id>
+        <link href="https://www.reddit.com/r/google/comments/ftrwbg/google_drive_add_to_my_drive_changed_to_add/" />
+        <updated>2020-04-02T18:41:57+00:00</updated>
+        <title>Google Drive “add to my drive” changed to &quot;add shortcut to my drive&quot;</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/MuddaxxirKhan</name>
+            <uri>https://www.reddit.com/user/MuddaxxirKhan</uri>
+        </author>
+        <category term="google" label="r/google"/>
+        <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/google/comments/ftsece/google_is_shutting_down_its_crowdsourced_qa_app/&quot;&gt; &lt;img src=&quot;https://b.thumbs.redditmedia.com/enhQovxoc_aP-pK4vWBf3fJMTO6NWCFfXcWvrcbpTbY.jpg&quot; alt=&quot;Google is shutting down its crowdsourced Q&amp;amp;A app Neighbourly in May&quot; title=&quot;Google is shutting down its crowdsourced Q&amp;amp;A app Neighbourly in May&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MuddaxxirKhan&quot;&gt; /u/MuddaxxirKhan &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.dailytend.com/2020/04/03/google-is-shutting-down-its-crowdsourced-qa-app-neighbourly-in-may/11844/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/google/comments/ftsece/google_is_shutting_down_its_crowdsourced_qa_app/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+        <id>t3_ftsece</id>
+        <link href="https://www.reddit.com/r/google/comments/ftsece/google_is_shutting_down_its_crowdsourced_qa_app/" />
+        <updated>2020-04-02T19:08:56+00:00</updated>
+        <title>Google is shutting down its crowdsourced Q&amp;A app Neighbourly in May</title>
+    </entry>
+</feed>
