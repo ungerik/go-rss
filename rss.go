@@ -1,6 +1,7 @@
 package rss
 
 import (
+	"context"
 	"crypto/tls"
 	"fmt"
 	"net/http"
@@ -11,7 +12,7 @@ const wordpressDateFormat = "Mon, 02 Jan 2006 15:04:05 -0700"
 
 // Fetcher interface
 type Fetcher interface {
-	Get(url string) (resp *http.Response, err error)
+	Get(ctx context.Context, url string) (resp *http.Response, err error)
 }
 
 // Date type
@@ -53,29 +54,29 @@ func (d Date) MustFormat(format string) string {
 }
 
 // Read a string url and returns a Channel struct, error
-func Read(url string, reddit bool) (*http.Response, error) {
-	return ReadWithClient(url, http.DefaultClient, reddit)
+func Read(ctx context.Context, url string, reddit bool) (*http.Response, error) {
+	return ReadWithClient(ctx, url, http.DefaultClient, reddit)
 }
 
 // InsecureRead reads without certificate check
-func InsecureRead(url string, reddit bool) (*http.Response, error) {
+func InsecureRead(ctx context.Context, url string, reddit bool) (*http.Response, error) {
 	tr := &http.Transport{
 		TLSClientConfig: &tls.Config{InsecureSkipVerify: true},
 	}
 	client := &http.Client{Transport: tr}
 
-	return ReadWithClient(url, client, reddit)
+	return ReadWithClient(ctx, url, client, reddit)
 }
 
 // ReadWithClient a string url and custom client that must match the Fetcher interface
 // returns a Channel struct, error
-func ReadWithClient(url string, client *http.Client, reddit bool) (*http.Response, error) {
+func ReadWithClient(ctx context.Context, url string, client *http.Client, reddit bool) (*http.Response, error) {
 	// Basic URL validation
 	if url == "" {
 		return nil, fmt.Errorf("URL cannot be empty")
 	}
 
-	req, err := http.NewRequest("GET", url, nil)
+	req, err := http.NewRequestWithContext(ctx, "GET", url, nil)
 	if err != nil {
 		return nil, fmt.Errorf("failed to create request: %w", err)
 	}

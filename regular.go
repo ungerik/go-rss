@@ -1,13 +1,14 @@
 package rss
 
 import (
+	"context"
 	"encoding/xml"
 	"net/http"
 
 	"github.com/paulrosania/go-charset/charset"
 )
 
-//Channel struct for RSS
+// Channel struct for RSS
 type Channel struct {
 	Title         string `xml:"title"`
 	Link          string `xml:"link"`
@@ -17,13 +18,13 @@ type Channel struct {
 	Item          []Item `xml:"item"`
 }
 
-//ItemEnclosure struct for each Item Enclosure
+// ItemEnclosure struct for each Item Enclosure
 type ItemEnclosure struct {
 	URL  string `xml:"url,attr"`
 	Type string `xml:"type,attr"`
 }
 
-//Item struct for each Item in the Channel
+// Item struct for each Item in the Channel
 type Item struct {
 	Title       string          `xml:"title"`
 	Link        string          `xml:"link"`
@@ -38,9 +39,17 @@ type Item struct {
 	FullText    string          `xml:"full-text"`
 }
 
-//Regular parses regular feeds
-func Regular(resp *http.Response) (*Channel, error) {
+// Regular parses regular feeds
+func Regular(ctx context.Context, resp *http.Response) (*Channel, error) {
 	defer resp.Body.Close()
+
+	// Check if context is cancelled before starting
+	select {
+	case <-ctx.Done():
+		return nil, ctx.Err()
+	default:
+	}
+
 	xmlDecoder := xml.NewDecoder(resp.Body)
 	xmlDecoder.CharsetReader = charset.NewReader
 
