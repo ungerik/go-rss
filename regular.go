@@ -8,38 +8,85 @@ import (
 	"github.com/paulrosania/go-charset/charset"
 )
 
-// Channel struct for RSS
+// Channel represents an RSS channel containing metadata and items.
+// It follows the RSS 2.0 specification structure.
 type Channel struct {
-	Title         string `xml:"title"`
-	Link          string `xml:"link"`
-	Description   string `xml:"description"`
-	Language      string `xml:"language"`
-	LastBuildDate Date   `xml:"lastBuildDate"`
-	Item          []Item `xml:"item"`
+	// Title is the name of the channel
+	Title string `xml:"title"`
+
+	// Link is the URL to the HTML website corresponding to the channel
+	Link string `xml:"link"`
+
+	// Description is a phrase or sentence describing the channel
+	Description string `xml:"description"`
+
+	// Language is the language the channel is written in
+	Language string `xml:"language"`
+
+	// LastBuildDate indicates the last time the content of the channel changed
+	LastBuildDate Date `xml:"lastBuildDate"`
+
+	// Item is a slice of items in the channel
+	Item []Item `xml:"item"`
 }
 
-// ItemEnclosure struct for each Item Enclosure
+// ItemEnclosure represents an enclosure element in an RSS item.
+// Enclosures are used to include media files with RSS items.
 type ItemEnclosure struct {
-	URL  string `xml:"url,attr"`
+	// URL is the location of the enclosed file
+	URL string `xml:"url,attr"`
+
+	// Type is the MIME type of the enclosed file
 	Type string `xml:"type,attr"`
 }
 
-// Item struct for each Item in the Channel
+// Item represents a single item in an RSS channel.
+// Each item typically represents a story, article, or other piece of content.
 type Item struct {
-	Title       string          `xml:"title"`
-	Link        string          `xml:"link"`
-	Comments    string          `xml:"comments"`
-	PubDate     Date            `xml:"pubDate"`
-	GUID        string          `xml:"guid"`
-	Category    []string        `xml:"category"`
-	Enclosure   []ItemEnclosure `xml:"enclosure"`
-	Description string          `xml:"description"`
-	Author      string          `xml:"author"`
-	Content     string          `xml:"content"`
-	FullText    string          `xml:"full-text"`
+	// Title is the title of the item
+	Title string `xml:"title"`
+
+	// Link is the URL of the item
+	Link string `xml:"link"`
+
+	// Comments is the URL of a page for comments relating to the item
+	Comments string `xml:"comments"`
+
+	// PubDate is the publication date of the item
+	PubDate Date `xml:"pubDate"`
+
+	// GUID is a string that uniquely identifies the item
+	GUID string `xml:"guid"`
+
+	// Category is a list of categories that the item belongs to
+	Category []string `xml:"category"`
+
+	// Enclosure is a list of media files associated with the item
+	Enclosure []ItemEnclosure `xml:"enclosure"`
+
+	// Description is a synopsis of the item
+	Description string `xml:"description"`
+
+	// Author is the email address of the author of the item
+	Author string `xml:"author"`
+
+	// Content is the full content of the item (if available)
+	Content string `xml:"content"`
+
+	// FullText is the complete text content of the item
+	FullText string `xml:"full-text"`
 }
 
-// Regular parses regular feeds
+// Regular parses an RSS 2.0 feed from an HTTP response.
+// It expects the response body to contain valid RSS XML.
+// The context is used for cancellation control during parsing.
+//
+// The function automatically handles character encoding detection and conversion
+// using the go-charset library, supporting various encodings commonly found
+// in RSS feeds.
+//
+// Returns a Channel struct containing the parsed RSS data and any error that occurred.
+// The response body is automatically closed after parsing.
 func Regular(ctx context.Context, resp *http.Response) (*Channel, error) {
 	defer resp.Body.Close()
 

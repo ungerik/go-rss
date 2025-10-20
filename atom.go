@@ -8,19 +8,36 @@ import (
 	"github.com/paulrosania/go-charset/charset"
 )
 
-// Feed struct for RSS
+// Feed represents an Atom feed containing entries.
+// It follows the Atom 1.0 specification structure.
 type Feed struct {
+	// Entry is a slice of entries in the feed
 	Entry []Entry `xml:"entry"`
 }
 
-// Entry struct for each Entry in the Feed
+// Entry represents a single entry in an Atom feed.
+// Each entry typically represents a blog post, article, or other piece of content.
 type Entry struct {
-	ID      string `xml:"id"`
-	Title   string `xml:"title"`
+	// ID is a permanent, universally unique identifier for the entry
+	ID string `xml:"id"`
+
+	// Title is the title of the entry
+	Title string `xml:"title"`
+
+	// Updated is the time when the entry was last modified
 	Updated string `xml:"updated"`
 }
 
-// Atom parses atom feeds
+// Atom parses an Atom 1.0 feed from an HTTP response.
+// It expects the response body to contain valid Atom XML.
+// The context is used for cancellation control during parsing.
+//
+// The function automatically handles character encoding detection and conversion
+// using the go-charset library, supporting various encodings commonly found
+// in Atom feeds.
+//
+// Returns a Feed struct containing the parsed Atom data and any error that occurred.
+// The response body is automatically closed after parsing.
 func Atom(ctx context.Context, resp *http.Response) (*Feed, error) {
 	defer resp.Body.Close()
 
