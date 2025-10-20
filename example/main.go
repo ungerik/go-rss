@@ -26,7 +26,8 @@ func main() {
 
 		u, err := url.Parse(stringURL)
 		if err != nil {
-			panic(err)
+			fmt.Printf("Error parsing URL %s: %v\n", stringURL, err)
+			continue
 		}
 
 		fmt.Println("\n" + u.Host)

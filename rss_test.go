@@ -2,7 +2,6 @@ package rss
 
 import (
 	"fmt"
-	"io/ioutil"
 	"net/http"
 	"os"
 	"path/filepath"
@@ -33,9 +32,9 @@ func (f *testFetcher) Get(url string) (resp *http.Response, err error) {
 // A trivial test making sure that that all feeds parse - it *does not* check
 // for correctness or completeness thereof, except for dates.
 func TestAllFeedsParse(t *testing.T) {
-	fileInfos, err := ioutil.ReadDir(testDataDir)
+	fileInfos, err := os.ReadDir(testDataDir)
 	if err != nil {
-		t.Fatalf("ioutil.ReadDir(%q) err = %v, expected nil", testDataDir, err)
+		t.Fatalf("os.ReadDir(%q) err = %v, expected nil", testDataDir, err)
 	}
 	for _, fileInfo := range fileInfos {
 		fileName := fileInfo.Name()
@@ -43,7 +42,12 @@ func TestAllFeedsParse(t *testing.T) {
 			continue
 		}
 
-		resp, err := ReadWithClient(fileName, new(testFetcher))
+		// Create a test client that uses our testFetcher
+		client := &http.Client{
+			Transport: &testTransport{},
+		}
+
+		resp, err := ReadWithClient(fileName, client, false)
 		if err != nil {
 			t.Fatalf("ReadWithClient(%q) err = %v, expected nil", fileName, err)
 		}
@@ -59,4 +63,19 @@ func TestAllFeedsParse(t *testing.T) {
 			}
 		}
 	}
+}
+
+// testTransport implements http.RoundTripper to read from local files
+type testTransport struct{}
+
+func (t *testTransport) RoundTrip(req *http.Request) (*http.Response, error) {
+	file, err := os.Open(filepath.Join(testDataDir, req.URL.Path))
+	if err != nil {
+		return nil, err
+	}
+	return &http.Response{
+		Body:       file,
+		StatusCode: 200,
+		Status:     "200 OK",
+	}, nil
 }
