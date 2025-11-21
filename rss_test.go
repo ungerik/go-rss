@@ -422,3 +422,274 @@ func (t *testTransport) RoundTrip(req *http.Request) (*http.Response, error) {
 		Status:     "200 OK",
 	}, nil
 }
+
+// TestParseRegularWithFileReader tests ParseRegular with a file reader
+func TestParseRegularWithFileReader(t *testing.T) {
+	ctx := context.Background()
+
+	file, err := os.Open(filepath.Join(testDataDir, "techcrunch.rss"))
+	if err != nil {
+		t.Fatalf("Failed to open test file: %v", err)
+	}
+	defer file.Close()
+
+	channel, err := ParseRegular(ctx, file)
+	if err != nil {
+		t.Fatalf("ParseRegular failed: %v", err)
+	}
+
+	if channel.Title == "" {
+		t.Error("Channel title is empty")
+	}
+
+	if len(channel.Item) == 0 {
+		t.Error("Channel has no items")
+	}
+
+	// Verify items have expected fields
+	for i, item := range channel.Item {
+		if item.Title == "" {
+			t.Errorf("Item %d has empty title", i)
+		}
+	}
+}
+
+// TestParseRegularWithStringReader tests ParseRegular with a string reader
+func TestParseRegularWithStringReader(t *testing.T) {
+	ctx := context.Background()
+
+	rssData := `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Test Channel</title>
+		<link>http://example.com</link>
+		<description>Test Description</description>
+		<item>
+			<title>Test Item</title>
+			<link>http://example.com/item1</link>
+			<description>Test item description</description>
+			<pubDate>Mon, 01 Jan 2024 12:00:00 +0000</pubDate>
+		</item>
+	</channel>
+</rss>`
+
+	reader := strings.NewReader(rssData)
+	channel, err := ParseRegular(ctx, reader)
+	if err != nil {
+		t.Fatalf("ParseRegular failed: %v", err)
+	}
+
+	if channel.Title != "Test Channel" {
+		t.Errorf("Expected title 'Test Channel', got '%s'", channel.Title)
+	}
+
+	if channel.Link != "http://example.com" {
+		t.Errorf("Expected link 'http://example.com', got '%s'", channel.Link)
+	}
+
+	if len(channel.Item) != 1 {
+		t.Fatalf("Expected 1 item, got %d", len(channel.Item))
+	}
+
+	if channel.Item[0].Title != "Test Item" {
+		t.Errorf("Expected item title 'Test Item', got '%s'", channel.Item[0].Title)
+	}
+}
+
+// TestParseRegularContextCancellation tests ParseRegular with cancelled context
+func TestParseRegularContextCancellation(t *testing.T) {
+	ctx, cancel := context.WithCancel(context.Background())
+	cancel() // Cancel immediately
+
+	rssData := `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Test Channel</title>
+	</channel>
+</rss>`
+
+	reader := strings.NewReader(rssData)
+	_, err := ParseRegular(ctx, reader)
+	if err == nil {
+		t.Fatal("Expected error due to cancelled context, got nil")
+	}
+
+	if err != context.Canceled {
+		t.Errorf("Expected context.Canceled, got %v", err)
+	}
+}
+
+// TestParseRegularInvalidXML tests ParseRegular with invalid XML
+func TestParseRegularInvalidXML(t *testing.T) {
+	ctx := context.Background()
+
+	invalidData := "This is not valid XML"
+	reader := strings.NewReader(invalidData)
+
+	_, err := ParseRegular(ctx, reader)
+	if err == nil {
+		t.Fatal("Expected error for invalid XML, got nil")
+	}
+}
+
+// TestParseAtomWithFileReader tests ParseAtom with a file reader
+func TestParseAtomWithFileReader(t *testing.T) {
+	ctx := context.Background()
+
+	file, err := os.Open(filepath.Join(testDataDir, "reddit.rss"))
+	if err != nil {
+		t.Fatalf("Failed to open test file: %v", err)
+	}
+	defer file.Close()
+
+	feed, err := ParseAtom(ctx, file)
+	if err != nil {
+		t.Fatalf("ParseAtom failed: %v", err)
+	}
+
+	if len(feed.Entry) == 0 {
+		t.Error("Feed has no entries")
+	}
+
+	// Verify entries have expected fields
+	for i, entry := range feed.Entry {
+		if entry.Title == "" {
+			t.Errorf("Entry %d has empty title", i)
+		}
+	}
+}
+
+// TestParseAtomWithStringReader tests ParseAtom with a string reader
+func TestParseAtomWithStringReader(t *testing.T) {
+	ctx := context.Background()
+
+	atomData := `<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<entry>
+		<id>1</id>
+		<title>Test Entry</title>
+		<updated>2024-01-01T12:00:00Z</updated>
+	</entry>
+	<entry>
+		<id>2</id>
+		<title>Another Entry</title>
+		<updated>2024-01-02T12:00:00Z</updated>
+	</entry>
+</feed>`
+
+	reader := strings.NewReader(atomData)
+	feed, err := ParseAtom(ctx, reader)
+	if err != nil {
+		t.Fatalf("ParseAtom failed: %v", err)
+	}
+
+	if len(feed.Entry) != 2 {
+		t.Fatalf("Expected 2 entries, got %d", len(feed.Entry))
+	}
+
+	if feed.Entry[0].Title != "Test Entry" {
+		t.Errorf("Expected entry title 'Test Entry', got '%s'", feed.Entry[0].Title)
+	}
+
+	if feed.Entry[0].ID != "1" {
+		t.Errorf("Expected entry ID '1', got '%s'", feed.Entry[0].ID)
+	}
+
+	if feed.Entry[1].Title != "Another Entry" {
+		t.Errorf("Expected entry title 'Another Entry', got '%s'", feed.Entry[1].Title)
+	}
+}
+
+// TestParseAtomContextCancellation tests ParseAtom with cancelled context
+func TestParseAtomContextCancellation(t *testing.T) {
+	ctx, cancel := context.WithCancel(context.Background())
+	cancel() // Cancel immediately
+
+	atomData := `<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<entry>
+		<id>1</id>
+		<title>Test Entry</title>
+	</entry>
+</feed>`
+
+	reader := strings.NewReader(atomData)
+	_, err := ParseAtom(ctx, reader)
+	if err == nil {
+		t.Fatal("Expected error due to cancelled context, got nil")
+	}
+
+	if err != context.Canceled {
+		t.Errorf("Expected context.Canceled, got %v", err)
+	}
+}
+
+// TestParseAtomInvalidXML tests ParseAtom with invalid XML
+func TestParseAtomInvalidXML(t *testing.T) {
+	ctx := context.Background()
+
+	invalidData := "This is not valid XML"
+	reader := strings.NewReader(invalidData)
+
+	_, err := ParseAtom(ctx, reader)
+	if err == nil {
+		t.Fatal("Expected error for invalid XML, got nil")
+	}
+}
+
+// TestParseRegularAllTestFiles tests ParseRegular with all test RSS files
+func TestParseRegularAllTestFiles(t *testing.T) {
+	ctx := context.Background()
+
+	// Test files that are RSS format (not Atom)
+	rssFiles := []string{"techcrunch.rss", "podcast.rss", "wordpress.rss", "remoteok.io.rss"}
+
+	for _, filename := range rssFiles {
+		t.Run(filename, func(t *testing.T) {
+			file, err := os.Open(filepath.Join(testDataDir, filename))
+			if err != nil {
+				t.Skipf("Test file not found: %s", filename)
+				return
+			}
+			defer file.Close()
+
+			channel, err := ParseRegular(ctx, file)
+			if err != nil {
+				t.Fatalf("ParseRegular failed for %s: %v", filename, err)
+			}
+
+			// Just verify we got a valid channel - some feeds may have empty titles
+			if channel == nil {
+				t.Errorf("ParseRegular returned nil channel for %s", filename)
+			}
+		})
+	}
+}
+
+// TestParseAtomAllTestFiles tests ParseAtom with all test Atom files
+func TestParseAtomAllTestFiles(t *testing.T) {
+	ctx := context.Background()
+
+	// Test files that are Atom format
+	atomFiles := []string{"reddit.rss", "reddit-google.rss"}
+
+	for _, filename := range atomFiles {
+		t.Run(filename, func(t *testing.T) {
+			file, err := os.Open(filepath.Join(testDataDir, filename))
+			if err != nil {
+				t.Skipf("Test file not found: %s", filename)
+				return
+			}
+			defer file.Close()
+
+			feed, err := ParseAtom(ctx, file)
+			if err != nil {
+				t.Fatalf("ParseAtom failed for %s: %v", filename, err)
+			}
+
+			if len(feed.Entry) == 0 {
+				t.Errorf("Feed has no entries for %s", filename)
+			}
+		})
+	}
+}

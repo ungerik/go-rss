@@ -3,6 +3,7 @@ package rss
 import (
 	"context"
 	"encoding/xml"
+	"io"
 	"net/http"
 
 	"github.com/paulrosania/go-charset/charset"
@@ -77,6 +78,36 @@ type Item struct {
 	FullText string `xml:"full-text"`
 }
 
+// ParseRegular parses an RSS 2.0 feed from an io.Reader.
+// It expects the reader to contain valid RSS XML.
+// The context is used for cancellation control during parsing.
+//
+// The function automatically handles character encoding detection and conversion
+// using the go-charset library, supporting various encodings commonly found
+// in RSS feeds.
+//
+// Returns a Channel struct containing the parsed RSS data and any error that occurred.
+// The reader is not closed by this function; the caller is responsible for closing it.
+func ParseRegular(ctx context.Context, r io.Reader) (*Channel, error) {
+	// Check if context is cancelled before starting
+	select {
+	case <-ctx.Done():
+		return nil, ctx.Err()
+	default:
+	}
+
+	xmlDecoder := xml.NewDecoder(r)
+	xmlDecoder.CharsetReader = charset.NewReader
+
+	var rss struct {
+		Channel Channel `xml:"channel"`
+	}
+	if err := xmlDecoder.Decode(&rss); err != nil {
+		return nil, err
+	}
+	return &rss.Channel, nil
+}
+
 // Regular parses an RSS 2.0 feed from an HTTP response.
 // It expects the response body to contain valid RSS XML.
 // The context is used for cancellation control during parsing.
@@ -89,22 +120,5 @@ type Item struct {
 // The response body is automatically closed after parsing.
 func Regular(ctx context.Context, resp *http.Response) (*Channel, error) {
 	defer resp.Body.Close()
-
-	// Check if context is cancelled before starting
-	select {
-	case <-ctx.Done():
-		return nil, ctx.Err()
-	default:
-	}
-
-	xmlDecoder := xml.NewDecoder(resp.Body)
-	xmlDecoder.CharsetReader = charset.NewReader
-
-	var rss struct {
-		Channel Channel `xml:"channel"`
-	}
-	if err := xmlDecoder.Decode(&rss); err != nil {
-		return nil, err
-	}
-	return &rss.Channel, nil
+	return ParseRegular(ctx, resp.Body)
 }
