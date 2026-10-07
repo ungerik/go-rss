@@ -290,6 +290,9 @@ func TestDateParsing(t *testing.T) {
 		{"RFC3339 format", "2006-01-02T15:04:05Z", true},
 		{"WordPress format", "Mon, 02 Jan 2006 15:04:05 -0700", true},
 		{"Invalid format", "not a date", false},
+		{"Empty date", "", false},
+		{"Invalid named zone date", "Tue, 31 Feb 2006 15:04:05 GMT", false},
+		{"Invalid numeric zone date", "31 Feb 06 15:04 +0530", false},
 	}
 
 	for _, tc := range testCases {
@@ -302,6 +305,40 @@ func TestDateParsing(t *testing.T) {
 			}
 			if !tc.expected && err == nil {
 				t.Errorf("Expected parsing to fail for %s, but it succeeded", tc.dateStr)
+			}
+		})
+	}
+}
+
+func TestRSSDateFormats(t *testing.T) {
+	testCases := []struct {
+		name string
+		date Date
+		want string
+	}{
+		{"RSS channel example", "Sat, 07 Sep 2002 00:00:01 GMT", "2002-09-07T00:00:01Z"},
+		{"RSS item example", "Sun, 19 May 2002 15:21:36 GMT", "2002-05-19T15:21:36Z"},
+		{"Positive numeric offset", "02 Jan 06 15:04 +0530", "2006-01-02T15:04:00+05:30"},
+		{"Negative numeric offset", "02 Jan 06 15:04 -0700", "2006-01-02T15:04:00-07:00"},
+		{"RFC822 named zone", "02 Jan 06 15:04 GMT", "2006-01-02T15:04:00Z"},
+		{"WordPress", "Mon, 02 Jan 2006 15:04:05 -0700", "2006-01-02T15:04:05-07:00"},
+		{"Atom", "2006-01-02T15:04:05Z", "2006-01-02T15:04:05Z"},
+	}
+	for _, tc := range testCases {
+		t.Run(tc.name, func(t *testing.T) {
+			parsed, err := tc.date.Parse()
+			if err != nil {
+				t.Fatal(err)
+			}
+			if got := parsed.Format(time.RFC3339); got != tc.want {
+				t.Errorf("Parse() = %q, want %q", got, tc.want)
+			}
+			formatted, err := tc.date.Format(time.RFC3339)
+			if err != nil {
+				t.Fatal(err)
+			}
+			if formatted != tc.want {
+				t.Errorf("Format() = %q, want %q", formatted, tc.want)
 			}
 		})
 	}
