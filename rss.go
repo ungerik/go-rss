@@ -47,16 +47,19 @@ type Date string
 // Parse attempts to parse the date string using multiple common formats.
 // It tries formats in the following order:
 // 1. WordPress format (Mon, 02 Jan 2006 15:04:05 -0700)
-// 2. RFC822 format (RSS 2.0 standard)
-// 3. RFC3339 format (Atom standard)
+// 2. RFC822 format with a named zone
+// 3. RFC1123 format with a named zone
+// 4. RFC822 format with a numeric zone
+// 5. RFC3339 format (Atom standard)
 //
 // Returns the parsed time and any error that occurred.
 func (d Date) Parse() (time.Time, error) {
-	t, err := d.ParseWithFormat(wordpressDateFormat)
-	if err != nil {
-		t, err = d.ParseWithFormat(time.RFC822) // RSS 2.0 spec
-		if err != nil {
-			t, err = d.ParseWithFormat(time.RFC3339) // Atom
+	var t time.Time
+	var err error
+	for _, format := range []string{wordpressDateFormat, time.RFC822, time.RFC1123, time.RFC822Z, time.RFC3339} {
+		t, err = d.ParseWithFormat(format)
+		if err == nil {
+			return t, nil
 		}
 	}
 	return t, err
